@@ -1,0 +1,173 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f9f8f6;
+  --surface: #ffffff;
+  --text: #1c1c1c;
+  --mid: #555;
+  --light: #999;
+  --accent: #c87941;
+  --border: #e4e1db;
+  --max: 720px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Layout ── */
+header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: var(--max);
+  margin: 0 auto;
+}
+
+.wordmark {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text);
+}
+.wordmark:hover { color: var(--accent); text-decoration: none; }
+
+nav { display: flex; gap: 24px; }
+nav a { font-size: 14px; color: var(--mid); }
+nav a:hover { color: var(--text); text-decoration: none; }
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 64px 24px;
+}
+
+footer {
+  border-top: 1px solid var(--border);
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 24px;
+  font-size: 13px;
+  color: var(--light);
+}
+
+/* ── Home ── */
+.home-intro { margin-bottom: 56px; }
+.home-intro h1 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-bottom: 18px;
+}
+.home-intro p {
+  font-size: 18px;
+  color: var(--mid);
+  max-width: 520px;
+  line-height: 1.7;
+}
+
+.section-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--light);
+  margin-bottom: 16px;
+}
+
+.tag-list { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 48px; }
+.tag {
+  font-size: 13px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 14px;
+  color: var(--mid);
+}
+
+/* ── Projects list ── */
+.projects-grid { display: flex; flex-direction: column; gap: 8px; }
+
+.project-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 24px;
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.project-card:hover { border-color: var(--accent); text-decoration: none; }
+.project-card h2 { font-size: 17px; font-weight: 600; margin-bottom: 6px; }
+.project-card p { font-size: 14px; color: var(--mid); line-height: 1.5; }
+.project-card .card-meta {
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--light);
+}
+
+/* ── App page ── */
+.breadcrumb { font-size: 13px; color: var(--light); margin-bottom: 20px; }
+.breadcrumb a { color: var(--light); }
+.breadcrumb a:hover { color: var(--mid); }
+
+.app-header { margin-bottom: 52px; }
+.app-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 10px;
+}
+.app-header p { font-size: 16px; color: var(--mid); max-width: 480px; line-height: 1.65; }
+
+.app-section { margin-bottom: 48px; }
+.app-section h2 { font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--light); margin-bottom: 16px; }
+
+.download-btns { display: flex; gap: 12px; flex-wrap: wrap; }
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--text);
+  color: #fff;
+  border-radius: 10px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: opacity 0.15s;
+}
+.download-btn:hover { opacity: 0.75; text-decoration: none; color: #fff; }
+
+.video-placeholder {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--light);
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.callout {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+  padding: 18px 20px;
+}
+.callout p { font-size: 14px; color: var(--mid); line-height: 1.6; }
