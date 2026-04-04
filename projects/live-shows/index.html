@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Live Show Tracker — Victoria & Nanaimo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <span class="logo">Live Show Tracker</span>
+  <div class="header-actions">
+    <div class="city-filter" id="city-filter">
+      <button class="filter-btn active" data-city="all">All</button>
+      <button class="filter-btn" data-city="Victoria">Victoria</button>
+      <button class="filter-btn" data-city="Nanaimo">Nanaimo</button>
+    </div>
+    <div class="view-toggle">
+      <button class="toggle-btn active" id="btn-cal" data-view="cal">Cal</button>
+      <button class="toggle-btn" id="btn-list" data-view="list">List</button>
+      <button class="toggle-btn" id="btn-map" data-view="map">Map</button>
+    </div>
+  </div>
+</header>
+
+<!-- Calendar view -->
+<div id="cal-view" class="main-view active">
+  <div class="week-col-headers">
+    <div class="wch-cell">Mon</div>
+    <div class="wch-cell">Tue</div>
+    <div class="wch-cell">Wed</div>
+    <div class="wch-cell">Thu</div>
+    <div class="wch-cell weekend">Fri</div>
+    <div class="wch-cell weekend">Sat</div>
+    <div class="wch-cell weekend">Sun</div>
+  </div>
+  <div id="cal-body"></div>
+</div>
+
+<!-- List view -->
+<div id="list-view" class="main-view">
+  <div id="list-body"></div>
+</div>
+
+<!-- Map view -->
+<div id="map-view" class="main-view">
+  <div class="map-placeholder">
+    <div class="map-placeholder-inner">
+      <div class="map-icon">◉</div>
+      <div class="map-label">Map view coming soon</div>
+      <div class="map-sub">Will show events for the date range you're viewing</div>
+    </div>
+  </div>
+</div>
+
+<!-- Day detail panel -->
+<div id="day-panel" class="day-panel" aria-hidden="true">
+  <div class="day-panel-header">
+    <button class="day-back-btn" id="day-back">← Calendar</button>
+    <div class="day-nav-group">
+      <button class="day-nav-btn" id="day-prev">‹ Prev</button>
+      <span class="day-panel-title" id="day-panel-title"></span>
+      <button class="day-nav-btn" id="day-next">Next ›</button>
+    </div>
+    <button class="day-close-btn" id="day-close">✕</button>
+  </div>
+  <div class="bubble-grid" id="bubble-grid"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
