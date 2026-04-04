@@ -201,150 +201,165 @@ function renderCalendar() {
   body.innerHTML = '';
 
   let lastMonth = -1;
-  let firstMonth = true;
+
+  function insertMonthLabel(d) {
+    const m = d.getMonth();
+    if (m === lastMonth) return;
+    if (lastMonth !== -1) {
+      const brk = document.createElement('div');
+      brk.className = 'month-break';
+      body.appendChild(brk);
+    }
+    lastMonth = m;
+    const ml = document.createElement('div');
+    ml.className = 'month-label';
+    ml.textContent = fmtMonth(d);
+    body.appendChild(ml);
+  }
+
+  function makeBlankCol(i) {
+    const col = document.createElement('div');
+    col.className = 'day-col out-of-month ' + (i >= 4 ? 'weekend' : 'weekday');
+    return col;
+  }
+
+  function makeDayCol(d, i) {
+    const iso = toISO(d);
+    const isWeekend = i >= 4;
+    const isToday   = iso === today;
+    const dayEvents = dateMap.get(iso) || [];
+    const count     = dayEvents.length;
+    const featured  = count > 0 && shouldFeature(i, dayEvents);
+
+    const col = document.createElement('div');
+    col.className = [
+      'day-col',
+      isWeekend ? 'weekend' : 'weekday',
+      featured ? 'featured' : 'compact',
+      isToday  ? 'today' : '',
+      count > 0 ? 'has-events' : '',
+    ].filter(Boolean).join(' ');
+    col.dataset.iso = iso;
+
+    if (featured && count > 0) {
+      const featEv = pickFeatured(dayEvents);
+
+      const dn = document.createElement('div');
+      dn.className = 'featured-day-num';
+      dn.textContent = d.getDate();
+      col.appendChild(dn);
+
+      const wrap = document.createElement('div');
+      wrap.className = 'day-thumb-wrap';
+      wrap.dataset.count = count === 1 ? '1 event' : `${count} events`;
+
+      if (featEv.image_url) {
+        const img = document.createElement('img');
+        img.className = 'day-thumb';
+        img.src = featEv.image_url;
+        img.alt = '';
+        img.loading = 'lazy';
+        img.onerror = function() { this.replaceWith(makeJazzCup()); };
+        wrap.appendChild(img);
+      } else {
+        wrap.appendChild(makeJazzCup());
+      }
+      col.appendChild(wrap);
+
+      const cap = document.createElement('div');
+      cap.className = 'day-caption';
+
+      const dateLabel = document.createElement('div');
+      dateLabel.className = 'day-caption-date';
+      dateLabel.textContent = d.toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric' });
+      cap.appendChild(dateLabel);
+
+      const actList = document.createElement('div');
+      actList.className = 'day-caption-acts';
+      const others = dayEvents.filter(e => e !== featEv);
+      const listEvs = [featEv, ...others];
+      const showCount = 4;
+      listEvs.slice(0, showCount).forEach((ev, idx) => {
+        const r = document.createElement('div');
+        r.className = 'day-caption-act' + (idx === 0 ? ' featured-act' : '');
+        r.textContent = ev.title;
+        actList.appendChild(r);
+      });
+      if (dayEvents.length > showCount) {
+        const more = document.createElement('div');
+        more.className = 'day-caption-more';
+        more.textContent = `+${dayEvents.length - showCount} more`;
+        actList.appendChild(more);
+      }
+      cap.appendChild(actList);
+      col.appendChild(cap);
+
+    } else {
+      const dn = document.createElement('div');
+      dn.className = 'compact-day-num';
+      dn.textContent = d.toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric' });
+      col.appendChild(dn);
+
+      if (count > 0) {
+        const list = document.createElement('div');
+        list.className = 'compact-event-list';
+        dayEvents.slice(0, 4).forEach(ev => {
+          const r = document.createElement('div');
+          r.className = 'compact-ev';
+          r.innerHTML = `<span class="compact-ev-time">${fmtTime(ev.start_time)}</span>${ev.title}`;
+          list.appendChild(r);
+        });
+        if (count > 4) {
+          const more = document.createElement('div');
+          more.className = 'compact-ev-more';
+          more.textContent = `+${count - 4} more`;
+          list.appendChild(more);
+        }
+        col.appendChild(list);
+      }
+    }
+
+    if (count > 0) {
+      col.addEventListener('click', () => openDayPanel(iso));
+      if (!isWeekend) {
+        col.addEventListener('mouseenter', () => {
+          calHeaders.className = `week-col-headers day-hover-${i}`;
+        });
+        col.addEventListener('mouseleave', () => {
+          calHeaders.className = 'week-col-headers';
+        });
+      }
+    }
+
+    return col;
+  }
+
+  function appendWeekRow(weekDates, activeSet) {
+    const row = document.createElement('div');
+    row.className = 'week-row';
+    weekDates.forEach((d, i) => {
+      row.appendChild(activeSet.has(i) ? makeDayCol(d, i) : makeBlankCol(i));
+    });
+    body.appendChild(row);
+  }
 
   while (cur <= end) {
     const weekDates = Array.from({length: 7}, (_, i) => addDays(cur, i));
-    const weekISOs  = weekDates.map(toISO);
+    const startMonth = weekDates[0].getMonth();
+    const endMonth   = weekDates[6].getMonth();
 
-    const visibleMonth = weekDates[0].getMonth();
-    if (visibleMonth !== lastMonth) {
-      lastMonth = visibleMonth;
-
-      // Visual break between months (skip for very first)
-      if (!firstMonth) {
-        const brk = document.createElement('div');
-        brk.className = 'month-break';
-        body.appendChild(brk);
-      }
-      firstMonth = false;
-
-      const ml = document.createElement('div');
-      ml.className = 'month-label';
-      ml.textContent = fmtMonth(weekDates[0]);
-      body.appendChild(ml);
+    if (startMonth === endMonth) {
+      insertMonthLabel(weekDates[0]);
+      appendWeekRow(weekDates, new Set([0,1,2,3,4,5,6]));
+    } else {
+      // Week crosses a month boundary — split into two partial rows
+      const splitIdx = weekDates.findIndex(d => d.getMonth() !== startMonth);
+      insertMonthLabel(weekDates[0]);
+      appendWeekRow(weekDates, new Set(Array.from({length: splitIdx}, (_, i) => i)));
+      insertMonthLabel(weekDates[splitIdx]);
+      appendWeekRow(weekDates, new Set(Array.from({length: 7 - splitIdx}, (_, i) => i + splitIdx)));
     }
 
-    const row = document.createElement('div');
-    row.className = 'week-row';
-
-    weekDates.forEach((d, i) => {
-      const iso = weekISOs[i];
-      const isWeekend = i >= 4;
-      const isToday   = iso === today;
-      const dayEvents = dateMap.get(iso) || [];
-      const count     = dayEvents.length;
-      const featured  = count > 0 && shouldFeature(i, dayEvents);
-
-      const col = document.createElement('div');
-      col.className = [
-        'day-col',
-        isWeekend ? 'weekend' : 'weekday',
-        featured ? 'featured' : 'compact',
-        isToday  ? 'today' : '',
-        count > 0 ? 'has-events' : '',
-      ].filter(Boolean).join(' ');
-      col.dataset.iso = iso;
-
-      if (featured && count > 0) {
-        const featEv = pickFeatured(dayEvents);
-
-        const dn = document.createElement('div');
-        dn.className = 'featured-day-num';
-        dn.textContent = d.getDate();
-        col.appendChild(dn);
-
-        const wrap = document.createElement('div');
-        wrap.className = 'day-thumb-wrap';
-        wrap.dataset.count = count === 1 ? '1 event' : `${count} events`;
-
-        if (featEv.image_url) {
-          const img = document.createElement('img');
-          img.className = 'day-thumb';
-          img.src = featEv.image_url;
-          img.alt = '';
-          img.loading = 'lazy';
-          img.onerror = function() { this.replaceWith(makeJazzCup()); };
-          wrap.appendChild(img);
-        } else {
-          wrap.appendChild(makeJazzCup());
-        }
-        col.appendChild(wrap);
-
-        const cap = document.createElement('div');
-        cap.className = 'day-caption';
-
-        // Date label
-        const dateLabel = document.createElement('div');
-        dateLabel.className = 'day-caption-date';
-        dateLabel.textContent = d.toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric' });
-        cap.appendChild(dateLabel);
-
-        // Act list: featured act first, then others
-        const actList = document.createElement('div');
-        actList.className = 'day-caption-acts';
-        const others = dayEvents.filter(e => e !== featEv);
-        const listEvs = [featEv, ...others];
-        const showCount = 4;
-        listEvs.slice(0, showCount).forEach((ev, idx) => {
-          const row = document.createElement('div');
-          row.className = 'day-caption-act' + (idx === 0 ? ' featured-act' : '');
-          row.textContent = ev.title;
-          actList.appendChild(row);
-        });
-        if (dayEvents.length > showCount) {
-          const more = document.createElement('div');
-          more.className = 'day-caption-more';
-          more.textContent = `+${dayEvents.length - showCount} more`;
-          actList.appendChild(more);
-        }
-        cap.appendChild(actList);
-        col.appendChild(cap);
-
-      } else {
-        // Compact cell
-        const dn = document.createElement('div');
-        dn.className = 'compact-day-num';
-        dn.textContent = d.getDate();
-        col.appendChild(dn);
-
-        if (count > 0) {
-          const list = document.createElement('div');
-          list.className = 'compact-event-list';
-          dayEvents.slice(0, 4).forEach(ev => {
-            const r = document.createElement('div');
-            r.className = 'compact-ev';
-            r.innerHTML = `<span class="compact-ev-time">${fmtTime(ev.start_time)}</span>${ev.title}`;
-            list.appendChild(r);
-          });
-          if (count > 4) {
-            const more = document.createElement('div');
-            more.className = 'compact-ev-more';
-            more.textContent = `+${count - 4} more`;
-            list.appendChild(more);
-          }
-          col.appendChild(list);
-        }
-      }
-
-      // Only add interactivity when there are events
-      if (count > 0) {
-        col.addEventListener('click', () => openDayPanel(iso));
-
-        if (!isWeekend) {
-          col.addEventListener('mouseenter', () => {
-            calHeaders.className = `week-col-headers day-hover-${i}`;
-          });
-          col.addEventListener('mouseleave', () => {
-            calHeaders.className = 'week-col-headers';
-          });
-        }
-      }
-
-      row.appendChild(col);
-    });
-
-    body.appendChild(row);
     cur = addDays(cur, 7);
   }
 }

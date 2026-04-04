@@ -21,6 +21,9 @@
   --flex-expanded: 3.5;
   --flex-shrunk:   0.65;
 
+  --basis-weekday: calc(100% / 12.01);
+  --basis-weekend: calc(100% * 2.67 / 12.01);
+
   --header-h:    52px;
   --colheader-h: 32px;
 }
@@ -87,13 +90,16 @@ header {
   height: var(--colheader-h);
 }
 .wch-cell {
-  flex: var(--flex-weekday);
+  flex: 1 1 var(--basis-weekday);
+  min-width: 0;
   display: flex; align-items: center; justify-content: center;
-  font-size: 10px; font-weight: 700; letter-spacing: .1em;
+  font-size: 13px; font-weight: 700; letter-spacing: .08em;
   text-transform: uppercase; color: var(--muted);
   transition: flex .25s ease;
+  border-right: 2px solid #3a3a40;
 }
-.wch-cell.weekend { flex: var(--flex-weekend); color: var(--accent); }
+.wch-cell:last-child { border-right: none; }
+.wch-cell.weekend { flex: 2.67 1 var(--basis-weekend); color: var(--accent); }
 
 /* ── Calendar Body ───────────────────────────────────────────────── */
 #cal-body { padding-bottom: 80px; }
@@ -118,20 +124,28 @@ header {
 /* ── Week Row ────────────────────────────────────────────────────── */
 .week-row {
   display: flex;
-  border-bottom: 1px solid var(--border);
   min-height: 80px;
+  position: relative;
+}
+.week-row::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(to right, transparent 0%, var(--border) 10%, var(--accent) 50%, var(--border) 90%, transparent 100%);
 }
 
 /* ── Day Column ──────────────────────────────────────────────────── */
 .day-col {
-  flex: var(--flex-weekday);
-  border-right: 1px solid var(--border);
+  flex: 1 1 var(--basis-weekday);
+  min-width: 0;
+  border-right: 2px solid #3a3a40;
   overflow: hidden;
   transition: flex .25s ease;
   position: relative;
 }
 .day-col:last-child { border-right: none; }
-.day-col.weekend { flex: var(--flex-weekend); }
+.day-col.weekend { flex: 2.67 1 var(--basis-weekend); }
 .day-col.has-events { cursor: pointer; }
 
 /* Hover only on days that have events */
@@ -177,6 +191,9 @@ header {
 .week-col-headers.day-hover-3 .wch-cell:nth-child(5),
 .week-col-headers.day-hover-3 .wch-cell:nth-child(6),
 .week-col-headers.day-hover-3 .wch-cell:nth-child(7) { flex: calc(var(--flex-weekend) * 0.75); }
+
+/* ── Out-of-month blank cell ─────────────────────────────────────── */
+.day-col.out-of-month { background: var(--surface); cursor: default; }
 
 /* ── Featured cell ───────────────────────────────────────────────── */
 .day-col.featured { min-height: 160px; }
@@ -230,7 +247,7 @@ header {
 
 /* ── Compact cell ────────────────────────────────────────────────── */
 .day-col.compact { padding: 6px; }
-.compact-day-num { font-size: 11px; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+.compact-day-num { font-size: 10px; font-weight: 800; color: var(--accent); letter-spacing: .06em; text-transform: uppercase; margin-bottom: 4px; }
 .day-col.today .compact-day-num,
 .day-col.today .featured-day-num { color: var(--accent); }
 .compact-event-list { display: flex; flex-direction: column; gap: 3px; }
