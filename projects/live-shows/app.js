@@ -48,7 +48,7 @@ const VENUE_RANK = {
 };
 
 // Sports keywords — safety net on top of scraper-level filtering
-const SPORTS_RE = /\b(nhl|nba|mlb|mls|royals game|hockey game|basketball game|lacrosse|rugby match)\b/i;
+const SPORTS_RE = /\b(nhl|nba|mlb|nfl|mls|royals game|hockey game|basketball game|lacrosse|rugby match|harbourcats|nightowls|night owls|pacific fc)\b| vs /i;
 
 const WEEKDAY_FEATURE_PRICE = 70;
 
@@ -139,10 +139,16 @@ function shouldFeature(dayIndex, events) {
   );
 }
 
+const NON_MUSIC_PHOTO_RE = /\b(wrestling|wwe|ufc|mma|boxing|fight night|fight card|rodeo|demolition derby|monster truck|car show|air show|trade show|home show|gun show|dog show|horse show|pageant|parade|easter|egg hunt|meat draw|bingo|trivia|yoga|meditation|art show|craft fair|market|gallery|exhibit)\b/i;
+
 function pickFeatured(events) {
   const withImage = events.filter(e => e.image_url);
   const pool = withImage.length > 0 ? withImage : events;
   return pool.slice().sort((a, b) => {
+    // Deprioritise non-music events as the calendar photo
+    const aNonMusic = NON_MUSIC_PHOTO_RE.test(a.title || '') ? 1 : 0;
+    const bNonMusic = NON_MUSIC_PHOTO_RE.test(b.title || '') ? 1 : 0;
+    if (aNonMusic !== bNonMusic) return aNonMusic - bNonMusic;
     const pd = parsePrice(b.price) - parsePrice(a.price);
     if (pd !== 0) return pd;
     return venueScore(b.venue) - venueScore(a.venue);
@@ -446,15 +452,27 @@ function renderDayPanel() {
     return;
   }
 
-  // Group by city
-  const vic   = evs.filter(e => e.city === 'Victoria');
-  const nan   = evs.filter(e => e.city === 'Nanaimo');
-  const other = evs.filter(e => e.city !== 'Victoria' && e.city !== 'Nanaimo');
-
-  const sections = [];
-  if (vic.length)   sections.push({ label: 'Victoria',  cls: 'vic',   events: vic });
-  if (nan.length)   sections.push({ label: 'Nanaimo',   cls: 'nan',   events: nan });
-  if (other.length) sections.push({ label: 'Other',     cls: 'other', events: other });
+  // Group by city dynamically
+  const cityOrder = ['Victoria', 'Nanaimo'];
+  const cityMap = new Map();
+  evs.forEach(e => {
+    const c = e.city || 'Other';
+    if (!cityMap.has(c)) cityMap.set(c, []);
+    cityMap.get(c).push(e);
+  });
+  // Sort: known cities first, then alphabetical
+  const sortedCities = [...cityMap.keys()].sort((a, b) => {
+    const ia = cityOrder.indexOf(a), ib = cityOrder.indexOf(b);
+    if (ia !== -1 && ib !== -1) return ia - ib;
+    if (ia !== -1) return -1;
+    if (ib !== -1) return 1;
+    return a.localeCompare(b);
+  });
+  const sections = sortedCities.map(c => ({
+    label:  c,
+    cls:    cityClass(c),
+    events: cityMap.get(c),
+  }));
 
   let globalIdx = 0;
   sections.forEach(sec => {
