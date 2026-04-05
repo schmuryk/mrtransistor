@@ -1,0 +1,76 @@
+name: Weekly Scrape
+
+on:
+  schedule:
+    - cron: '0 16 * * 1'  # Every Monday at 8am PT (16:00 UTC)
+  workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Run scrapers
+        env:
+          TM_KEY: ${{ secrets.TM_KEY }}
+          EB_TOKEN: ${{ secrets.EB_TOKEN }}
+        run: |
+          python3 scrapers/tribe_scraper.py      --replace --write
+          python3 scrapers/vieme_scraper.py      --replace --write
+          python3 scrapers/showpass_scraper.py   --replace --write
+          python3 scrapers/humanitix_scraper.py  --replace --write
+          python3 scrapers/sidwilliams_scraper.py --replace --write
+          python3 scrapers/tofinotheatre_scraper.py --replace --write
+          python3 scrapers/ticketmaster_scraper.py  --replace --write
+          python3 scrapers/eventbrite_scraper.py    --replace --write
+
+      - name: Prune past manual events
+        run: |
+          python3 - <<'EOF'
+          import json, datetime
+          from pathlib import Path
+
+          EVENTS_JSON = Path("projects/live-shows/events.json")
+          today = datetime.date.today().isoformat()
+
+          with EVENTS_JSON.open(encoding="utf-8") as f:
+              data = json.load(f)
+
+          before = len(data["events"])
+          data["events"] = [
+              e for e in data["events"]
+              if not (e["id"].startswith("manual:") and (e.get("date") or "") < today)
+          ]
+          after = len(data["events"])
+
+          if before != after:
+              data["generated"] = today
+              with EVENTS_JSON.open("w", encoding="utf-8") as f:
+                  json.dump(data, f, indent=2, ensure_ascii=False)
+                  f.write("\n")
+              print(f"Pruned {before - after} past manual events.")
+          else:
+              print("No past manual events to prune.")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add projects/live-shows/events.json
+          git diff --cached --quiet && echo "No changes." || \
+            git commit -m "chore: weekly scrape $(date -u +%Y-%m-%d)" && git push

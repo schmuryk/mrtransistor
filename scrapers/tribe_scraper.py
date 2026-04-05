@@ -91,6 +91,17 @@ SITES = {
         "default_venue": "Cowichan Performing Arts Centre",
         "start_date": True,
     },
+    "artspring": {
+        "name": "artspring",
+        "base": "https://artspring.ca",
+        # 28=ArtSpring Presents, 115=Musical Performance, 45=Chamber Music Festival
+        "category_ids": [28, 115, 45],
+        "exclude_cats": {"youth", "gallery exhibits & events", "lobby exhibits",
+                         "film", "rental", "treasure fair", "workshop"},
+        "default_city":  "Salt Spring Island",
+        "default_venue": "ArtSpring",
+        "start_date": True,
+    },
 }
 
 # Normalise common VI/Sunshine Coast city names to clean title case
@@ -198,13 +209,31 @@ def normalise_city(raw: str) -> str:
 
 
 NON_MUSIC_RE = re.compile(
-    r'\b(meat draw|easter|egg hunt|bingo|trivia|yoga|meditation|workshop|'
+    r'\b(meat draw|easter|egg hunt|bingo|karaoke|trivia|yoga|meditation|workshop|'
     r'art class|art show|gallery|exhibit|craft fair|market|sale|'
     r'fundraiser dinner|gala dinner|luncheon|brunch|paint night|pottery|'
     r'knitting|sewing|weaving|quilting|book launch|book club|library|'
     r'film night|movie night|cinema|fitness|seated fitness|'
     r'story time|storytime|playtime|tea &|tea and|'
-    r'scavenger hunt|easter celebration|easter sunday)\b',
+    r'scavenger hunt|easter celebration|easter sunday|'
+    # sports & recreation
+    r'bowling|pickleball|table tennis|ping.?pong|badminton|tai chi|skating|'
+    r'autocross|drag racing|monster trucks?|wrestling|ufc|fight night|'
+    r'car show|show n shine|volleyball|'
+    # government & meetings
+    r'council meeting|school board|committee of the whole|'
+    # nature / outdoor activities (non-music)
+    r'tide.pool|hatchery|meteor shower|low tide|'
+    # community activities
+    r'preschool|first aid|fly.tying|fly tying|circus|gem show|rock.*gem|'
+    r'scrabble|carving competition|adventure show|home show|'
+    # food promotions
+    r'burger night|burger.*special|'
+    # calendar markers — handle both straight and curly apostrophes
+    r"mother[\u2019']s day|father[\u2019']s day|full moon|victoria day|"
+    # performing arts non-music
+    r'panel discussion|panel talk|speaker series|lecture|film festival|'
+    r'cancelled)\b',
     re.I,
 )
 

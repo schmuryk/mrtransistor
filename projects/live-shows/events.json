@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-04",
+  "generated": "2026-04-05",
   "events": [
     {
       "id": "vieme:695c122e3a4cf52d7f2cba15",
@@ -1394,54 +1394,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:18158",
-      "title": "Fly-tying Club @ CRFW",
-      "venue": "Campbell River Fish and Wildlife Club",
-      "city": "Campbell River",
-      "date": "2026-04-04",
-      "start_time": "10:00",
-      "ticket_url": "https://campbellrivernow.com/event/fly-tying-crfw/",
-      "price": "$5",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/03/fly-tying-crfw.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12815",
-      "title": "Live Music Saturday at the Eagles",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
-      "date": "2026-04-04",
-      "start_time": "16:00",
-      "ticket_url": "https://campbellrivernow.com/event/the-jam-eagles-hall/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/the-jam-eagles.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17944",
-      "title": "Corner Stage: Open Mic & Karaoke",
-      "venue": "Campbell River Legion Hall",
-      "city": "Campbell River",
-      "date": "2026-04-04",
-      "start_time": "17:00",
-      "ticket_url": "https://campbellrivernow.com/event/corner-stage/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/corner-stage.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:11981",
-      "title": "Cosmic Bowling Night 🎳",
-      "venue": "CR Bowling",
-      "city": "Campbell River",
-      "date": "2026-04-04",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/cosmic-bowling/",
-      "price": "$20",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/cosmic-bowling-e1741635237425.jpeg",
-      "genre": null
-    },
-    {
       "id": "qathet365:8776",
       "title": "Rock & Bowl 18- Caveman And The Banchee, CHUNK, DJ Full Bug",
       "venue": "The Alley",
@@ -1475,6 +1427,30 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-04-04/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "tofinotheatre:comedy-night-with-patrick-maliha-2026-04-04",
+      "title": "COMEDY NIGHT with PATRICK MALIHA",
+      "venue": "Clayoquot Sound Theatre",
+      "city": "Tofino",
+      "date": "2026-04-04",
+      "start_time": "20:00",
+      "ticket_url": "https://www.showpass.com/patrick-maliha-tofino/",
+      "price": null,
+      "image_url": "https://static.wixstatic.com/media/c604d1_da77711a4d6e4fd692dc8bb53a5bf385~mv2.jpg",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:12815",
+      "title": "Live Music Saturday at the Eagles",
+      "venue": "Eagles Hall",
+      "city": "Campbell River",
+      "date": "2026-04-04",
+      "start_time": "16:00",
+      "ticket_url": "https://campbellrivernow.com/event/the-jam-eagles-hall/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/the-jam-eagles.webp",
       "genre": null
     },
     {
@@ -1646,18 +1622,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:15287",
-      "title": "Quinsam Hatchery: Free Self-Guided Tours",
-      "venue": "Quinsam River Hatchery",
-      "city": "Campbell River",
-      "date": "2026-04-05",
-      "start_time": "08:00",
-      "ticket_url": "https://campbellrivernow.com/event/salmon-bear-quinsam-hatchery/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/quinsam-hatchery2.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:8655",
       "title": "VinylFlip 2026 – Record & Physical Media Fair",
       "venue": "Townsite Public Market",
@@ -1742,18 +1706,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:11838",
-      "title": "Free Preschool Play Gym",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-06",
-      "start_time": "10:30",
-      "ticket_url": "https://campbellrivernow.com/event/free-preschool-play-gym/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/preschool-gym-2.webp",
-      "genre": null
-    },
-    {
       "id": "livevictoria:903502",
       "title": "SWANG THANG!",
       "venue": "The Loft (Victoria)",
@@ -1811,30 +1763,6 @@
       "ticket_url": "https://gulfislandevents.com/event/country-folk-open-mic-with-sherry-leigh-williams/2026-04-07/",
       "price": null,
       "image_url": "https://gulfislandevents.com/wp-content/uploads/2025/06/IMG_7479.jpeg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12337",
-      "title": "Active Living: Bridge, Scrabble and More",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-07",
-      "start_time": "09:00",
-      "ticket_url": "https://campbellrivernow.com/event/drop-in-coffee-tuesday/",
-      "price": "$4",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/04/active-living.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17957",
-      "title": "Table Tennis Drop-in (Ping Pong!)",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-07",
-      "start_time": "13:15",
-      "ticket_url": "https://campbellrivernow.com/event/table-tennis/",
-      "price": "$7",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/table-tennis2.webp",
       "genre": null
     },
     {
@@ -1898,18 +1826,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:8775",
-      "title": "Burger & Beverage Special @ Eagles",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
-      "date": "2026-04-08",
-      "start_time": "16:00",
-      "ticket_url": "https://campbellrivernow.com/event/burger-eagles/",
-      "price": "$13",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/09/burger-beer.webp",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:17801",
       "title": "Live Music at Beach Fire Brewing",
       "venue": "Beach Fire Brewing",
@@ -1919,6 +1835,18 @@
       "ticket_url": "https://campbellrivernow.com/event/massie-patterson/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/07/beach-live-music.webp",
+      "genre": null
+    },
+    {
+      "id": "sidwilliams:three-for-the-tillerman-an-intimate-tribute-to-cat-stevens",
+      "title": "Three for the Tillerman: An Intimate Tribute to Cat Stevens",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
+      "date": "2026-04-08",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/three-for-the-tillerman-an-intimate-tribute-to-cat-stevens/",
+      "price": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850514/f2b78161-b564-49d1-b2ab-ce787cb036cd.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -2102,6 +2030,18 @@
       "genre": null
     },
     {
+      "id": "humanitix:justthe2ofus-joellerabubuwa-charslanding-portalberni",
+      "title": "JUST THE 2 OF US @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
+      "date": "2026-04-09",
+      "start_time": "19:30",
+      "ticket_url": "https://events.humanitix.com/justthe2ofus-joellerabubuwa-charslanding-portalberni?hxchl=hex-pfl",
+      "price": null,
+      "image_url": "https://images.humanitix.com/i/Tt5mvi75R8KALXJVjAaG@original",
+      "genre": null
+    },
+    {
       "id": "campbellrivernow:18251",
       "title": "Campbell River Fair – Opening Day!",
       "venue": null,
@@ -2123,30 +2063,6 @@
       "ticket_url": "https://campbellrivernow.com/event/greg-wells/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/greg-wells.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18091",
-      "title": "Europa Super Circus",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
-      "date": "2026-04-09",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/europa-circus/",
-      "price": "$25 – $35",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/circus-europa.webp",
-      "genre": null
-    },
-    {
-      "id": "humanitix:justthe2ofus-joellerabubuwa-charslanding-portalberni",
-      "title": "JUST THE 2 OF US @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-04-09",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/justthe2ofus-joellerabubuwa-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/Tt5mvi75R8KALXJVjAaG@original",
       "genre": null
     },
     {
@@ -2558,15 +2474,27 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:16221",
-      "title": "Pickleball at the Sportsplex",
-      "venue": "Campbell River Sportsplex",
-      "city": "Campbell River",
+      "id": "qathet365:10006481",
+      "title": "Karaoke Night!",
+      "venue": "Cranberry Pub",
+      "city": "Powell River",
       "date": "2026-04-10",
-      "start_time": "14:30",
-      "ticket_url": "https://campbellrivernow.com/event/pickleball-sportsplex-2/",
-      "price": "$6.67",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/10/pickleball-sportsplex.webp",
+      "start_time": "21:00",
+      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-04-10/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "tofinotheatre:halibut-cowboys-2026-04-10",
+      "title": "Halibut Cowboys",
+      "venue": "Clayoquot Sound Theatre",
+      "city": "Tofino",
+      "date": "2026-04-10",
+      "start_time": "19:00",
+      "ticket_url": "https://www.showpass.com/halibut-cowboys/",
+      "price": null,
+      "image_url": "https://static.wixstatic.com/media/c604d1_c675b8ed85ea4b7eab4c79885f6a0ca7~mv2.jpg",
       "genre": null
     },
     {
@@ -2582,27 +2510,15 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:13855",
-      "title": "Karaoke Friday at the Legion",
-      "venue": "Campbell River Legion Hall",
-      "city": "Campbell River",
+      "id": "sidwilliams:opera-are-you-kidding-me",
+      "title": "Opera, Are You Kidding Me?",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
       "date": "2026-04-10",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/karaoke-canadian-legion/",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/opera-are-you-kidding-me/",
       "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/karaoke-night.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:10006481",
-      "title": "Karaoke Night!",
-      "venue": "Cranberry Pub",
-      "city": "Powell River",
-      "date": "2026-04-10",
-      "start_time": "21:00",
-      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-04-10/",
-      "price": null,
-      "image_url": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850096/4bd236d8-3ebf-4b89-9cf4-74fa7ad7f815.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -3098,30 +3014,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:13772",
-      "title": "UFC Fight 327: Where to Watch",
-      "venue": "Chances Casino &#038; Match Eatery",
-      "city": "Campbell River",
-      "date": "2026-04-11",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/ufc-fight-night/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/ufc-night.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17318",
-      "title": "Stand-up Comedy Night at Sessions",
-      "venue": "Session Taproom + Kitchen",
-      "city": "Campbell River",
-      "date": "2026-04-11",
-      "start_time": "20:00",
-      "ticket_url": "https://campbellrivernow.com/event/stand-up-sessions/",
-      "price": "$25",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/comedy-standup.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:8647",
       "title": "People’s Prom – Enchanted Forest",
       "venue": "The Alley",
@@ -3143,6 +3035,30 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-04-11/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:17318",
+      "title": "Stand-up Comedy Night at Sessions",
+      "venue": "Session Taproom + Kitchen",
+      "city": "Campbell River",
+      "date": "2026-04-11",
+      "start_time": "20:00",
+      "ticket_url": "https://campbellrivernow.com/event/stand-up-sessions/",
+      "price": "$25",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/comedy-standup.webp",
+      "genre": null
+    },
+    {
+      "id": "sidwilliams:lesbihonest",
+      "title": "LESBIHONEST",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
+      "date": "2026-04-11",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/lesbihonest/",
+      "price": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850112/af2afc6f-313b-477a-8b9e-5ed559bff69f.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -3362,27 +3278,15 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:13746",
-      "title": "Autocross Afternoon at Saratoga Speedway",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
+      "id": "humanitix:jazzsocial-barrymiller-charslanding-portalberni-apr12",
+      "title": "JAZZ Social: w The Barry Miller Quartet @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
       "date": "2026-04-12",
-      "start_time": "11:00",
-      "ticket_url": "https://campbellrivernow.com/event/autocross-afternoon/",
+      "start_time": "18:00",
+      "ticket_url": "https://events.humanitix.com/jazzsocial-barrymiller-charslanding-portalberni-apr12?hxchl=hex-pfl",
       "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/autocross.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13945",
-      "title": "Pickleball at the Community Centre",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-12",
-      "start_time": "12:00",
-      "ticket_url": "https://campbellrivernow.com/event/pickleball-community-centre/",
-      "price": "$6.67",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/pickleball-court.webp",
+      "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
       "genre": null
     },
     {
@@ -3395,30 +3299,6 @@
       "ticket_url": "https://campbellrivernow.com/event/christy-vanden-beach-fire/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/christy-vanden.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:11748",
-      "title": "Sunday Afternoon Skating",
-      "venue": "Strathcona Gardens",
-      "city": "Campbell River",
-      "date": "2026-04-12",
-      "start_time": "15:00",
-      "ticket_url": "https://campbellrivernow.com/event/skate-sunday/",
-      "price": "$3.15 – $6.05",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/fun-skate-new.webp",
-      "genre": null
-    },
-    {
-      "id": "humanitix:jazzsocial-barrymiller-charslanding-portalberni-apr12",
-      "title": "JAZZ Social: w The Barry Miller Quartet @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-04-12",
-      "start_time": "18:00",
-      "ticket_url": "https://events.humanitix.com/jazzsocial-barrymiller-charslanding-portalberni-apr12?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
       "genre": null
     },
     {
@@ -3491,30 +3371,6 @@
       "ticket_url": "https://gulfislandevents.com/event/josephine/",
       "price": "$30",
       "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/03/Untitled-design-1.png",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:15422",
-      "title": "Tai Chi @ the Community Centre",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-13",
-      "start_time": "11:00",
-      "ticket_url": "https://campbellrivernow.com/event/tai-chi-drop-in-2/",
-      "price": "$3.81",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/tai-chi.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13931",
-      "title": "Badminton at the Sportsplex",
-      "venue": "Campbell River Sportsplex",
-      "city": "Campbell River",
-      "date": "2026-04-13",
-      "start_time": "12:30",
-      "ticket_url": "https://campbellrivernow.com/event/badminton-adult/",
-      "price": "$6.67",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/badminton-campbell-river.webp",
       "genre": null
     },
     {
@@ -3611,42 +3467,6 @@
       "ticket_url": "https://gulfislandevents.com/event/josephine-2/",
       "price": "$30",
       "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/03/Untitled-design-1-1.png",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12327",
-      "title": "Coffee, Scrabble, Bridge, and More",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-14",
-      "start_time": "09:00",
-      "ticket_url": "https://campbellrivernow.com/event/coffee-friends/",
-      "price": "$4",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/04/active-living.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:16895",
-      "title": "Committee of the Whole: Council Meeting",
-      "venue": "City Hall",
-      "city": "Campbell River",
-      "date": "2026-04-14",
-      "start_time": "10:30",
-      "ticket_url": "https://campbellrivernow.com/event/council-cow/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/11/city-council-m.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18014",
-      "title": "School Board Meeting",
-      "venue": "School District 72",
-      "city": "Campbell River",
-      "date": "2026-04-14",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/school-board-meeting/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/sd72-school-board.webp",
       "genre": null
     },
     {
@@ -3779,18 +3599,6 @@
       "ticket_url": "https://performingartscomoxvalley.ca/event/courtenay-little-theatre-presents-the-children-by-lucy-kirkwood/",
       "price": "$32",
       "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/03/CLT-April-2026-performances.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12818",
-      "title": "Burger Night at Eagles Hall",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
-      "date": "2026-04-15",
-      "start_time": "16:00",
-      "ticket_url": "https://campbellrivernow.com/event/burger-and-beverage-13/",
-      "price": "$13",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/burger-eagles.webp",
       "genre": null
     },
     {
@@ -3938,27 +3746,15 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:17558",
-      "title": "Fundraiser for CR Crush Volleyball",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
+      "id": "humanitix:shaunkirk-charslanding-portalberni",
+      "title": "Shaun Kirk - Live @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
       "date": "2026-04-16",
-      "start_time": "18:00",
-      "ticket_url": "https://campbellrivernow.com/event/mingo-volleyball/",
+      "start_time": "19:30",
+      "ticket_url": "https://events.humanitix.com/shaunkirk-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/12/bingo-fundraiser-2.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:16892",
-      "title": "City Council Meeting",
-      "venue": "City Hall",
-      "city": "Campbell River",
-      "date": "2026-04-16",
-      "start_time": "18:00",
-      "ticket_url": "https://campbellrivernow.com/event/city-council-meeting/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/11/council-meeting2.webp",
+      "image_url": "https://images.humanitix.com/i/H9JgkNBCS1CNC4i4nRFn@original",
       "genre": null
     },
     {
@@ -3971,18 +3767,6 @@
       "ticket_url": "https://campbellrivernow.com/event/doug-folkins/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/doug-folkins.webp",
-      "genre": null
-    },
-    {
-      "id": "humanitix:shaunkirk-charslanding-portalberni",
-      "title": "Shaun Kirk - Live @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-04-16",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/shaunkirk-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/H9JgkNBCS1CNC4i4nRFn@original",
       "genre": null
     },
     {
@@ -4298,18 +4082,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:13080",
-      "title": "Live Music with Ben Jackson",
-      "venue": "SoCal Restaurant &#038; Lounge",
-      "city": "Campbell River",
-      "date": "2026-04-17",
-      "start_time": "17:30",
-      "ticket_url": "https://campbellrivernow.com/event/ben-jackson-socal/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/ben-jackson.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:8743",
       "title": "“DBX – The Doobie Brothers Experience” is coming to the Evergreen Theatre, Powell River.",
       "venue": "Evergreen Theatre",
@@ -4343,6 +4115,30 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-04-17/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:13080",
+      "title": "Live Music with Ben Jackson",
+      "venue": "SoCal Restaurant &#038; Lounge",
+      "city": "Campbell River",
+      "date": "2026-04-17",
+      "start_time": "17:30",
+      "ticket_url": "https://campbellrivernow.com/event/ben-jackson-socal/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/ben-jackson.webp",
+      "genre": null
+    },
+    {
+      "id": "artspring:34799",
+      "title": "Salt Spring Community Showcase",
+      "venue": "ArtSpring",
+      "city": "Salt Spring Island",
+      "date": "2026-04-17",
+      "start_time": "19:30",
+      "ticket_url": "https://artspring.ca/event/salt-spring-community-showcase/",
+      "price": "$10 – $30",
+      "image_url": "https://artspring.ca/wp-content/uploads/2025/11/Untitled-design.jpg",
       "genre": null
     },
     {
@@ -4766,30 +4562,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12507",
-      "title": "Low Tide Tide-Pooling",
-      "venue": "Willow Point Reef",
-      "city": "Campbell River",
-      "date": "2026-04-18",
-      "start_time": "09:00",
-      "ticket_url": "https://campbellrivernow.com/event/tide-pooling/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/low-tide-2.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12604",
-      "title": "North Island Outdoor Adventure Show",
-      "venue": "Strathcona Gardens",
-      "city": "Campbell River",
-      "date": "2026-04-18",
-      "start_time": "09:30",
-      "ticket_url": "https://campbellrivernow.com/event/outdoor-adventure-show2/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/outdoor-show7.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:8687",
       "title": "qathet Pop Choir in Concert!",
       "venue": "Max Cameron Theatre",
@@ -5066,18 +4838,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:17891",
-      "title": "Hospice Fundraiser: Spring Shenanigans",
-      "venue": "Riptide Marine Pub",
-      "city": "Campbell River",
-      "date": "2026-04-19",
-      "start_time": "17:30",
-      "ticket_url": "https://campbellrivernow.com/event/hospice-fundraiser/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/spring-hospice.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:8602",
       "title": "Music of the Night with qathet Symphony Orchestra",
       "venue": "Evergreen Theatre",
@@ -5099,6 +4859,18 @@
       "ticket_url": "https://cowichanpac.ca/event/opera-are-you-kidding-me-2026-04-19/",
       "price": "$36",
       "image_url": "https://cowichanpac.ca/wp-content/uploads/2025/11/Opera-Are-You-Kidding-Me.jpg",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:17891",
+      "title": "Hospice Fundraiser: Spring Shenanigans",
+      "venue": "Riptide Marine Pub",
+      "city": "Campbell River",
+      "date": "2026-04-19",
+      "start_time": "17:30",
+      "ticket_url": "https://campbellrivernow.com/event/hospice-fundraiser/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/spring-hospice.webp",
       "genre": null
     },
     {
@@ -5147,18 +4919,6 @@
       "ticket_url": "https://livevictoria.com/show/905444/view",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:11929",
-      "title": "Free Preschool Play Gym",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-04-20",
-      "start_time": "10:30",
-      "ticket_url": "https://campbellrivernow.com/event/preschool-play-gym/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/playtime-gym-scaled.webp",
       "genre": null
     },
     {
@@ -5507,6 +5267,18 @@
       "ticket_url": "https://coastculture.com/event/rc-legion-improv-comedy-social-2/",
       "price": "$10 – $15",
       "image_url": "https://coastculture.com/wp-content/uploads/2026/03/Improv-RC-no-date.jpg",
+      "genre": null
+    },
+    {
+      "id": "tofinotheatre:snotty-nose-rez-kids-west-coast-tour-2026-04-23",
+      "title": "Snotty Nose Rez Kids: West Coast Tour",
+      "venue": "Clayoquot Sound Theatre",
+      "city": "Tofino",
+      "date": "2026-04-23",
+      "start_time": "20:00",
+      "ticket_url": "https://www.showpass.com/snotty-nose-rez-kids-tofino/",
+      "price": null,
+      "image_url": "https://static.wixstatic.com/media/c604d1_4498abfd25384dae9928a69433dfb135~mv2.jpg",
       "genre": null
     },
     {
@@ -6122,42 +5894,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:18283",
-      "title": "Spring Concert: Campbell River Singers",
-      "venue": "CR Baptist Church",
-      "city": "Campbell River",
-      "date": "2026-04-25",
-      "start_time": "14:00",
-      "ticket_url": "https://campbellrivernow.com/event/campbell-river-singers/",
-      "price": "$20",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/03/spring-concert-1.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17734",
-      "title": "Opening Night at Saratoga",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
-      "date": "2026-04-25",
-      "start_time": "16:00",
-      "ticket_url": "https://campbellrivernow.com/event/opening-night-at-saratoga/",
-      "price": "$20",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/saratoga-opening.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:10390",
-      "title": "Live Pro Wrestling Night",
-      "venue": "Willow Point Community Hall",
-      "city": "Campbell River",
-      "date": "2026-04-25",
-      "start_time": "18:30",
-      "ticket_url": "https://campbellrivernow.com/event/wrestling-night/",
-      "price": "$20",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/wrestling-2.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006486",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -6191,6 +5927,42 @@
       "ticket_url": "https://events.humanitix.com/kierah-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/fwx9VHagTyLFra8k3TQq@original",
+      "genre": null
+    },
+    {
+      "id": "tofinotheatre:solidaridad-tango-with-dancers-2026-04-25",
+      "title": "Solidaridad Tango with Dancers",
+      "venue": "Clayoquot Sound Theatre",
+      "city": "Tofino",
+      "date": "2026-04-25",
+      "start_time": "20:00",
+      "ticket_url": "https://www.showpass.com/solidaridad-tango-tofino/",
+      "price": null,
+      "image_url": "https://static.wixstatic.com/media/c604d1_e492a54ce00c490d98ae5a931c8f97b3~mv2.png",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:18283",
+      "title": "Spring Concert: Campbell River Singers",
+      "venue": "CR Baptist Church",
+      "city": "Campbell River",
+      "date": "2026-04-25",
+      "start_time": "14:00",
+      "ticket_url": "https://campbellrivernow.com/event/campbell-river-singers/",
+      "price": "$20",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/03/spring-concert-1.webp",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:17734",
+      "title": "Opening Night at Saratoga",
+      "venue": "Saratoga Speedway",
+      "city": "Comox Valley",
+      "date": "2026-04-25",
+      "start_time": "16:00",
+      "ticket_url": "https://campbellrivernow.com/event/opening-night-at-saratoga/",
+      "price": "$20",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/saratoga-opening.webp",
       "genre": null
     },
     {
@@ -6878,18 +6650,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:11501",
-      "title": "Campbell River Spring Home Show 2026",
-      "venue": "Strathcona Gardens",
-      "city": "Campbell River",
-      "date": "2026-05-01",
-      "start_time": "13:00",
-      "ticket_url": "https://campbellrivernow.com/event/spring-home-show/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/05/diyers-e1741368510605.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006487",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -6899,6 +6659,18 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-01/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "artspring:35163",
+      "title": "SNOTTY NOSE REZ KIDS",
+      "venue": "ArtSpring &#8211; Theatre",
+      "city": "Salt Spring Island",
+      "date": "2026-05-01",
+      "start_time": "19:30",
+      "ticket_url": "https://artspring.ca/event/snotty-nose-rez-kids-2/",
+      "price": "$15 – $42",
+      "image_url": "https://artspring.ca/wp-content/uploads/2026/02/Snotty-Nose-Rez-Kids-AP-2026.jpg",
       "genre": null
     },
     {
@@ -7130,18 +6902,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:17895",
-      "title": "Fat Joke",
-      "venue": "Tidemark Theatre",
-      "city": "Campbell River",
-      "date": "2026-05-02",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/fat-joke/",
-      "price": "$33",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/fat-joke.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006488",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -7151,6 +6911,18 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-02/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:17895",
+      "title": "Fat Joke",
+      "venue": "Tidemark Theatre",
+      "city": "Campbell River",
+      "date": "2026-05-02",
+      "start_time": "19:30",
+      "ticket_url": "https://campbellrivernow.com/event/fat-joke/",
+      "price": "$33",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/fat-joke.webp",
       "genre": null
     },
     {
@@ -7226,18 +6998,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:17806",
-      "title": "Snotty Nose Rez Kids!",
-      "venue": "Tidemark Theatre",
-      "city": "Campbell River",
-      "date": "2026-05-03",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/snotty-nose-rez-kids/",
-      "price": "$38",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/snotty-nose-rez-kids.webp",
-      "genre": null
-    },
-    {
       "id": "humanitix:jazzsocial-barrymiller-charslanding-portalberni-may3",
       "title": "JAZZ Social: w The Barry Miller Quartet @Char's",
       "venue": "Char's Landing",
@@ -7247,6 +7007,18 @@
       "ticket_url": "https://events.humanitix.com/jazzsocial-barrymiller-charslanding-portalberni-may3?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:17806",
+      "title": "Snotty Nose Rez Kids!",
+      "venue": "Tidemark Theatre",
+      "city": "Campbell River",
+      "date": "2026-05-03",
+      "start_time": "19:30",
+      "ticket_url": "https://campbellrivernow.com/event/snotty-nose-rez-kids/",
+      "price": "$38",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/snotty-nose-rez-kids.webp",
       "genre": null
     },
     {
@@ -7295,18 +7067,6 @@
       "ticket_url": "https://gulfislandevents.com/event/country-folk-open-mic-with-sherry-leigh-williams/2026-05-05/",
       "price": null,
       "image_url": "https://gulfislandevents.com/wp-content/uploads/2025/06/IMG_7479.jpeg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18001",
-      "title": "School Board Meeting",
-      "venue": "School District 72",
-      "city": "Campbell River",
-      "date": "2026-05-05",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/school-board/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/sd72-school-bo-me.webp",
       "genre": null
     },
     {
@@ -8066,18 +7826,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12117",
-      "title": "Open Mic Night at Beach Fire Brewing",
-      "venue": "Beach Fire Brewing",
-      "city": "Campbell River",
-      "date": "2026-05-09",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/open-mic-beachfire/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/open-mic-night.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006490",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -8099,6 +7847,18 @@
       "ticket_url": "https://events.humanitix.com/royforbes-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/wrd3BibzRp2cSEGCqXMM@original",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:12117",
+      "title": "Open Mic Night at Beach Fire Brewing",
+      "venue": "Beach Fire Brewing",
+      "city": "Campbell River",
+      "date": "2026-05-09",
+      "start_time": "19:00",
+      "ticket_url": "https://campbellrivernow.com/event/open-mic-beachfire/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/open-mic-night.webp",
       "genre": null
     },
     {
@@ -8186,18 +7946,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12884",
-      "title": "Mother’s Day 2026",
-      "venue": "Campbell River",
-      "city": "Campbell River",
-      "date": "2026-05-10",
-      "start_time": "00:00",
-      "ticket_url": "https://campbellrivernow.com/event/mothers-day/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/mothers-day.webp",
-      "genre": null
-    },
-    {
       "id": "humanitix:jazzsocial-augustequartet-charslanding-portalberni",
       "title": "JAZZ Social: w Alain Bédard and Auguste Quartet @Char's",
       "venue": "Char's Landing",
@@ -8231,18 +7979,6 @@
       "ticket_url": "https://www.showpass.com/benjis-pub-quiz-winterspring-2-26-05-11-19-7855/",
       "price": null,
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/the-fernwood-inn/images/47241828-f53.png",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13073",
-      "title": "Basic First Aid Course (OFA 1)",
-      "venue": null,
-      "city": "",
-      "date": "2026-05-11",
-      "start_time": "08:30",
-      "ticket_url": "https://campbellrivernow.com/event/first-aid-ofa1/",
-      "price": "$110",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/first-aid-campbell-river.webp",
       "genre": null
     },
     {
@@ -8486,18 +8222,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:15221",
-      "title": "Tragically Hip Tribute Concert",
-      "venue": "Tidemark Theatre",
-      "city": "Campbell River",
-      "date": "2026-05-15",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/tragically-hip/",
-      "price": "$50",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/tragically-hip.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006491",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -8519,6 +8243,18 @@
       "ticket_url": "https://cowichanpac.ca/event/gordon-lightfoot-tribute-2026-05-15/",
       "price": "$55",
       "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/03/lightfoot-social-web-1-1024x616-1.jpg",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:15221",
+      "title": "Tragically Hip Tribute Concert",
+      "venue": "Tidemark Theatre",
+      "city": "Campbell River",
+      "date": "2026-05-15",
+      "start_time": "19:30",
+      "ticket_url": "https://campbellrivernow.com/event/tragically-hip/",
+      "price": "$50",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/tragically-hip.webp",
       "genre": null
     },
     {
@@ -8666,30 +8402,6 @@
       "genre": "House, Tech House, Progressive"
     },
     {
-      "id": "campbellrivernow:11862",
-      "title": "Art & Bloom Festival at Kitty Coleman Gardens",
-      "venue": "Kitty Coleman Woodland Gardens",
-      "city": "Comox Valley",
-      "date": "2026-05-16",
-      "start_time": "10:00",
-      "ticket_url": "https://campbellrivernow.com/event/art-bloom-festival/",
-      "price": "$10",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/art-bloom.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12745",
-      "title": "Monster Trucks at Saratoga",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
-      "date": "2026-05-16",
-      "start_time": "14:00",
-      "ticket_url": "https://campbellrivernow.com/event/monster-truck-tour/",
-      "price": "$30",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/monster-trucks-2.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006492",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -8699,6 +8411,30 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-16/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "tofinotheatre:miina-2026-05-16",
+      "title": "Miina",
+      "venue": "Clayoquot Sound Theatre",
+      "city": "Tofino",
+      "date": "2026-05-16",
+      "start_time": "20:00",
+      "ticket_url": "https://www.showpass.com/miina-tofino/",
+      "price": null,
+      "image_url": "https://static.wixstatic.com/media/c604d1_63ce4fff9db343d9b8d52e39ddb2211a~mv2.png",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:11862",
+      "title": "Art & Bloom Festival at Kitty Coleman Gardens",
+      "venue": "Kitty Coleman Woodland Gardens",
+      "city": "Comox Valley",
+      "date": "2026-05-16",
+      "start_time": "10:00",
+      "ticket_url": "https://campbellrivernow.com/event/art-bloom-festival/",
+      "price": "$10",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/art-bloom.webp",
       "genre": null
     },
     {
@@ -8783,18 +8519,6 @@
       "ticket_url": "https://www.showpass.com/benjis-pub-quiz-winterspring-2-26-05-18-19-6119/",
       "price": null,
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/the-fernwood-inn/images/47241828-f53.png",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17838",
-      "title": "Victoria Day",
-      "venue": "Campbell River",
-      "city": "Campbell River",
-      "date": "2026-05-18",
-      "start_time": "00:00",
-      "ticket_url": "https://campbellrivernow.com/event/victoria-day/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/victoria-day.webp",
       "genre": null
     },
     {
@@ -9266,6 +8990,18 @@
       "genre": null
     },
     {
+      "id": "qathet365:10006494",
+      "title": "Karaoke Night!",
+      "venue": "Cranberry Pub",
+      "city": "Powell River",
+      "date": "2026-05-23",
+      "start_time": "21:00",
+      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-23/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "campbellrivernow:17710",
       "title": "Wine, Brews & Blues Festival",
       "venue": "Maritime Heritage Centre",
@@ -9278,13 +9014,13 @@
       "genre": null
     },
     {
-      "id": "qathet365:10006494",
-      "title": "Karaoke Night!",
-      "venue": "Cranberry Pub",
-      "city": "Powell River",
+      "id": "manual:songs-for-sound-2026-2026-05-23",
+      "title": "Songs for the Sound 2026",
+      "venue": "Tofino Resort + Marina",
+      "city": "Tofino",
       "date": "2026-05-23",
-      "start_time": "21:00",
-      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-23/",
+      "start_time": null,
+      "ticket_url": "https://tofinoresortandmarina.com/",
       "price": null,
       "image_url": null,
       "genre": null
@@ -9590,18 +9326,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:18167",
-      "title": "Brad Lovell Live at SoCal",
-      "venue": "SoCal Restaurant &#038; Lounge",
-      "city": "Campbell River",
-      "date": "2026-05-29",
-      "start_time": "17:30",
-      "ticket_url": "https://campbellrivernow.com/event/brad-lovell-at-socal/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/brad-lovell.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006495",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -9611,6 +9335,18 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-05-29/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:18167",
+      "title": "Brad Lovell Live at SoCal",
+      "venue": "SoCal Restaurant &#038; Lounge",
+      "city": "Campbell River",
+      "date": "2026-05-29",
+      "start_time": "17:30",
+      "ticket_url": "https://campbellrivernow.com/event/brad-lovell-at-socal/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/brad-lovell.webp",
       "genre": null
     },
     {
@@ -9974,30 +9710,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12967",
-      "title": "Rock, Gem & Mineral Show",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-06-06",
-      "start_time": "10:00",
-      "ticket_url": "https://campbellrivernow.com/event/rock-gem-show/",
-      "price": "$3",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/rock-gem-show.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13873",
-      "title": "Drag Racing Weekend at Saratoga",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
-      "date": "2026-06-06",
-      "start_time": "10:30",
-      "ticket_url": "https://campbellrivernow.com/event/drag-racing/",
-      "price": "$20",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/drag-racing.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006498",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -10346,15 +10058,27 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12501",
-      "title": "Low Tide Morning: Explore the Beach",
-      "venue": "Willow Point Reef",
-      "city": "Campbell River",
+      "id": "manual:gibsons-jazz-2026-2026-06-13",
+      "title": "Gibsons Landing Jazz Festival 2026",
+      "venue": null,
+      "city": "Gibsons",
+      "date": "2026-06-13",
+      "start_time": null,
+      "ticket_url": "https://www.coastjazz.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:gibsons-jazz-2026-2026-06-14",
+      "title": "Gibsons Landing Jazz Festival 2026",
+      "venue": null,
+      "city": "Gibsons",
       "date": "2026-06-14",
-      "start_time": "07:00",
-      "ticket_url": "https://campbellrivernow.com/event/low-tide-alert/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/tide-pooling.webp",
+      "start_time": null,
+      "ticket_url": "https://www.coastjazz.com/",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -10368,6 +10092,18 @@
       "price": "By Donation",
       "image_url": null,
       "genre": "Jazz"
+    },
+    {
+      "id": "manual:gibsons-jazz-2026-2026-06-15",
+      "title": "Gibsons Landing Jazz Festival 2026",
+      "venue": null,
+      "city": "Gibsons",
+      "date": "2026-06-15",
+      "start_time": null,
+      "ticket_url": "https://www.coastjazz.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
     },
     {
       "id": "livevictoria:903507",
@@ -10514,6 +10250,30 @@
       "genre": null
     },
     {
+      "id": "manual:cowichan-bluegrass-2026-2026-06-19",
+      "title": "Cowichan Valley Bluegrass Festival 2026",
+      "venue": "Laketown Ranch Music Park",
+      "city": "Lake Cowichan",
+      "date": "2026-06-19",
+      "start_time": null,
+      "ticket_url": "https://cowichanbluegrass.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:campbell-bay-2026-2026-06-19",
+      "title": "Campbell Bay Music Fest 2026",
+      "venue": null,
+      "city": "Mayne Island",
+      "date": "2026-06-19",
+      "start_time": null,
+      "ticket_url": "https://www.campbellbaymusicfest.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "livevictoria:907583",
       "title": "St. Cecilia * Women in Music",
       "venue": "The Loft (Victoria)",
@@ -10574,15 +10334,51 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12888",
-      "title": "Father’s Day 2026",
-      "venue": "Campbell River",
-      "city": "Campbell River",
-      "date": "2026-06-21",
-      "start_time": "06:00",
-      "ticket_url": "https://campbellrivernow.com/event/fathers-day/",
+      "id": "manual:cowichan-bluegrass-2026-2026-06-20",
+      "title": "Cowichan Valley Bluegrass Festival 2026",
+      "venue": "Laketown Ranch Music Park",
+      "city": "Lake Cowichan",
+      "date": "2026-06-20",
+      "start_time": null,
+      "ticket_url": "https://cowichanbluegrass.com/",
       "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/fathers-day.webp",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:campbell-bay-2026-2026-06-20",
+      "title": "Campbell Bay Music Fest 2026",
+      "venue": null,
+      "city": "Mayne Island",
+      "date": "2026-06-20",
+      "start_time": null,
+      "ticket_url": "https://www.campbellbaymusicfest.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:cowichan-bluegrass-2026-2026-06-21",
+      "title": "Cowichan Valley Bluegrass Festival 2026",
+      "venue": "Laketown Ranch Music Park",
+      "city": "Lake Cowichan",
+      "date": "2026-06-21",
+      "start_time": null,
+      "ticket_url": "https://cowichanbluegrass.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:campbell-bay-2026-2026-06-21",
+      "title": "Campbell Bay Music Fest 2026",
+      "venue": null,
+      "city": "Mayne Island",
+      "date": "2026-06-21",
+      "start_time": null,
+      "ticket_url": "https://www.campbellbaymusicfest.com/",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -10682,18 +10478,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:18187",
-      "title": "Transformations on the Shore – Carving Competition",
-      "venue": "Frank James Park",
-      "city": "Campbell River",
-      "date": "2026-06-24",
-      "start_time": "00:00",
-      "ticket_url": "https://campbellrivernow.com/event/driftwood-carving-2026/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/03/carving-competition.webp",
-      "genre": null
-    },
-    {
       "id": "livevictoria:903583",
       "title": "Dr. Ring-Ding, Half Past Two, Capital Collective, Bu Von Blume, Young Royal",
       "venue": "Ship Point (Inner Harbour)",
@@ -10740,6 +10524,18 @@
       "price": "$25-$29.95",
       "image_url": null,
       "genre": "Electronic"
+    },
+    {
+      "id": "manual:tofino-jazz-2026-2026-06-25",
+      "title": "Tofino Jazz Festival 2026",
+      "venue": "Royal Canadian Legion Branch 65",
+      "city": "Tofino",
+      "date": "2026-06-25",
+      "start_time": null,
+      "ticket_url": "https://tofinojazzfestival.com/events",
+      "price": null,
+      "image_url": null,
+      "genre": null
     },
     {
       "id": "ticketmaster:rZ7HnEZ1Af7yjf",
@@ -10862,6 +10658,18 @@
       "genre": null
     },
     {
+      "id": "manual:tofino-jazz-2026-2026-06-26",
+      "title": "Tofino Jazz Festival 2026",
+      "venue": "Royal Canadian Legion Branch 65",
+      "city": "Tofino",
+      "date": "2026-06-26",
+      "start_time": null,
+      "ticket_url": "https://tofinojazzfestival.com/events",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "ticketmaster:rZ7HnEZ1AfAZe7",
       "title": "SOULS OF MISCHIEF, CHARLY BLACK, EVA LAZARUS, NICO SUPREME, SONIC ALLEY, TANK GYAL",
       "venue": "Ship Point (Inner Harbour)",
@@ -10946,6 +10754,18 @@
       "genre": null
     },
     {
+      "id": "qathet365:10006504",
+      "title": "Karaoke Night!",
+      "venue": "Cranberry Pub",
+      "city": "Powell River",
+      "date": "2026-06-27",
+      "start_time": "21:00",
+      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-06-27/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "campbellrivernow:12622",
       "title": "Campbell River Pride 2026 Celebration 🌈",
       "venue": "Spirit Square Campbell River",
@@ -10958,13 +10778,13 @@
       "genre": null
     },
     {
-      "id": "qathet365:10006504",
-      "title": "Karaoke Night!",
-      "venue": "Cranberry Pub",
-      "city": "Powell River",
+      "id": "manual:tofino-jazz-2026-2026-06-27",
+      "title": "Tofino Jazz Festival 2026",
+      "venue": "Royal Canadian Legion Branch 65",
+      "city": "Tofino",
       "date": "2026-06-27",
-      "start_time": "21:00",
-      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-06-27/",
+      "start_time": null,
+      "ticket_url": "https://tofinojazzfestival.com/events",
       "price": null,
       "image_url": null,
       "genre": null
@@ -10994,6 +10814,18 @@
       "genre": "Jazz"
     },
     {
+      "id": "manual:tofino-jazz-2026-2026-06-28",
+      "title": "Tofino Jazz Festival 2026",
+      "venue": "Royal Canadian Legion Branch 65",
+      "city": "Tofino",
+      "date": "2026-06-28",
+      "start_time": null,
+      "ticket_url": "https://tofinojazzfestival.com/events",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "livevictoria:903487",
       "title": "Bill Francis * Story & Song",
       "venue": "The Loft (Victoria)",
@@ -11006,15 +10838,15 @@
       "genre": "Jazz"
     },
     {
-      "id": "campbellrivernow:12515",
-      "title": "Full Moon 🌕",
-      "venue": "Willow Point Reef",
-      "city": "Campbell River",
+      "id": "manual:tofino-jazz-2026-2026-06-29",
+      "title": "Tofino Jazz Festival 2026",
+      "venue": "Royal Canadian Legion Branch 65",
+      "city": "Tofino",
       "date": "2026-06-29",
-      "start_time": "20:00",
-      "ticket_url": "https://campbellrivernow.com/event/full-moon-june/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/full-moon-image.webp",
+      "start_time": null,
+      "ticket_url": "https://tofinojazzfestival.com/events",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -11028,6 +10860,18 @@
       "price": "By Donation",
       "image_url": null,
       "genre": "Jazz"
+    },
+    {
+      "id": "manual:victoria-canada-day-2026",
+      "title": "Victoria Canada Day Celebration",
+      "venue": "Legislature Lawns & Inner Harbour",
+      "city": "Victoria",
+      "date": "2026-07-01",
+      "start_time": "15:00",
+      "ticket_url": "https://www.victoria.ca/community-culture/events/victorias-canada-day",
+      "price": "Free",
+      "image_url": null,
+      "genre": null
     },
     {
       "id": "globe_live:true-north-strong-and-heavy-tour",
@@ -11133,6 +10977,18 @@
       "date": "2026-07-04",
       "start_time": "21:00",
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-07-04/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:vic-folk-2026-2026-07-04",
+      "title": "Victoria Folk Music Festival 2026",
+      "venue": null,
+      "city": "Victoria",
+      "date": "2026-07-04",
+      "start_time": null,
+      "ticket_url": "https://vicfolkfest.tickit.ca/",
       "price": null,
       "image_url": null,
       "genre": null
@@ -11510,6 +11366,18 @@
       "genre": null
     },
     {
+      "id": "manual:islands-folk-2026-2026-07-24",
+      "title": "Islands Folk Festival 2026",
+      "venue": "Providence Farm",
+      "city": "Duncan",
+      "date": "2026-07-24",
+      "start_time": null,
+      "ticket_url": "https://www.islandsfolkfestival.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-07-25",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11541,6 +11409,42 @@
       "date": "2026-07-25",
       "start_time": "21:00",
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-07-25/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:islands-folk-2026-2026-07-25",
+      "title": "Islands Folk Festival 2026",
+      "venue": "Providence Farm",
+      "city": "Duncan",
+      "date": "2026-07-25",
+      "start_time": null,
+      "ticket_url": "https://www.islandsfolkfestival.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:islands-folk-2026-2026-07-26",
+      "title": "Islands Folk Festival 2026",
+      "venue": "Providence Farm",
+      "city": "Duncan",
+      "date": "2026-07-26",
+      "start_time": null,
+      "ticket_url": "https://www.islandsfolkfestival.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:sunfest-2026-2026-07-30",
+      "title": "Sunfest Country Music Festival 2026",
+      "venue": null,
+      "city": "Lake Cowichan",
+      "date": "2026-07-30",
+      "start_time": null,
+      "ticket_url": "https://www.sunfestconcerts.com/",
       "price": null,
       "image_url": null,
       "genre": null
@@ -11594,6 +11498,42 @@
       "genre": null
     },
     {
+      "id": "manual:sunfest-2026-2026-07-31",
+      "title": "Sunfest Country Music Festival 2026",
+      "venue": null,
+      "city": "Lake Cowichan",
+      "date": "2026-07-31",
+      "start_time": null,
+      "ticket_url": "https://www.sunfestconcerts.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:filberg-2026-2026-07-31",
+      "title": "Filberg Festival 2026",
+      "venue": "Filberg Heritage Lodge and Park",
+      "city": "Comox Valley",
+      "date": "2026-07-31",
+      "start_time": null,
+      "ticket_url": "https://filbergfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:mosaic-pender-2026-2026-07-31",
+      "title": "Mosaic Arts & Culture Festival 2026",
+      "venue": null,
+      "city": "Pender Island",
+      "date": "2026-07-31",
+      "start_time": null,
+      "ticket_url": "https://www.themosaicfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-08-01",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11630,6 +11570,90 @@
       "genre": null
     },
     {
+      "id": "manual:sunfest-2026-2026-08-01",
+      "title": "Sunfest Country Music Festival 2026",
+      "venue": null,
+      "city": "Lake Cowichan",
+      "date": "2026-08-01",
+      "start_time": null,
+      "ticket_url": "https://www.sunfestconcerts.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:filberg-2026-2026-08-01",
+      "title": "Filberg Festival 2026",
+      "venue": "Filberg Heritage Lodge and Park",
+      "city": "Comox Valley",
+      "date": "2026-08-01",
+      "start_time": null,
+      "ticket_url": "https://filbergfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:mosaic-pender-2026-2026-08-01",
+      "title": "Mosaic Arts & Culture Festival 2026",
+      "venue": null,
+      "city": "Pender Island",
+      "date": "2026-08-01",
+      "start_time": null,
+      "ticket_url": "https://www.themosaicfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:sunfest-2026-2026-08-02",
+      "title": "Sunfest Country Music Festival 2026",
+      "venue": null,
+      "city": "Lake Cowichan",
+      "date": "2026-08-02",
+      "start_time": null,
+      "ticket_url": "https://www.sunfestconcerts.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:filberg-2026-2026-08-02",
+      "title": "Filberg Festival 2026",
+      "venue": "Filberg Heritage Lodge and Park",
+      "city": "Comox Valley",
+      "date": "2026-08-02",
+      "start_time": null,
+      "ticket_url": "https://filbergfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:mosaic-pender-2026-2026-08-02",
+      "title": "Mosaic Arts & Culture Festival 2026",
+      "venue": null,
+      "city": "Pender Island",
+      "date": "2026-08-02",
+      "start_time": null,
+      "ticket_url": "https://www.themosaicfestival.com/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:nanaimo-blues-2026-2026-08-06",
+      "title": "Summertime Blues Festival 2026",
+      "venue": "Maffeo Sutton Park",
+      "city": "Nanaimo",
+      "date": "2026-08-06",
+      "start_time": null,
+      "ticket_url": "https://nanaimoblues.com/",
+      "price": "Free",
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "duke_saloon:backcountry-fridays_2026-08-07",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -11654,6 +11678,18 @@
       "genre": null
     },
     {
+      "id": "qathet365:10006515",
+      "title": "Karaoke Night!",
+      "venue": "Cranberry Pub",
+      "city": "Powell River",
+      "date": "2026-08-07",
+      "start_time": "21:00",
+      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-08-07/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "campbellrivernow:13469",
       "title": "Salmonfest 2026: Salmon Festival",
       "venue": "Nunns Creek Park",
@@ -11666,13 +11702,25 @@
       "genre": null
     },
     {
-      "id": "qathet365:10006515",
-      "title": "Karaoke Night!",
-      "venue": "Cranberry Pub",
-      "city": "Powell River",
+      "id": "manual:nanaimo-blues-2026-2026-08-07",
+      "title": "Summertime Blues Festival 2026",
+      "venue": "Maffeo Sutton Park",
+      "city": "Nanaimo",
       "date": "2026-08-07",
-      "start_time": "21:00",
-      "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-08-07/",
+      "start_time": null,
+      "ticket_url": "https://nanaimoblues.com/",
+      "price": "Free",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:active-passive-2026-2026-08-07",
+      "title": "Active/Passive Festival 2026",
+      "venue": null,
+      "city": "Galiano Island",
+      "date": "2026-08-07",
+      "start_time": null,
+      "ticket_url": "https://www.activepassive.ca/",
       "price": null,
       "image_url": null,
       "genre": null
@@ -11714,18 +11762,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:18236",
-      "title": "Pagan Pride Day Festival",
-      "venue": "Robert Ostler Park",
-      "city": "Campbell River",
-      "date": "2026-08-08",
-      "start_time": "11:00",
-      "ticket_url": "https://campbellrivernow.com/event/pagan-pride/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/pagan-pride-day.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006516",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -11738,15 +11774,111 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12010",
-      "title": "Perseid Meteor Shower Peak ☄️",
-      "venue": null,
-      "city": "",
-      "date": "2026-08-12",
-      "start_time": "22:30",
-      "ticket_url": "https://campbellrivernow.com/event/perseid-meteor-shower/",
+      "id": "campbellrivernow:18236",
+      "title": "Pagan Pride Day Festival",
+      "venue": "Robert Ostler Park",
+      "city": "Campbell River",
+      "date": "2026-08-08",
+      "start_time": "11:00",
+      "ticket_url": "https://campbellrivernow.com/event/pagan-pride/",
+      "price": "Free",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/pagan-pride-day.webp",
+      "genre": null
+    },
+    {
+      "id": "manual:five-acre-shaker-2026-2026-08-08",
+      "title": "Five Acre Shaker 2026",
+      "venue": "Alberni District Fall Fair Grounds",
+      "city": "Port Alberni",
+      "date": "2026-08-08",
+      "start_time": null,
+      "ticket_url": "https://www.fiveacreshaker.ca/",
       "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/01/perseid-meteor-shower.webp",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:nanaimo-blues-2026-2026-08-08",
+      "title": "Summertime Blues Festival 2026",
+      "venue": "Maffeo Sutton Park",
+      "city": "Nanaimo",
+      "date": "2026-08-08",
+      "start_time": null,
+      "ticket_url": "https://nanaimoblues.com/",
+      "price": "Free",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:active-passive-2026-2026-08-08",
+      "title": "Active/Passive Festival 2026",
+      "venue": null,
+      "city": "Galiano Island",
+      "date": "2026-08-08",
+      "start_time": null,
+      "ticket_url": "https://www.activepassive.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:five-acre-shaker-2026-2026-08-09",
+      "title": "Five Acre Shaker 2026",
+      "venue": "Alberni District Fall Fair Grounds",
+      "city": "Port Alberni",
+      "date": "2026-08-09",
+      "start_time": null,
+      "ticket_url": "https://www.fiveacreshaker.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:nanaimo-blues-2026-2026-08-09",
+      "title": "Summertime Blues Festival 2026",
+      "venue": "Maffeo Sutton Park",
+      "city": "Nanaimo",
+      "date": "2026-08-09",
+      "start_time": null,
+      "ticket_url": "https://nanaimoblues.com/",
+      "price": "Free",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:active-passive-2026-2026-08-09",
+      "title": "Active/Passive Festival 2026",
+      "venue": null,
+      "city": "Galiano Island",
+      "date": "2026-08-09",
+      "start_time": null,
+      "ticket_url": "https://www.activepassive.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:five-acre-shaker-2026-2026-08-10",
+      "title": "Five Acre Shaker 2026",
+      "venue": "Alberni District Fall Fair Grounds",
+      "city": "Port Alberni",
+      "date": "2026-08-10",
+      "start_time": null,
+      "ticket_url": "https://www.fiveacreshaker.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:yerba-fest-2026-2026-08-13",
+      "title": "Yerba Fest 2026",
+      "venue": "Stowel Lake Farm",
+      "city": "Salt Spring Island",
+      "date": "2026-08-13",
+      "start_time": null,
+      "ticket_url": null,
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -11781,6 +11913,18 @@
       "date": "2026-08-14",
       "start_time": "21:00",
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-08-14/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:yerba-fest-2026-2026-08-14",
+      "title": "Yerba Fest 2026",
+      "venue": "Stowel Lake Farm",
+      "city": "Salt Spring Island",
+      "date": "2026-08-14",
+      "start_time": null,
+      "ticket_url": null,
       "price": null,
       "image_url": null,
       "genre": null
@@ -11834,6 +11978,18 @@
       "genre": null
     },
     {
+      "id": "manual:yerba-fest-2026-2026-08-15",
+      "title": "Yerba Fest 2026",
+      "venue": "Stowel Lake Farm",
+      "city": "Salt Spring Island",
+      "date": "2026-08-15",
+      "start_time": null,
+      "ticket_url": null,
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
       "id": "livevictoria:902397",
       "title": "Daniel Cook & The Radiators",
       "venue": "Ruby's Barn",
@@ -11842,6 +11998,18 @@
       "start_time": "15:00",
       "ticket_url": "https://livevictoria.com/show/902397/view",
       "price": "$20",
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:yerba-fest-2026-2026-08-16",
+      "title": "Yerba Fest 2026",
+      "venue": "Stowel Lake Farm",
+      "city": "Salt Spring Island",
+      "date": "2026-08-16",
+      "start_time": null,
+      "ticket_url": null,
+      "price": null,
       "image_url": null,
       "genre": null
     },
@@ -12074,18 +12242,6 @@
       "genre": null
     },
     {
-      "id": "campbellrivernow:12978",
-      "title": "Classic Car Show: Annual Show n Shine",
-      "venue": "Shoppers Row",
-      "city": "Campbell River",
-      "date": "2026-09-05",
-      "start_time": "08:00",
-      "ticket_url": "https://campbellrivernow.com/event/classic-car-show/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/show-n-shine.webp",
-      "genre": null
-    },
-    {
       "id": "qathet365:10006524",
       "title": "Karaoke Night!",
       "venue": "Cranberry Pub",
@@ -12093,6 +12249,30 @@
       "date": "2026-09-05",
       "start_time": "21:00",
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-09-05/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:sunshine-music-2026-2026-09-05",
+      "title": "Sunshine Music Festival 2026",
+      "venue": null,
+      "city": "Powell River",
+      "date": "2026-09-05",
+      "start_time": null,
+      "ticket_url": "https://sunshinemusicfest.ca/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "manual:sunshine-music-2026-2026-09-06",
+      "title": "Sunshine Music Festival 2026",
+      "venue": null,
+      "city": "Powell River",
+      "date": "2026-09-06",
+      "start_time": null,
+      "ticket_url": "https://sunshinemusicfest.ca/",
       "price": null,
       "image_url": null,
       "genre": null
@@ -12107,6 +12287,18 @@
       "ticket_url": "https://livevictoria.com/show/911356/view",
       "price": "By Donation",
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "sidwilliams:highwaymen-show-great-outlaws-tribute",
+      "title": "Highwaymen Show - Great Outlaws Tribute",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
+      "date": "2026-09-10",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/highwaymen-show-great-outlaws-tribute/",
+      "price": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850317/bee1986e-1aca-4a27-840e-91ed984927ec.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12311,6 +12503,18 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-09-19/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "sidwilliams:fleetwood-magic",
+      "title": "Fleetwood Magic The Authentic Tribute to Fleetwood Mac",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
+      "date": "2026-09-19",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/fleetwood-magic/",
+      "price": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850335/e09ec3fa-3c6b-4d97-92f7-37d4c977905c.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12959,6 +13163,18 @@
       "ticket_url": "https://qathet365.ca/event/karaoke-night/2026-11-06/",
       "price": null,
       "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "sidwilliams:bee-gees-revisited-the-tribute-show",
+      "title": "Bee Gees Revisited: The Tribute Show",
+      "venue": "Sid Williams Theatre",
+      "city": "Comox Valley",
+      "date": "2026-11-06",
+      "start_time": null,
+      "ticket_url": "https://www.sidwilliamstheatre.com/events/bee-gees-revisited-the-tribute-show/",
+      "price": null,
+      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850529/c35d97bd-d7c5-40cf-9b7b-4e2695519761.800x800p50x50.jpg",
       "genre": null
     },
     {
