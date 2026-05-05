@@ -184,6 +184,9 @@ def fetch_site(cfg: dict) -> list[dict]:
         except urllib.error.URLError as e:
             print(f"  Network error from {base}: {e.reason}", file=sys.stderr)
             break
+        except json.JSONDecodeError as e:
+            print(f"  Invalid JSON from {base}: {e}", file=sys.stderr)
+            break
 
         batch = data.get("events", [])
         if not batch:
