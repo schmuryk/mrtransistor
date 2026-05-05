@@ -247,7 +247,8 @@ def to_live_shows_event(raw: dict, source_id: str, cfg: dict) -> dict | None:
     if cats_lower & exclude_cats:
         return None
 
-    venue_obj  = raw.get("venue") or {}
+    venue_raw  = raw.get("venue") or {}
+    venue_obj  = venue_raw[0] if isinstance(venue_raw, list) else venue_raw
     image_obj  = raw.get("image") or {}
     start      = raw.get("start_date", "")      # "2026-04-10 19:30:00"
     title      = html.unescape(raw.get("title", "")).strip()
