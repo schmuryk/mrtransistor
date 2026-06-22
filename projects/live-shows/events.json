@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15",
+  "generated": "2026-06-22",
   "events": [
     {
       "id": "showpass:683917",
@@ -338,18 +338,6 @@
       "genre": "House, Techno, Tech House"
     },
     {
-      "id": "vieme:69bc5357346d336411d5a47a",
-      "title": "Island DJ Showcase - March 20",
-      "venue": "The Waverley",
-      "city": "Comox Valley",
-      "date": "2026-03-21",
-      "start_time": null,
-      "ticket_url": "https://mteliah.tickit.ca/events/33844-island-dj-showcase-march-20",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7b98c276a_showcase.jpg",
-      "genre": null
-    },
-    {
       "id": "vieme:69bc37f2646fa08663c92443",
       "title": "OSMOSIS JONES",
       "venue": "Capital Ballroom",
@@ -360,6 +348,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/febd1627d_osm.jpeg",
       "genre": "UKG"
+    },
+    {
+      "id": "vieme:69bc5357346d336411d5a47a",
+      "title": "Island DJ Showcase - March 20",
+      "venue": "The Waverley",
+      "city": "Comox Valley",
+      "date": "2026-03-21",
+      "start_time": null,
+      "ticket_url": "https://mteliah.tickit.ca/events/33844-island-dj-showcase-march-20",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7b98c276a_showcase.jpg",
+      "genre": null
     },
     {
       "id": "vieme:697eb514c98e65f7d5b7a813",
@@ -506,18 +506,6 @@
       "genre": "House"
     },
     {
-      "id": "vieme:69b83c1bd4f0441a16745649",
-      "title": "Deep Down Inside Ft: Mr. Moe, J- Feud, Andfriend",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-03-29",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/deep-down-inside-ft-mr-moe-j-feud-andfriends-tickets-1984165099224",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6e9d3cf09_deepdown.jpg",
-      "genre": "House"
-    },
-    {
       "id": "vieme:69b83ca6f97309fd7e60a045",
       "title": "HouseWorx - DJ Soo(Van) OB1Keoni Löblová Balencia",
       "venue": "Lucky Bar",
@@ -540,6 +528,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/8b839b199_vanic.jpg",
       "genre": null
+    },
+    {
+      "id": "vieme:69b83c1bd4f0441a16745649",
+      "title": "Deep Down Inside Ft: Mr. Moe, J- Feud, Andfriend",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-03-29",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/deep-down-inside-ft-mr-moe-j-feud-andfriends-tickets-1984165099224",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6e9d3cf09_deepdown.jpg",
+      "genre": "House"
     },
     {
       "id": "livevictoria:907474",
@@ -974,18 +974,6 @@
       "genre": "Dubstep, Downtempo, House"
     },
     {
-      "id": "vieme:69b840445c4acc0322af59da",
-      "title": "Krafty Kuts & A.Skillz at The Downbeat",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-04-04",
-      "start_time": null,
-      "ticket_url": "https://www.showpass.com/kraftyskillzvictoria",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/171429f7e_krafty.jpg",
-      "genre": "Drum & Bass, Breakbeat, Bass House"
-    },
-    {
       "id": "vieme:69beba51c160ed701d88108f",
       "title": "Dion Timmer",
       "venue": "Capital Ballroom",
@@ -996,6 +984,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/77a1d5863_651147203_1224702259651587_2005902697144565369_n.jpg",
       "genre": "Dubstep"
+    },
+    {
+      "id": "vieme:69b840445c4acc0322af59da",
+      "title": "Krafty Kuts & A.Skillz at The Downbeat",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-04-04",
+      "start_time": null,
+      "ticket_url": "https://www.showpass.com/kraftyskillzvictoria",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/171429f7e_krafty.jpg",
+      "genre": "Drum & Bass, Breakbeat, Bass House"
     },
     {
       "id": "vieme:69c413c69987b6198ca42bbe",
@@ -1766,6 +1766,18 @@
       "genre": "House, Drum & Bass, Bass House, Tech House, Breakbeat"
     },
     {
+      "id": "vieme:69c1962f61bbcb5c427a159a",
+      "title": "Koastle",
+      "venue": "Upstairs Cabaret",
+      "city": "Victoria",
+      "date": "2026-04-11",
+      "start_time": null,
+      "ticket_url": "https://www.ticketweb.ca/event/koastle-upstairs-tickets/14760593?pl=blueprint",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/baf8d457e_649602816_1328776615945373_2242925663486032884_n.jpg",
+      "genre": "Bass House"
+    },
+    {
       "id": "vieme:69bc5cb4e4e817c597e539f9",
       "title": "VicDrip Presents: HOLY FUCKING SHIT - an otherworld fundraiser",
       "venue": "1605 Store Street",
@@ -1776,18 +1788,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9dc77bba1_677.png",
       "genre": "House, Techno, Progressive"
-    },
-    {
-      "id": "vieme:69bc53ba728e9d122bfa8f78",
-      "title": "Kilbourne - Night Theory Tour",
-      "venue": "The Waverley Hotel",
-      "city": "Comox Valley",
-      "date": "2026-04-11",
-      "start_time": null,
-      "ticket_url": "https://mteliah.tickit.ca/events/33977-kilbourne-night-theory-tour",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/da2273886_kill.jpg",
-      "genre": "Dubstep, Drum & Bass, Breakbeat, Techno"
     },
     {
       "id": "vieme:69bc4bdc1db03ba5e3f9a776",
@@ -1802,16 +1802,16 @@
       "genre": "House"
     },
     {
-      "id": "vieme:69c1962f61bbcb5c427a159a",
-      "title": "Koastle",
-      "venue": "Upstairs Cabaret",
-      "city": "Victoria",
+      "id": "vieme:69bc53ba728e9d122bfa8f78",
+      "title": "Kilbourne - Night Theory Tour",
+      "venue": "The Waverley Hotel",
+      "city": "Comox Valley",
       "date": "2026-04-11",
       "start_time": null,
-      "ticket_url": "https://www.ticketweb.ca/event/koastle-upstairs-tickets/14760593?pl=blueprint",
+      "ticket_url": "https://mteliah.tickit.ca/events/33977-kilbourne-night-theory-tour",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/baf8d457e_649602816_1328776615945373_2242925663486032884_n.jpg",
-      "genre": "Bass House"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/da2273886_kill.jpg",
+      "genre": "Dubstep, Drum & Bass, Breakbeat, Techno"
     },
     {
       "id": "vieme:69d004cc6dfba0a407516de0",
@@ -1922,18 +1922,6 @@
       "genre": "Jazz"
     },
     {
-      "id": "vieme:69bc4c7cc30db4f7ce16a649",
-      "title": "Koosh x Murge B2B Breakwater Boogie",
-      "venue": "Breakwater Bistro & Bar",
-      "city": "Victoria",
-      "date": "2026-04-12",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/koosh-x-murge-b2b-breakwater-boogie-tickets-1985103505021",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b4c48c493_koosh.webp",
-      "genre": "House"
-    },
-    {
       "id": "vieme:69b8410ddfa4fe6dbf0dfb97",
       "title": "The Downbeat Presents: Neighbour (Van.), Mood Beach, Mt. Doyle",
       "venue": "The Downbeat",
@@ -1944,6 +1932,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/cf39d1bd6_neigh.jpg",
       "genre": "House, Bass House, Drum & Bass"
+    },
+    {
+      "id": "vieme:69bc4c7cc30db4f7ce16a649",
+      "title": "Koosh x Murge B2B Breakwater Boogie",
+      "venue": "Breakwater Bistro & Bar",
+      "city": "Victoria",
+      "date": "2026-04-12",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/koosh-x-murge-b2b-breakwater-boogie-tickets-1985103505021",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b4c48c493_koosh.webp",
+      "genre": "House"
     },
     {
       "id": "vieme:69bf3093454655ba92095c4c",
@@ -2426,16 +2426,16 @@
       "genre": null
     },
     {
-      "id": "vieme:69dc3f3936ed3440c07554dc",
-      "title": "TOKED UP TECHYA",
-      "venue": "The Downbeat",
-      "city": "Victoria",
+      "id": "vieme:69bac93809c0ecffc4f159ed",
+      "title": "Bring The House Down Vol.2 - Pineo & Loeb",
+      "venue": "Evolve NightClub",
+      "city": "Nanaimo",
       "date": "2026-04-18",
       "start_time": null,
-      "ticket_url": "https://www.eventbrite.com/e/toked-up-techya-bystander-joey-fox-bpmbabe-slow-matt-hatter-squishy-gecko-tickets-1983995339468",
+      "ticket_url": "https://www.eventbrite.ca/e/bring-the-house-down-vol2-pineo-loeb-evolve-nightclub-tickets-1980760172998",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0fc587ce8_image.webp",
-      "genre": "Techno"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9d176e83a_bring.jpg",
+      "genre": "House, Bass House"
     },
     {
       "id": "vieme:69bb4c6856cfe9bb1ae41c28",
@@ -2450,16 +2450,16 @@
       "genre": "Disco, House"
     },
     {
-      "id": "vieme:69bac93809c0ecffc4f159ed",
-      "title": "Bring The House Down Vol.2 - Pineo & Loeb",
-      "venue": "Evolve NightClub",
-      "city": "Nanaimo",
+      "id": "vieme:69dc3f3936ed3440c07554dc",
+      "title": "TOKED UP TECHYA",
+      "venue": "The Downbeat",
+      "city": "Victoria",
       "date": "2026-04-18",
       "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/bring-the-house-down-vol2-pineo-loeb-evolve-nightclub-tickets-1980760172998",
+      "ticket_url": "https://www.eventbrite.com/e/toked-up-techya-bystander-joey-fox-bpmbabe-slow-matt-hatter-squishy-gecko-tickets-1983995339468",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9d176e83a_bring.jpg",
-      "genre": "House, Bass House"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0fc587ce8_image.webp",
+      "genre": "Techno"
     },
     {
       "id": "vieme:69bc5e33116408d66737b70b",
@@ -3746,18 +3746,6 @@
       "genre": null
     },
     {
-      "id": "vieme:69d48bcfbca81372f1d42d1a",
-      "title": "The Downbeat and Home Bass Entertainment Present : Prayer Handz",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-05-02",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/the-downbeat-and-home-bass-entertainment-present-prayer-handz-tickets-1986593756403",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/a8a2132cc_image.webp",
-      "genre": "Bass House, UK Garage, House, Dubstep, Drum & Bass, Tech House"
-    },
-    {
       "id": "vieme:69c841572e9b2ca05ed6e051",
       "title": "Midnight Project Presents: ZERO & Friends",
       "venue": "Capital Ballroom",
@@ -3768,6 +3756,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/776067e8e_4212107d7ae343588ed7a535447d2a42.jpeg",
       "genre": "Bass House"
+    },
+    {
+      "id": "vieme:69d48bcfbca81372f1d42d1a",
+      "title": "The Downbeat and Home Bass Entertainment Present : Prayer Handz",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-05-02",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/the-downbeat-and-home-bass-entertainment-present-prayer-handz-tickets-1986593756403",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/a8a2132cc_image.webp",
+      "genre": "Bass House, UK Garage, House, Dubstep, Drum & Bass, Tech House"
     },
     {
       "id": "vieme:69d5316105ac4e83270c0ab1",
@@ -5054,18 +5054,6 @@
       "genre": null
     },
     {
-      "id": "vieme:69e4faa07158197ec7ac22ce",
-      "title": "Wicked Woods Pre-Party Victoria w Just John & Kimati @ The Downbeat",
-      "venue": "The Downbeat - 1325 Government St, Victoria, BC",
-      "city": "Victoria",
-      "date": "2026-05-23",
-      "start_time": null,
-      "ticket_url": "https://i-m-fast.tickit.ca/events/34547",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6b713aaee_658185988_1463755515763244_1368336383224513864_n.jpg",
-      "genre": "Dubstep, House, UK Garage"
-    },
-    {
       "id": "vieme:69bc542d0b792a1800acac6b",
       "title": "Mind Garden x Mt Eliah Presents: Justin Martin",
       "venue": "Capital Ballroom",
@@ -5076,6 +5064,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/e2e3d9ec4_justin.jpg",
       "genre": "House, Tech House"
+    },
+    {
+      "id": "vieme:69e4faa07158197ec7ac22ce",
+      "title": "Wicked Woods Pre-Party Victoria w Just John & Kimati @ The Downbeat",
+      "venue": "The Downbeat - 1325 Government St, Victoria, BC",
+      "city": "Victoria",
+      "date": "2026-05-23",
+      "start_time": null,
+      "ticket_url": "https://i-m-fast.tickit.ca/events/34547",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6b713aaee_658185988_1463755515763244_1368336383224513864_n.jpg",
+      "genre": "Dubstep, House, UK Garage"
     },
     {
       "id": "vieme:6a0cde2f981cd183557feff4",
@@ -5126,6 +5126,18 @@
       "genre": "Hip-Hop / R&B"
     },
     {
+      "id": "vieme:69bc5471abb8e8e62c60fa1f",
+      "title": "Justin Martin Live at the Native Sons Hall w/ Lady K & em.ash",
+      "venue": "Native Sons Hall",
+      "city": "Comox Valley",
+      "date": "2026-05-24",
+      "start_time": null,
+      "ticket_url": "https://mteliah.tickit.ca/events/34045",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/ba634309b_juist2.jpg",
+      "genre": "House, Techno"
+    },
+    {
       "id": "vieme:6a0dceaa49cedff804589d77",
       "title": "NiGHT SHiFT : QUEER + KiNKY CLUB NiGHT",
       "venue": "The Downbeat",
@@ -5136,18 +5148,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0b1a62659_image3.webp",
       "genre": "House, Techno"
-    },
-    {
-      "id": "vieme:6a04e7de6c7762f8aab939ae",
-      "title": "IMMERSION: Official Deep Roots Pre Party",
-      "venue": "Capital Ballroom",
-      "city": "Victoria",
-      "date": "2026-05-24",
-      "start_time": null,
-      "ticket_url": "https://checkout.admitone.com/D2ZL00",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/f174898de_0f5be3b277044478a8c0fb89f0ed18fc.jpeg",
-      "genre": "House, Bass House"
     },
     {
       "id": "vieme:6959992230d97af7d41fb06a",
@@ -5162,16 +5162,16 @@
       "genre": "House, Techno, Tech House"
     },
     {
-      "id": "vieme:69bc5471abb8e8e62c60fa1f",
-      "title": "Justin Martin Live at the Native Sons Hall w/ Lady K & em.ash",
-      "venue": "Native Sons Hall",
-      "city": "Comox Valley",
+      "id": "vieme:6a04e7de6c7762f8aab939ae",
+      "title": "IMMERSION: Official Deep Roots Pre Party",
+      "venue": "Capital Ballroom",
+      "city": "Victoria",
       "date": "2026-05-24",
       "start_time": null,
-      "ticket_url": "https://mteliah.tickit.ca/events/34045",
+      "ticket_url": "https://checkout.admitone.com/D2ZL00",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/ba634309b_juist2.jpg",
-      "genre": "House, Techno"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/f174898de_0f5be3b277044478a8c0fb89f0ed18fc.jpeg",
+      "genre": "House, Bass House"
     },
     {
       "id": "livevictoria:890929",
@@ -5270,18 +5270,6 @@
       "genre": null
     },
     {
-      "id": "showpass:1449888",
-      "title": "2026 FLEX PACK GAME VOUCHER (32)",
-      "venue": "Wilson's Group Stadium at Royal Athletic Park",
-      "city": "Victoria",
-      "date": "2026-05-29",
-      "start_time": "11:00",
-      "ticket_url": "https://www.showpass.com/2026-32-game-flex-packs/",
-      "price": "$400–$575 CAD",
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-harbourcats/images/a3ac6b22-8bd.png",
-      "genre": null
-    },
-    {
       "id": "showpass:1449887",
       "title": "2026 FLEX PACK GAME VOUCHER (12)",
       "venue": "Wilson's Group Stadium at Royal Athletic Park",
@@ -5291,6 +5279,18 @@
       "ticket_url": "https://www.showpass.com/2026-12-game-pack/",
       "price": "$185–$280 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-harbourcats/images/401eb99d-bb4.png",
+      "genre": null
+    },
+    {
+      "id": "showpass:1449888",
+      "title": "2026 FLEX PACK GAME VOUCHER (32)",
+      "venue": "Wilson's Group Stadium at Royal Athletic Park",
+      "city": "Victoria",
+      "date": "2026-05-29",
+      "start_time": "11:00",
+      "ticket_url": "https://www.showpass.com/2026-32-game-flex-packs/",
+      "price": "$400–$575 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-harbourcats/images/a3ac6b22-8bd.png",
       "genre": null
     },
     {
@@ -5882,54 +5882,6 @@
       "genre": "Jazz"
     },
     {
-      "id": "manual:gibsons-jazz-2026-2026-06-15",
-      "title": "Gibsons Landing Jazz Festival 2026",
-      "venue": null,
-      "city": "Gibsons",
-      "date": "2026-06-15",
-      "start_time": null,
-      "ticket_url": "https://www.coastjazz.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:38111",
-      "title": "English Country Dance",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-06-15",
-      "start_time": "13:00",
-      "ticket_url": "https://gulfislandevents.com/event/english-country-dance/",
-      "price": "Free",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/719755232_1006687392113720_6046838525239387725_n.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:10787",
-      "title": "Drop-in Darts at the Eagles Hall 🎯",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
-      "date": "2026-06-15",
-      "start_time": "18:30",
-      "ticket_url": "https://campbellrivernow.com/event/drop-in-darts-eagles/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/darts-new.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:8814",
-      "title": "PRISMA Festival 2026",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-15",
-      "start_time": "00:00",
-      "ticket_url": "https://qathet365.ca/event/prisma-festival-2026/",
-      "price": null,
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/04/PRISMA-festival-qathet-powell-river-events-music.png",
-      "genre": null
-    },
-    {
       "id": "livevictoria:903507",
       "title": "SWANG THANG!",
       "venue": "The Loft (Victoria)",
@@ -5942,198 +5894,6 @@
       "genre": "Jazz"
     },
     {
-      "id": "coastculture:10114072",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-16",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-16/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115187",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-06-16",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-06-16/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269061",
-      "title": "PR – James Hall: Highland Dance Year End Recital",
-      "venue": "James Hall",
-      "city": "Powell River",
-      "date": "2026-06-16",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/pr-james-hall-highland-dance-year-end-recital/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/06/Highland-Jun-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:242885",
-      "title": "Gumboot Cafe: Sam Tudor",
-      "venue": "Gumboot Cafe",
-      "city": "Roberts Creek",
-      "date": "2026-06-16",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/gumboot-cafe-sam-tudor/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Gumboot-jun-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:14908",
-      "title": "Live Music Lunch with Sean Hogan",
-      "venue": "Spirit Square Campbell River",
-      "city": "Campbell River",
-      "date": "2026-06-16",
-      "start_time": "12:00",
-      "ticket_url": "https://campbellrivernow.com/event/lunch-sean-hogan/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/lunch-square-2.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:9308",
-      "title": "Garneau String Quartet – PRISMA Festival Showcase Concert",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-16",
-      "start_time": "19:30",
-      "ticket_url": "https://qathet365.ca/event/garneau-string-quartet-prisma-festival-showcase-concert/",
-      "price": "$140",
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/Garneau.png",
-      "genre": null
-    },
-    {
-      "id": "humanitix:stevehill-hanging-charslanding-portalberni",
-      "title": "Steve Hill, Hanging on a String @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-06-16",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/stevehill-hanging-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/ad0c13c6-8238-421d-b0de-ee9f7b6d2208.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114073",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-17",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-17/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10108675",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-06-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-06-17/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:264266",
-      "title": "PR – The Alley: Sam Tudor with Malcom Jack",
-      "venue": "The Alley",
-      "city": "Powell River",
-      "date": "2026-06-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/pr-the-alley-sam-tudor-with-malcom-jack/",
-      "price": "$16.50",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/sam-tudor-jun-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37592",
-      "title": "Mini Melodies Family Music Class",
-      "venue": "125A Rainbow Road, Salt Spring Island, BC",
-      "city": "Salt Spring Island",
-      "date": "2026-06-17",
-      "start_time": "10:00",
-      "ticket_url": "https://gulfislandevents.com/event/mini-melodies-family-music-class-2/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/IMG_20230313_103410-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37801",
-      "title": "Black Mountain Twin Oscillations Tour",
-      "venue": "Oxeye",
-      "city": "Galiano Island",
-      "date": "2026-06-17",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/black-mountain-twin-oscillations-tour/",
-      "price": "$25",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/713663930_10174801959980711_3907728856431497786_n-1-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18608",
-      "title": "Family Place: Free Outdoor Activities",
-      "venue": "Sybil Andrews Cottage",
-      "city": "Campbell River",
-      "date": "2026-06-17",
-      "start_time": "08:45",
-      "ticket_url": "https://campbellrivernow.com/event/family-place-wp2/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/04/fami-place-wp2.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18617",
-      "title": "Special Guided Walk of Willow Point Reef!",
-      "venue": "Willow Point Reef",
-      "city": "Campbell River",
-      "date": "2026-06-17",
-      "start_time": "12:30",
-      "ticket_url": "https://campbellrivernow.com/event/guided-tide-walk/",
-      "price": "$7 – $15",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/04/tide-walk1.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17700",
-      "title": "Cafe Ole: Live at Beach Fire",
-      "venue": "Beach Fire Brewing",
-      "city": "Campbell River",
-      "date": "2026-06-17",
-      "start_time": "18:00",
-      "ticket_url": "https://campbellrivernow.com/event/cafe-ole-live/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/cafe-ole.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:9310",
-      "title": "2026 Concerto Competition – Students in the Spotlight – PRISMA Festival",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-17",
-      "start_time": "19:30",
-      "ticket_url": "https://qathet365.ca/event/2026-concerto-competition-students-in-the-spotlight-prisma-festival/",
-      "price": null,
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/Concerto.png",
-      "genre": null
-    },
-    {
       "id": "livevictoria:912161",
       "title": "Modo-live Presents John Butler Band",
       "venue": "McPherson Playhouse",
@@ -6143,138 +5903,6 @@
       "ticket_url": "https://livevictoria.com/show/912161/view",
       "price": "$74",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114074",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-18",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-18/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:247753",
-      "title": "Madeira Park Legion: Happy Hour – Charlie Veaudry",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-06-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-happy-hour-charlie-veaudry/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/11/Mad-Park-Happy-Jun-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116105",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-18/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269901",
-      "title": "Roberts Creek Hall: Our Food, Our Story",
-      "venue": "Roberts Creek Community Hall",
-      "city": "Roberts Creek",
-      "date": "2026-06-18",
-      "start_time": "17:30",
-      "ticket_url": "https://coastculture.com/event/roberts-creek-hall-our-food-our-story/",
-      "price": "$100",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/03/Our-Food-Jun-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:158206",
-      "title": "Tapworks: Timbitz",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-06-18",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-timbitz/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/04/timbitz-Jun-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10108544",
-      "title": "PR – Wildwood Improv Nights",
-      "venue": "Wildwood Public House",
-      "city": "Powell River",
-      "date": "2026-06-18",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/pr-wildwood-improv-nights/2026-06-18/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/03/improve-bears.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18087",
-      "title": "Youth Health Clinic @ Foundry",
-      "venue": "Foundry @ John Howard",
-      "city": "Campbell River",
-      "date": "2026-06-18",
-      "start_time": "14:00",
-      "ticket_url": "https://campbellrivernow.com/event/youth-health-clinic-foundry/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/02/youth-health-clinic.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18737",
-      "title": "World Cup Watch Party Celebration",
-      "venue": "Robron Park",
-      "city": "Campbell River",
-      "date": "2026-06-18",
-      "start_time": "14:30",
-      "ticket_url": "https://campbellrivernow.com/event/world-cup-party/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/05/world-cup-celebration.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18999",
-      "title": "Ben Jackson Live at The Riptide",
-      "venue": "Riptide Marine Pub",
-      "city": "Campbell River",
-      "date": "2026-06-18",
-      "start_time": "18:30",
-      "ticket_url": "https://campbellrivernow.com/event/ben-jackson-riptide/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/11/ben-jackson-cr.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:14737",
-      "title": "Poker Night at the Eagles Lounge",
-      "venue": "Eagles Hall",
-      "city": "Campbell River",
-      "date": "2026-06-18",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/poker-night-eagles-hall/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/10/poker-night.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:9314",
-      "title": "Four Season by Candlelight – Grand Opening Gala – PRISMA Festival",
-      "venue": "Evergreen Theater",
-      "city": "Powell River",
-      "date": "2026-06-18",
-      "start_time": "19:30",
-      "ticket_url": "https://qathet365.ca/event/four-season-by-candlelight-grand-opening-gala-prisma-festival/",
-      "price": "Free – $140",
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/Opening.png",
       "genre": null
     },
     {
@@ -6314,232 +5942,16 @@
       "genre": null
     },
     {
-      "id": "manual:cowichan-bluegrass-2026-2026-06-19",
-      "title": "Cowichan Valley Bluegrass Festival 2026",
-      "venue": "Laketown Ranch Music Park",
-      "city": "Lake Cowichan",
+      "id": "vieme:6a31e084caf131b02a6c9665",
+      "title": "Pressure Thursday",
+      "venue": "The Downbeat",
+      "city": "Victoria",
       "date": "2026-06-19",
       "start_time": null,
-      "ticket_url": "https://cowichanbluegrass.com/",
+      "ticket_url": null,
       "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "manual:campbell-bay-2026-2026-06-19",
-      "title": "Campbell Bay Music Fest 2026",
-      "venue": null,
-      "city": "Mayne Island",
-      "date": "2026-06-19",
-      "start_time": null,
-      "ticket_url": "https://www.campbellbaymusicfest.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114075",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-19",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-19/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116106",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-19",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-19/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:230352",
-      "title": "Persephone: Mad Cow",
-      "venue": "Persephone Beer Farm",
-      "city": "Gibsons",
-      "date": "2026-06-19",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/persephone-mad-cow/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/04/Mad-Cow-no-date-new-Aug-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116113",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-06-19",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-06-19/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:270091",
-      "title": "RC Hall: Youth Pride Dance",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2026-06-19",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/rc-hall-youth-pride-dance/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/06/youth-pride-jun-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269157",
-      "title": "Tapworks: Jesse Lebourdais",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-06-19",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-jesse-lebourdais/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Jesse-Jun-19.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:143043",
-      "title": "PR – Carlson Community Club: The Nazareth",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-06-19",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-community-club-the-nazareth/",
-      "price": "$30 – $40",
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/10/nazareth-jun-19.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36912",
-      "title": "Community Gatherings",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-06-19",
-      "start_time": "12:00",
-      "ticket_url": "https://gulfislandevents.com/event/community-gatherings/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/6a11c4a2f035bcb235072b42.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37322",
-      "title": "Live Music At the Inn",
-      "venue": "Galiano Oceanfront Inn and Spa",
-      "city": "Galiano Island",
-      "date": "2026-06-19",
-      "start_time": "16:30",
-      "ticket_url": "https://gulfislandevents.com/event/live-music-at-the-inn-5/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/713665907_10239634184344440_1755214394912175348_n.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:10003708",
-      "title": "MODULATIONS: Music at Mahon ft. Wood Land",
-      "venue": "Mahon Hall",
-      "city": "Salt Spring Island",
-      "date": "2026-06-19",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/modulations-music-at-mahon-ft-wood-land/2026-06-19/",
-      "price": "Free",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Wood-Land-at-Mahon-Hall-1219.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36203",
-      "title": "The Luckies – Hilary Grist, Shari Ulrich & Jeanne Tolmie",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-06-19",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/the-luckies-hilary-grist-shari-ulrich-jeanne-tolmie/",
-      "price": "$30",
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12849",
-      "title": "Cam Boyce (FanFare Strings) Live",
-      "venue": "SoCal Restaurant &#038; Lounge",
-      "city": "Campbell River",
-      "date": "2026-06-19",
-      "start_time": "17:30",
-      "ticket_url": "https://campbellrivernow.com/event/fanfare-strings-cam-socal/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/fanfare-cam.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:19039",
-      "title": "Oktiv6 and Funkyard: Free Concert",
-      "venue": "Spirit Square Campbell River",
-      "city": "Campbell River",
-      "date": "2026-06-19",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/oktiv6-and-funkyard/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/06/octiv6-cr.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:14044",
-      "title": "DJ DBL G Spinning at Match Pub",
-      "venue": "Chances Casino &#038; Match Eatery",
-      "city": "Campbell River",
-      "date": "2026-06-19",
-      "start_time": "20:00",
-      "ticket_url": "https://campbellrivernow.com/event/dj-at-match-pub/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/dj-dbl-g.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:9316",
-      "title": "Visions of the Romantic Soul – PRISMA Festival Orchestra Symphony Concert",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-19",
-      "start_time": "19:30",
-      "ticket_url": "https://qathet365.ca/event/visions-of-the-romantic-soul-prisma-festival-orchestra-symphony-concert/",
-      "price": null,
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/Week1.png",
-      "genre": null
-    },
-    {
-      "id": "humanitix:bluetaffetapartydress-dennishawkinsbogle-charslanding-portalberni",
-      "title": "The Blue Taffeta Party Dress & Other Stories @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-06-19",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/bluetaffetapartydress-dennishawkinsbogle-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/ce77e237-cebf-406f-b4e3-d48f122314fd.png@original",
-      "genre": null
-    },
-    {
-      "id": "tofinotheatre:tsimka-michael-red-2026-06-19",
-      "title": "Tsimka & Michael Red",
-      "venue": "Clayoquot Sound Theatre",
-      "city": "Tofino",
-      "date": "2026-06-19",
-      "start_time": "20:30",
-      "ticket_url": "https://www.showpass.com/tsimka-michael-red/",
-      "price": null,
-      "image_url": "https://static.wixstatic.com/media/c604d1_949af7a9a56d46478e42d6aaef44fb27~mv2.jpg",
-      "genre": null
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/4bd1a238e_724653547_122224923152316137_5170566903168933119_n.jpg",
+      "genre": "House"
     },
     {
       "id": "livevictoria:907583",
@@ -6590,234 +6002,6 @@
       "genre": null
     },
     {
-      "id": "manual:cowichan-bluegrass-2026-2026-06-20",
-      "title": "Cowichan Valley Bluegrass Festival 2026",
-      "venue": "Laketown Ranch Music Park",
-      "city": "Lake Cowichan",
-      "date": "2026-06-20",
-      "start_time": null,
-      "ticket_url": "https://cowichanbluegrass.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "manual:campbell-bay-2026-2026-06-20",
-      "title": "Campbell Bay Music Fest 2026",
-      "venue": null,
-      "city": "Mayne Island",
-      "date": "2026-06-20",
-      "start_time": null,
-      "ticket_url": "https://www.campbellbaymusicfest.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:269416",
-      "title": "Downtown Sechelt: TASTE OF SECHELT",
-      "venue": "Downtown Sechelt",
-      "city": "Sechelt",
-      "date": "2026-06-20",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/downtown-sechelt-taste-of-sechelt/",
-      "price": "$25.00",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Taste-26-community-board-8.5-x-11-in.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114076",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-20",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-20/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269169",
-      "title": "Persephone: Rick Raymond",
-      "venue": "Persephone Beer Farm",
-      "city": "Gibsons",
-      "date": "2026-06-20",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/persephone-rick-raymond/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/11/Rick-Raymond-no-name.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116107",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-20",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-20/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:222545",
-      "title": "Backeddy Pub: Charlie Veaudry",
-      "venue": "Backeddy Pub",
-      "city": "Egmont",
-      "date": "2026-06-20",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/backeddy-pub-charlie-veaudry/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Charlie-Back-Eddy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116250",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-06-20",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-06-20/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:131967",
-      "title": "Persephone: The Billy Hillpicker Band",
-      "venue": "Persephone Brewing",
-      "city": "Gibsons",
-      "date": "2026-06-20",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/persephone-the-billy-hillpicker-band/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2020/08/billy-hillpicker-band.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:220074",
-      "title": "Sechelt Legion: Team Janice-Fight Against Cancer Fundraiser",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-06-20",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-team-janice-fight-against-cancer-fundraiser/",
-      "price": "$10",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/04/Turbo-fundraiser-Jun-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:239379",
-      "title": "Tapworks: Jess Hart",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-06-20",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-jess-hart/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Jess-Hart-Jun-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:262749",
-      "title": "SSAC: Julio Avila Cuban Band",
-      "venue": "Sechelt Seniors Activity Centre",
-      "city": "Sechelt",
-      "date": "2026-06-20",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/ssac-julio-avila-cuban-band/",
-      "price": "$30 – $35",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/03/Julio-June-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:264263",
-      "title": "PR – The Alley: No Faith In Fortune / Endr / Josh",
-      "venue": "The Alley",
-      "city": "Powell River",
-      "date": "2026-06-20",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/pr-the-alley-no-faith-in-fortune-endr-josh/",
-      "price": "$10 – $15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/no-fairth-jun-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:144791",
-      "title": "101 Brewhouse: Country Night",
-      "venue": "The 101 Brewhouse + Distillery",
-      "city": "Gibsons",
-      "date": "2026-06-20",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/101-brewhouse-country-night/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/11/country-night-no-date.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:248093",
-      "title": "RC Legion: This Flight Tonight – Nazareth Tribute",
-      "venue": "Roberts Creek Legion, #219",
-      "city": "Roberts Creek",
-      "date": "2026-06-20",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-this-flight-tonight-nazareth-tribute/",
-      "price": "$20 – $30",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/11/Nazareth-Jun-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36250",
-      "title": "Viva Chorale presents The Fern Collectors",
-      "venue": "All Saints by-the-Sea Anglican Church",
-      "city": "Salt Spring Island",
-      "date": "2026-06-20",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/viva-chorale-presents-the-fern-collectors/",
-      "price": "$5 – $30",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/2026-06-20-21-VC-Poster-FERNS-final1.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37974",
-      "title": "Daniel Cook & The Radiators",
-      "venue": "Lighthouse Pub",
-      "city": "",
-      "date": "2026-06-20",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/daniel-cook-the-radiators/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/720207605_1623468679787560_5487403173543882887_n.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13739",
-      "title": "Race Night at Saratoga: Crash to Pass",
-      "venue": "Saratoga Speedway",
-      "city": "Comox Valley",
-      "date": "2026-06-20",
-      "start_time": "17:00",
-      "ticket_url": "https://campbellrivernow.com/event/crash-to-pass/",
-      "price": "$28",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/05/race-night-saratoga.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:9318",
-      "title": "Visions of the Romantic Soul Matineé- PRISMA Festival Orchestra Symphony Concert",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-20",
-      "start_time": "13:30",
-      "ticket_url": "https://qathet365.ca/event/visions-of-the-romantic-soul-matinee-prisma-festival-orchestra-symphony-concert/",
-      "price": null,
-      "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/S2S.png",
-      "genre": null
-    },
-    {
       "id": "vieme:6a189c7e93f3f39522d3f0c0",
       "title": "Cultured Crew and The Downbeat Present: Thomas Workshop, Audiofox, Moses",
       "venue": "The Downbeat event centre, 1325 Government Street, Victoria, BC V8W 1M5",
@@ -6830,186 +6014,6 @@
       "genre": "House, Breakbeat"
     },
     {
-      "id": "humanitix:judycollins-charslanding-portalberni",
-      "title": "Judy Collins: Sweet Judy Blue Eyes: Farewell @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-06-20",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/judycollins-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/d452c1e4-52c4-48d7-adc4-81a30bf190e7.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "manual:cowichan-bluegrass-2026-2026-06-21",
-      "title": "Cowichan Valley Bluegrass Festival 2026",
-      "venue": "Laketown Ranch Music Park",
-      "city": "Lake Cowichan",
-      "date": "2026-06-21",
-      "start_time": null,
-      "ticket_url": "https://cowichanbluegrass.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "manual:campbell-bay-2026-2026-06-21",
-      "title": "Campbell Bay Music Fest 2026",
-      "venue": null,
-      "city": "Mayne Island",
-      "date": "2026-06-21",
-      "start_time": null,
-      "ticket_url": "https://www.campbellbaymusicfest.com/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114087",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-21",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-21/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114077",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-21",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-21/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:252064",
-      "title": "Madeira Park Legion: Blue Western",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-06-21",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-blue-western/",
-      "price": "$10",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/12/Blue-Western-June-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115885",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-06-21",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-06-21/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115324",
-      "title": "Banditry Cider: Open Mic Night – [Select Sundays]",
-      "venue": "Banditry Cider",
-      "city": "Gibsons",
-      "date": "2026-06-21",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/banditry-cider-open-mic-night-select-sundays/2026-06-21/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Banditry-Aug-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37597",
-      "title": "Mini Melodies Family Music Class",
-      "venue": "125A Rainbow Road, Salt Spring Island, BC",
-      "city": "Salt Spring Island",
-      "date": "2026-06-21",
-      "start_time": "11:00",
-      "ticket_url": "https://gulfislandevents.com/event/mini-melodies-family-music-class-3/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/Miss-Tangle-and-Friends-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:38005",
-      "title": "Norm Smith",
-      "venue": "Sage Hayward Vineyards",
-      "city": "Saturna Island",
-      "date": "2026-06-21",
-      "start_time": "11:30",
-      "ticket_url": "https://gulfislandevents.com/event/norm-smith/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/717538033_1665589291837105_827899351659149555_n.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36255",
-      "title": "Viva Chorale presents The Fern Collectors",
-      "venue": "All Saints by-the-Sea Anglican Church",
-      "city": "Salt Spring Island",
-      "date": "2026-06-21",
-      "start_time": "14:00",
-      "ticket_url": "https://gulfislandevents.com/event/viva-chorale-presents-the-fern-collectors-2/",
-      "price": "$5 – $30",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/2026-06-20-21-VC-Poster-FERNS-final1-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:14005",
-      "title": "Summer Solstice ☀️",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-21",
-      "start_time": "00:00",
-      "ticket_url": "https://campbellrivernow.com/event/summer-solstice/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/summer-soltice.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:19078",
-      "title": "Indigenous People Day Celebrations",
-      "venue": "Robert Ostler Park",
-      "city": "Campbell River",
-      "date": "2026-06-21",
-      "start_time": "08:00",
-      "ticket_url": "https://campbellrivernow.com/event/indigenous-people-day/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/06/nipd-title.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:19081",
-      "title": "Rotary Club Pancake Breakfast",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-06-21",
-      "start_time": "08:00",
-      "ticket_url": "https://campbellrivernow.com/event/rotary-club-pancake-breakfast/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/pancake-breakfast.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:14987",
-      "title": "Visit MARS Wildlife Rescue Centre",
-      "venue": "MARS Wildlife Rescue Centre",
-      "city": "Comox Valley",
-      "date": "2026-06-21",
-      "start_time": "10:00",
-      "ticket_url": "https://campbellrivernow.com/event/mars-wildlife/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/10/mars-eagle-tour.webp",
-      "genre": null
-    },
-    {
       "id": "vieme:69d6e02548772455ad5c334b",
       "title": "Houseworx - Fundipz That's Good Lucy Ford Jenee Pleeze Christoph",
       "venue": "Lucky Bar",
@@ -7020,6 +6024,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/89527a512_image.webp",
       "genre": "House, UK Garage, Drum & Bass, Breakbeat, Techno, Psy Trance, Tech House, Disco"
+    },
+    {
+      "id": "vieme:6a3205f5922cf725f9390a88",
+      "title": "Lito Ford All Nite Long",
+      "venue": "1605 Store Street",
+      "city": "Victoria",
+      "date": "2026-06-21",
+      "start_time": null,
+      "ticket_url": "https://rhythm-you-should-hear.bloomtickets.ca/event/1797",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/a9f8355bc_720988788_26645972595080130_3108923834582015789_n.jpg",
+      "genre": "House, Techno, Disco, Indie Dance"
     },
     {
       "id": "vieme:6a1f09f1007f8d49976f1a1f",
@@ -7046,30 +6062,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114088",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-22",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-22/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114078",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-22",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-22/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:16429",
       "title": "Hike to Elk Falls",
       "venue": "Elk Falls Provincial Park",
@@ -7079,6 +6071,18 @@
       "ticket_url": "https://campbellrivernow.com/event/hike-elk-falls/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/10/elk-falls-hike.webp",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:10787",
+      "title": "Drop-in Darts at the Eagles Hall 🎯",
+      "venue": "Eagles Hall",
+      "city": "Campbell River",
+      "date": "2026-06-22",
+      "start_time": "18:30",
+      "ticket_url": "https://campbellrivernow.com/event/drop-in-darts-eagles/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/darts-new.webp",
       "genre": null
     },
     {
@@ -7118,42 +6122,6 @@
       "genre": "Electronic"
     },
     {
-      "id": "coastculture:10114089",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-23",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-23/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114079",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-23",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-23/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115188",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-06-23",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-06-23/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18932",
       "title": "Easy Street Duo: Lunch in the Square",
       "venue": "Spirit Square Campbell River",
@@ -7175,6 +6143,18 @@
       "ticket_url": "https://qathet365.ca/event/prisma-for-kids-peter-and-the-wolf-concert-fun-fair/",
       "price": null,
       "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/P4K.png",
+      "genre": null
+    },
+    {
+      "id": "humanitix:avcac-permanentartcollection-charslanding-portalberni",
+      "title": "AVCAC Permanent Art Collection Feedback Session @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
+      "date": "2026-06-23",
+      "start_time": "19:00",
+      "ticket_url": "https://events.humanitix.com/avcac-permanentartcollection-charslanding-portalberni?hxchl=hex-pfl",
+      "price": null,
+      "image_url": "https://images.humanitix.com/i/2aa6d443-edfd-40f1-bfbe-79c1a0cdf1c3.jpg@original",
       "genre": null
     },
     {
@@ -7202,51 +6182,15 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114090",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
+      "id": "campbellrivernow:18608",
+      "title": "Family Place: Free Outdoor Activities",
+      "venue": "Sybil Andrews Cottage",
+      "city": "Campbell River",
       "date": "2026-06-24",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-24/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114080",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-24",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-24/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10108676",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-06-24",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-06-24/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37607",
-      "title": "Mini Melodies Family Music Class",
-      "venue": "125A Rainbow Road, Salt Spring Island, BC",
-      "city": "Salt Spring Island",
-      "date": "2026-06-24",
-      "start_time": "10:00",
-      "ticket_url": "https://gulfislandevents.com/event/mini-melodies-family-music-class-4/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/IMG_20230313_102712-1-scaled.jpg",
+      "start_time": "08:45",
+      "ticket_url": "https://campbellrivernow.com/event/family-place-wp2/",
+      "price": "Free",
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/04/fami-place-wp2.webp",
       "genre": null
     },
     {
@@ -7286,6 +6230,18 @@
       "genre": null
     },
     {
+      "id": "humanitix:https-events-humanitix-com-electricmermaid-livereads-charslanding-portalberni-jun24",
+      "title": "Electric Mermaid Live Reads Featuring: Margot Fedoruk @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
+      "date": "2026-06-24",
+      "start_time": "18:00",
+      "ticket_url": "https://events.humanitix.com/https-events-humanitix-com-electricmermaid-livereads-charslanding-portalberni-jun24?hxchl=hex-pfl",
+      "price": null,
+      "image_url": "https://images.humanitix.com/i/c1c4a517-3371-46e6-92b9-9e71b5ed4d91.jpg@original",
+      "genre": null
+    },
+    {
       "id": "livevictoria:903583",
       "title": "Dr. Ring-Ding, Half Past Two, Capital Collective, Bu Von Blume, Young Royal",
       "venue": "Ship Point (Inner Harbour)",
@@ -7319,54 +6275,6 @@
       "ticket_url": "https://tofinojazzfestival.com/events",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114091",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-25",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-25/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114081",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-25",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-25/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116108",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-25",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-25/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37966",
-      "title": "Wild Little Spring Sail Boat Tour",
-      "venue": "Hummingbird Pub &amp; Family Restaurant",
-      "city": "Galiano Island",
-      "date": "2026-06-25",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/wild-little-spring-sail-boat-tour/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/723407041_1615227887274586_561555544575164230_n-scaled.jpg",
       "genre": null
     },
     {
@@ -7502,102 +6410,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114092",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-26",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-26/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114082",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-26",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-26/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116109",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-26",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-26/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116114",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-06-26",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-06-26/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269247",
-      "title": "Cafè de la Guitarra",
-      "venue": "Sweet &#038; Savory Bakery",
-      "city": "Gibsons",
-      "date": "2026-06-26",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/cafe-de-la-guitarra/",
-      "price": "$20 – $25",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/BradleyPoster-SweetnSavoury.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:210831",
-      "title": "RC Legion: Matchbox Bluze",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-06-26",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-matchbox-bluze/",
-      "price": "$10 – $15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/01/matchbox-bluze-no-date.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116225",
-      "title": "4th Annual Sunshine Shakedown",
-      "venue": "Roberts Creek Community Hall",
-      "city": "Roberts Creek",
-      "date": "2026-06-26",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/4th-annual-sunshine-shakedown/2026-06-26/",
-      "price": "$35",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/06/Shakedown-landscape-QR.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37837",
-      "title": "Live Music Alt-Country & Folk Rock",
-      "venue": "Hummingbird Pub &amp; Family Restaurant",
-      "city": "Galiano Island",
-      "date": "2026-06-26",
-      "start_time": "20:00",
-      "ticket_url": "https://gulfislandevents.com/event/live-music-alt-country-folk-rock/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/719891745_1613713937425981_5446098277794769020_n.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18968",
       "title": "Sound Factory Duo Live",
       "venue": "SoCal Restaurant &#038; Lounge",
@@ -7643,6 +6455,18 @@
       "ticket_url": "https://qathet365.ca/event/songs-of-the-land-music-of-the-stars-prisma-festival-symphony-concert/",
       "price": "Free – $140",
       "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/Week2.png",
+      "genre": null
+    },
+    {
+      "id": "qathet365:12328",
+      "title": "Pepper Sprouts at The Wildwood Pub",
+      "venue": "Wildwood Pub",
+      "city": "Powell River",
+      "date": "2026-06-26",
+      "start_time": "19:30",
+      "ticket_url": "https://qathet365.ca/event/pepper-sprouts-at-the-wildwood-pub/",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -7706,90 +6530,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114093",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-27",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-27/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114083",
-      "title": "PR – PRISMA (Pacific Region International Summer Music Association)",
-      "venue": "Evergreen Theatre",
-      "city": "Powell River",
-      "date": "2026-06-27",
-      "start_time": "13:30",
-      "ticket_url": "https://coastculture.com/event/pr-prisma-pacific-region-international-summer-music-association/2026-06-27/",
-      "price": "Free – $5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/PRISMA-orchestra.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116110",
-      "title": "Sechelt Legion: June Schedule",
-      "venue": "Royal Canadian Legion Branch 140",
-      "city": "Sechelt",
-      "date": "2026-06-27",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-june-schedule/2026-06-27/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/09/Sechelt-Legion-June-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116226",
-      "title": "4th Annual Sunshine Shakedown",
-      "venue": "Roberts Creek Community Hall",
-      "city": "Roberts Creek",
-      "date": "2026-06-27",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/4th-annual-sunshine-shakedown/2026-06-27/",
-      "price": "$35",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/06/Shakedown-landscape-QR.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:245985",
-      "title": "Backeddy Pub: Rebecca Lorna & Jeremy Forester",
-      "venue": "Backeddy Resort &amp; Marina",
-      "city": "Egmont",
-      "date": "2026-06-27",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/backeddy-pub-rebecca-lorna-jeremy-forester/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/10/Rebecca-Back-Eddy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116251",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-06-27",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-06-27/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36767",
-      "title": "Sea to Seas: Strong and Free concert",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-06-27",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/sea-to-seas-strong-and-free-concert/",
-      "price": "$25",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Spring-2026-Sea-to-Seas-poster-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:12622",
       "title": "Campbell River Pride 2026 Celebration 🌈",
       "venue": "Spirit Square Campbell River",
@@ -7799,6 +6539,18 @@
       "ticket_url": "https://campbellrivernow.com/event/campbell-river-pride/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/02/pride-cr.webp",
+      "genre": null
+    },
+    {
+      "id": "campbellrivernow:12815",
+      "title": "Live Music Saturday at the Eagles",
+      "venue": "Eagles Hall",
+      "city": "Campbell River",
+      "date": "2026-06-27",
+      "start_time": "16:00",
+      "ticket_url": "https://campbellrivernow.com/event/the-jam-eagles/",
+      "price": null,
+      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/the-jam-eagles.webp",
       "genre": null
     },
     {
@@ -7824,6 +6576,30 @@
       "price": null,
       "image_url": "https://qathet365.ca/wp-content/uploads/2026/05/POTB.png",
       "genre": null
+    },
+    {
+      "id": "qathet365:12331",
+      "title": "Sunset Sessions 1",
+      "venue": "Powell River Legion Branch #164",
+      "city": "Powell River",
+      "date": "2026-06-27",
+      "start_time": "20:00",
+      "ticket_url": "https://qathet365.ca/event/sunset-sessions-1/",
+      "price": null,
+      "image_url": null,
+      "genre": null
+    },
+    {
+      "id": "vieme:6a362624246a9e76f706938a",
+      "title": "HOT JAM tv Presents: Disco Cat, Santos Mx - YYJ GROOVES",
+      "venue": "Artemis Whiskey Bar",
+      "city": "Victoria",
+      "date": "2026-06-27",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.com/e/ht-jam-sessions-2-yyj-grooves-tickets-1991040287096",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/819167b98_image3.webp",
+      "genre": "House, Disco"
     },
     {
       "id": "livevictoria:903604",
@@ -7859,42 +6635,6 @@
       "ticket_url": "https://tofinojazzfestival.com/events",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114094",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-28",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-28/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:245845",
-      "title": "PR – Carlson Community Club: Multiculturalism Day",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-06-28",
-      "start_time": "11:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-community-club-multiculturalism-day/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/10/multi-jun-28.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115886",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-06-28",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-06-28/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
       "genre": null
     },
     {
@@ -7982,18 +6722,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114095",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-29",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-29/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:903508",
       "title": "SWANG THANG!",
       "venue": "The Loft (Victoria)",
@@ -8004,30 +6732,6 @@
       "price": "By Donation",
       "image_url": null,
       "genre": "Jazz"
-    },
-    {
-      "id": "coastculture:10114096",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-06-30",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-06-30/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115189",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-06-30",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-06-30/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
     },
     {
       "id": "campbellrivernow:18918",
@@ -8054,54 +6758,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10114097",
-      "title": "Sechelt: syiyaya Days",
-      "venue": null,
-      "city": "",
-      "date": "2026-07-01",
-      "start_time": "10:30",
-      "ticket_url": "https://coastculture.com/event/sechelt-syiyaya-days/2026-07-01/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/syiyaya-Jul-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116757",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-07-01",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-07-01/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37399",
-      "title": "77th Canada Day Lamb BBQ",
-      "venue": null,
-      "city": "",
-      "date": "2026-07-01",
-      "start_time": "10:00",
-      "ticket_url": "https://gulfislandevents.com/event/77th-canada-day-lamb-bbq/",
-      "price": "$15 – $30",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-152906.png",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:38020",
-      "title": "Smith & Vuur",
-      "venue": "Lighthouse Pub",
-      "city": "",
-      "date": "2026-07-01",
-      "start_time": "18:00",
-      "ticket_url": "https://gulfislandevents.com/event/smith-vuur-2/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/671015732_1619055999823768_7226666258943208870_n.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:14497",
       "title": "Canada Day Fireworks",
       "venue": "Robert Ostler Park",
@@ -8123,42 +6779,6 @@
       "ticket_url": "https://www.theglobelivestudio.com/events/true-north-strong-and-heavy-tour",
       "price": "CAD 21.53",
       "image_url": "https://static.wixstatic.com/media/98a3ee_7a540d7474514750a8dba50caa00e1f4~mv2.jpg/v1/fill/w_2062,h_2062,al_c,q_90/98a3ee_7a540d7474514750a8dba50caa00e1f4~mv2.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:269221",
-      "title": "Rockwood Festival Pavilion: As You Like It – Preview",
-      "venue": "Rockwood Festival Pavilion",
-      "city": "Sechelt",
-      "date": "2026-07-02",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rockwood-festival-pavilion-as-you-like-it-preview/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/As-you-like-it-Poster.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37847",
-      "title": "Live Music at Port Browning Pub",
-      "venue": "Port Browning Pub",
-      "city": "Pender Island",
-      "date": "2026-07-02",
-      "start_time": "00:00",
-      "ticket_url": "https://gulfislandevents.com/event/live-music-at-port-browning-pub/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/720051398_1406453358180606_4422983812279849330_n.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37623",
-      "title": "Rolling Stones Tribute Band and Dance Party",
-      "venue": "Port Browning Pub",
-      "city": "Pender Island",
-      "date": "2026-07-02",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/rolling-stones-tribute-band-and-dance-party/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/715346757_1528413722146192_4483871657688827269_n.jpg",
       "genre": null
     },
     {
@@ -8195,30 +6815,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-07-03/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116115",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-07-03",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-07-03/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116033",
-      "title": "Rockwood Festival Pavilion: As You Like It",
-      "venue": "Rockwood Festival Pavilion",
-      "city": "Sechelt",
-      "date": "2026-07-03",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rockwood-festival-pavilion-as-you-like-it/2026-07-03/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/As-you-like-it-Poster-1.jpg",
       "genre": null
     },
     {
@@ -8306,40 +6902,16 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116034",
-      "title": "Rockwood Festival Pavilion: As You Like It",
-      "venue": "Rockwood Festival Pavilion",
-      "city": "Sechelt",
+      "id": "vieme:6a36245b98deee447d157d7b",
+      "title": "We Call it House!",
+      "venue": "The Downbeat event centre, 1325 Government Street, Victoria, BC V8W 1M5",
+      "city": "Victoria",
       "date": "2026-07-04",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/rockwood-festival-pavilion-as-you-like-it/2026-07-04/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/As-you-like-it-Poster-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116252",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-07-04",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-07-04/",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/we-call-it-house-tickets-1991331245360?aff=oddtdtcreator",
       "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37566",
-      "title": "DANCE PARTY: Balkan Shmalkan | Bu Von Blume | Zelk",
-      "venue": "Beaver Point Hall",
-      "city": "Salt Spring Island",
-      "date": "2026-07-04",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/dance-party-balkan-shmalkan-bu-von-blume-zelk/",
-      "price": "$15 – $25",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/Untitled-A2-Landscape-scaled.jpg",
-      "genre": null
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/40ce96559_image1.webp",
+      "genre": "House"
     },
     {
       "id": "showpass:1524229",
@@ -8366,18 +6938,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115887",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-07-05",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-07-05/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18624",
       "title": "Ripple Rock Guided Hike",
       "venue": "Ripple Rock Trail",
@@ -8387,6 +6947,18 @@
       "ticket_url": "https://campbellrivernow.com/event/ripple-rock-guided-hike/",
       "price": "$7 – $15",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/04/ripple-hike1.webp",
+      "genre": null
+    },
+    {
+      "id": "qathet365:12335",
+      "title": "Iron Kingdom & WMD",
+      "venue": "Carlson Loft",
+      "city": "Powell River",
+      "date": "2026-07-05",
+      "start_time": "20:00",
+      "ticket_url": "https://qathet365.ca/event/iron-kingdom-wmd/",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
@@ -8400,6 +6972,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/430f1cdaf_image.webp",
       "genre": "House, Techno"
+    },
+    {
+      "id": "vieme:6a3627bfbe8f048da6379349",
+      "title": "Mike Shannon: All Night Long",
+      "venue": "1605 Store Street",
+      "city": "Victoria",
+      "date": "2026-07-05",
+      "start_time": null,
+      "ticket_url": "https://rhythm-you-should-hear.bloomtickets.ca/event/1817?track=hw3_35-9gV8",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/abbf33ce7_18171.png",
+      "genre": "Techno, House, Tech House"
     },
     {
       "id": "campbellrivernow:14377",
@@ -8438,18 +7022,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115190",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-07-07",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-07-07/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18728",
       "title": "Prayer Group at Centre of Hope",
       "venue": "Centre of Hope",
@@ -8471,30 +7043,6 @@
       "ticket_url": "https://livevictoria.com/show/916043/view",
       "price": "$00-$2026",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116758",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-07-08",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-07-08/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:34330",
-      "title": "Ukulele For Beginners",
-      "venue": "Yellowhouse Art Centre",
-      "city": "Galiano Island",
-      "date": "2026-07-08",
-      "start_time": "18:00",
-      "ticket_url": "https://gulfislandevents.com/event/ukulele-for-beginners/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/04/663166061_1342284367943498_7877865799828731193_n.jpg",
       "genre": null
     },
     {
@@ -8570,30 +7118,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116116",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-07-10",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-07-10/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116035",
-      "title": "Rockwood Festival Pavilion: As You Like It",
-      "venue": "Rockwood Festival Pavilion",
-      "city": "Sechelt",
-      "date": "2026-07-10",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rockwood-festival-pavilion-as-you-like-it/2026-07-10/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/As-you-like-it-Poster-1.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:13804",
       "title": "David Gauci Live at SoCal",
       "venue": "SoCal Restaurant &#038; Lounge",
@@ -8666,42 +7190,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116036",
-      "title": "Rockwood Festival Pavilion: As You Like It",
-      "venue": "Rockwood Festival Pavilion",
-      "city": "Sechelt",
-      "date": "2026-07-11",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/rockwood-festival-pavilion-as-you-like-it/2026-07-11/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/As-you-like-it-Poster-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116253",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-07-11",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-07-11/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37933",
-      "title": "2nd annual Star System Festival",
-      "venue": "Yellowhouse Art Centre",
-      "city": "Galiano Island",
-      "date": "2026-07-11",
-      "start_time": "17:00",
-      "ticket_url": "https://gulfislandevents.com/event/2nd-annual-star-system-festival/",
-      "price": "$20 – $40",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/720435695_1398660432305891_7392035886090517682_n.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:12117",
       "title": "Open Mic Night at Beach Fire Brewing",
       "venue": "Beach Fire Brewing",
@@ -8762,54 +7250,6 @@
       "genre": "Hip-Hop / R&B"
     },
     {
-      "id": "coastculture:269145",
-      "title": "Coopers Green: Halfmoon Bay Fair",
-      "venue": "Coopers Green Park",
-      "city": "",
-      "date": "2026-07-12",
-      "start_time": "11:00",
-      "ticket_url": "https://coastculture.com/event/coopers-green-halfmoon-bay-fair/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Halfmoon-Bay-6-x-4-in-1.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115888",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-07-12",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-07-12/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:38015",
-      "title": "Norm Smith",
-      "venue": "Sage Hayward Vineyards",
-      "city": "Saturna Island",
-      "date": "2026-07-12",
-      "start_time": "11:30",
-      "ticket_url": "https://gulfislandevents.com/event/norm-smith-2/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/669069066_1620055363057165_7688077852655863837_n-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37436",
-      "title": "Gallo Chamber Players – Galiano Island Concert",
-      "venue": "South Galiano Community Hall",
-      "city": "Galiano Island",
-      "date": "2026-07-12",
-      "start_time": "14:30",
-      "ticket_url": "https://gulfislandevents.com/event/gallo-chamber-players-galiano-island-concert/",
-      "price": "$35",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/DSCF5713-scaled.jpeg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:12986",
       "title": "Wings ‘n’ Wheels Campbell River",
       "venue": "Campbell River Airport (YBL)",
@@ -8834,6 +7274,18 @@
       "genre": null
     },
     {
+      "id": "vieme:6a3625c5f22aa9591c81f4e3",
+      "title": "Back 2 Back 4 Ft. Guru, Bogman, Spoon, RyGuy",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-07-12",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/back-2-back-4-ft-guru-bogman-spoon-ryguy-tickets-1992088745062",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9470d3be2_image2.webp",
+      "genre": "House, UK Garage, Drum & Bass, Jungle, Breakbeat, Disco, Dubstep"
+    },
+    {
       "id": "vieme:6a2c1cccd88d5ee23d6a07bf",
       "title": "PURR 🐱 Kinky Kitty Rave 🌈 Victoria Pride",
       "venue": "Capital Ballroom",
@@ -8846,16 +7298,16 @@
       "genre": "House, Techno, Disco"
     },
     {
-      "id": "coastculture:10115191",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-07-14",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-07-14/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
+      "id": "vieme:6a3627d64e3355aeda8e9c59",
+      "title": "RUSH Pride",
+      "venue": "1605 Store Street",
+      "city": "Victoria",
+      "date": "2026-07-12",
+      "start_time": null,
+      "ticket_url": "https://rhythm-you-should-hear.bloomtickets.ca/event/1571?RUSHPride",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/941480899_15711.png",
+      "genre": "House, Techno"
     },
     {
       "id": "campbellrivernow:18621",
@@ -8894,6 +7346,18 @@
       "genre": null
     },
     {
+      "id": "showpass:1473327",
+      "title": "WCL All-Star HOME-RUN DERBY",
+      "venue": "Wilson's Group Stadium at Royal Athletic Park",
+      "city": "Victoria",
+      "date": "2026-07-14",
+      "start_time": "18:35",
+      "ticket_url": "https://www.showpass.com/wcl-all-star-home-run-derby/",
+      "price": "$25–$50 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-harbourcats/images/b83c2577-1be.png",
+      "genre": null
+    },
+    {
       "id": "showpass:1524228",
       "title": "A Musical Banquet:",
       "venue": "Alix Goolden Performance Hall",
@@ -8903,30 +7367,6 @@
       "ticket_url": "https://www.showpass.com/a-musical-banquet/",
       "price": "$20 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/db377c91-7dd.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116759",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-07-15",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-07-15/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37736",
-      "title": "ARTSPRING TREASURE FAIR 2026",
-      "venue": "ArtSpring",
-      "city": "",
-      "date": "2026-07-15",
-      "start_time": "18:00",
-      "ticket_url": "https://gulfislandevents.com/event/artspring-treasure-fair-2026/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/AS-Treasure-Fair-logo-one-line-colour-scaled.png",
       "genre": null
     },
     {
@@ -8954,27 +7394,15 @@
       "genre": null
     },
     {
-      "id": "gulfislandevents:35142",
-      "title": "Salt Spring Pride: Rooted in Community",
-      "venue": null,
-      "city": "",
-      "date": "2026-07-16",
-      "start_time": "00:00",
-      "ticket_url": "https://gulfislandevents.com/event/salt-spring-pride-rooted-in-community/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/04/Pride-Festival-logo-cropped-from-file-scaled.jpeg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35897",
-      "title": "PITCHFORK SOCIAL: Mike Farris & The Fortunate Few",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-07-16",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-mike-farris-the-fortunate-few/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Mike-Farris.png",
+      "id": "showpass:1473345",
+      "title": "WCL All-Star Game",
+      "venue": "Wilson's Group Stadium at Royal Athletic Park",
+      "city": "Victoria",
+      "date": "2026-07-15",
+      "start_time": "19:05",
+      "ticket_url": "https://www.showpass.com/wcl-all-star-game/",
+      "price": "$30–$80 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-harbourcats/images/7c6a66e8-7e7.png",
       "genre": null
     },
     {
@@ -9002,30 +7430,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116117",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-07-17",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-07-17/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36112",
-      "title": "TREASURE FAIR CONCERT: Van Django",
-      "venue": "ArtSpring",
-      "city": "",
-      "date": "2026-07-17",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/treasure-fair-concert-van-django/",
-      "price": "$42",
-      "image_url": null,
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-07-18",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -9050,16 +7454,16 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116254",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
+      "id": "vieme:6a3627fa4e3355aeda8e9c96",
+      "title": "Musclecars",
+      "venue": "1605 Store Street",
+      "city": "Victoria",
       "date": "2026-07-18",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-07-18/",
+      "start_time": null,
+      "ticket_url": "https://rhythm-you-should-hear.bloomtickets.ca/event/1615?track=KBmq8dd6PiE",
       "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/a5109dcad_1615.jpeg",
+      "genre": "House, Disco, Soul"
     },
     {
       "id": "showpass:1532259",
@@ -9074,52 +7478,16 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115889",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
+      "id": "vieme:6a31d17deb905424d6ca29d3",
+      "title": "HOME",
+      "venue": "Secret Warehouse",
+      "city": "Victoria",
       "date": "2026-07-19",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-07-19/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114068",
-      "title": "Banditry Cider: Open Mic Night – [Select Sundays]",
-      "venue": "Banditry Cider",
-      "city": "Gibsons",
-      "date": "2026-07-19",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/banditry-cider-open-mic-night-select-sundays/2026-07-19/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Banditry-Aug-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:265346",
-      "title": "Music Makers Fiddlers Wild Beginner Fiddlers Summer Camp",
-      "venue": "Music Makers",
-      "city": "Davis Bay",
-      "date": "2026-07-20",
-      "start_time": "09:00",
-      "ticket_url": "https://coastculture.com/event/music-makers-fiddlers-wild-beginner-fiddlers-summer-camp/",
-      "price": "$375",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Fiddle-Camp-July-30.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35902",
-      "title": "PITCHFORK SOCIAL:  Kassi Valazza, Anna Tivel & Jeffrey Martin",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-07-20",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-kassi-valazza-anna-tivel-jeffrey-martin/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Kassi.png",
-      "genre": null
+      "start_time": null,
+      "ticket_url": "https://home-experiences-co.bloomtickets.ca/event/1273",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/84bf2a61f_EventTile2.jpg",
+      "genre": "Progressive, House, Trance"
     },
     {
       "id": "campbellrivernow:18642",
@@ -9131,30 +7499,6 @@
       "ticket_url": "https://campbellrivernow.com/event/guided-hike-on-ripple-rock-trail/",
       "price": "$7 – $15",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/04/rr-guided.webp",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115192",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-07-21",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-07-21/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116760",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-07-22",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-07-22/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
       "genre": null
     },
     {
@@ -9206,30 +7550,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116118",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-07-24",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-07-24/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:37548",
-      "title": "Ashton Backman and Shorefox Concert",
-      "venue": "Hummingbird Pub &amp; Family Restaurant",
-      "city": "Galiano Island",
-      "date": "2026-07-24",
-      "start_time": "20:30",
-      "ticket_url": "https://gulfislandevents.com/event/ashton-backman-and-shorefox-concert/",
-      "price": "$5",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/716550620_1607384361392272_4281786593898507321_n.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-07-25",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -9266,42 +7586,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:269853",
-      "title": "Henderson Beach: 15th Annual Peanut Butter Jam",
-      "venue": "Henderson Beach",
-      "city": "Roberts Creek",
-      "date": "2026-07-25",
-      "start_time": "13:00",
-      "ticket_url": "https://coastculture.com/event/henderson-beach-15th-annual-peanut-butter-jam/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/06/Peanut-Butter-Jam-Jul-5.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116255",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-07-25",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-07-25/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:38010",
-      "title": "Smith & Vuur",
-      "venue": "Lighthouse Pub",
-      "city": "",
-      "date": "2026-07-25",
-      "start_time": "18:00",
-      "ticket_url": "https://gulfislandevents.com/event/smith-vuur/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/06/671312971_1620125209716847_6917224815311920770_n.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:19069",
       "title": "Tyee Club Tackle Buy & Sell",
       "venue": "Tyee Spit / Dick Murphy Park",
@@ -9323,66 +7607,6 @@
       "ticket_url": "https://www.islandsfolkfestival.ca/",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115890",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-07-26",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-07-26/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36068",
-      "title": "Salon Sundays",
-      "venue": "Stonewell Farm on Saltspring Island",
-      "city": "Salt Spring Island",
-      "date": "2026-07-26",
-      "start_time": "13:00",
-      "ticket_url": "https://gulfislandevents.com/event/salon-sundays-3/",
-      "price": "$12 – $20",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Salon-Sundays-Instagram-Post-1080x1080p-Blue.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115193",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-07-28",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-07-28/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35907",
-      "title": "PITCHFORK SOCIAL:  Mary Gauthier w/ Jaimee Harris",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-07-28",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-mary-gauthier-w-jaimee-harris/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Mary.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116761",
-      "title": "RC Legion: Open Mic And Jam",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-07-29",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-open-mic-and-jam/2026-07-29/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/10/RC-Open-Mic-2025.jpg",
       "genre": null
     },
     {
@@ -9482,30 +7706,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116119",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-07-31",
-      "start_time": "18:30",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-07-31/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36198",
-      "title": "Mosaic Arts & Music Festival 2026",
-      "venue": null,
-      "city": "",
-      "date": "2026-07-31",
-      "start_time": "18:00",
-      "ticket_url": "https://gulfislandevents.com/event/mosaic-arts-music-festival-2026/",
-      "price": null,
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/2026-Poster-8.5-x-11-CORRECTED-scaled.png",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-08-01",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -9566,30 +7766,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116256",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-08-01",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-08-01/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36444",
-      "title": "John Aaron Cockburn live at Frog and Raven Farm Saturday August 1st",
-      "venue": "Frog and Raven Farm",
-      "city": "Salt Spring Island",
-      "date": "2026-08-01",
-      "start_time": "18:30",
-      "ticket_url": "https://gulfislandevents.com/event/john-aaron-cockburn-live-at-frog-and-raven-farm-saturday-august-1st/",
-      "price": "$35",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/John-Aaron-Cockburn-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "manual:sunfest-2026-2026-08-02",
       "title": "Sunfest Country Music Festival 2026",
       "venue": null,
@@ -9626,30 +7802,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115891",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-08-02",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-08-02/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115194",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-08-04",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-08-04/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
       "id": "manual:nanaimo-blues-2026-2026-08-06",
       "title": "Summertime Blues Festival 2026",
       "venue": "Maffeo Sutton Park",
@@ -9659,30 +7811,6 @@
       "ticket_url": "https://nanaimoblues.com/",
       "price": "Free",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10114069",
-      "title": "Banditry Cider: Open Mic Night – [Select Sundays]",
-      "venue": "Banditry Cider",
-      "city": "Gibsons",
-      "date": "2026-08-06",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/banditry-cider-open-mic-night-select-sundays/2026-08-06/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Banditry-Aug-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35912",
-      "title": "PITCHFORK SOCIAL:  Pharis & Jason Romero – Album Launch",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-08-06",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-pharis-jason-romero-album-launch/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/pharis.png",
       "genre": null
     },
     {
@@ -9830,18 +7958,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116257",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-08-08",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-08-08/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18236",
       "title": "Pagan Pride Day Festival",
       "venue": "Robert Ostler Park",
@@ -9902,18 +8018,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115892",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-08-09",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-08-09/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10009043",
       "title": "Lang Bay Song Circle",
       "venue": null,
@@ -9938,18 +8042,6 @@
       "genre": null
     },
     {
-      "id": "gulfislandevents:36922",
-      "title": "Camp Create",
-      "venue": "Pender Islands Community Hall",
-      "city": "Pender Island",
-      "date": "2026-08-10",
-      "start_time": "10:00",
-      "ticket_url": "https://gulfislandevents.com/event/camp-create/",
-      "price": "$250",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/69cdcd91b7413702ce0b0982.jpg",
-      "genre": null
-    },
-    {
       "id": "humanitix:harrymanx-charslanding-portalberni",
       "title": "Harry Manx LIVE @Char's | Port, Alberni",
       "venue": "Char's Landing",
@@ -9959,18 +8051,6 @@
       "ticket_url": "https://events.humanitix.com/harrymanx-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/4a33aa36-427b-40b8-88d0-f13bf012e4ab.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115195",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-08-11",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-08-11/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
       "genre": null
     },
     {
@@ -10070,18 +8150,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10112946",
-      "title": "Coast Gravity Park: The Backwoodz Jam",
-      "venue": "Coast Gravity Park",
-      "city": "Sechelt",
-      "date": "2026-08-14",
-      "start_time": "17:30",
-      "ticket_url": "https://coastculture.com/event/coast-gravity-park-the-backwoodz-jam/2026-08-14/",
-      "price": "$65.39 – $107.02",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Backwoods-Jam-Aug-15.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:15304",
       "title": "Race Night at Saratoga: Sprint Cars!",
       "venue": "Saratoga Speedway",
@@ -10130,30 +8198,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116258",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-08-15",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-08-15/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10112947",
-      "title": "Coast Gravity Park: The Backwoodz Jam",
-      "venue": "Coast Gravity Park",
-      "city": "Sechelt",
-      "date": "2026-08-15",
-      "start_time": "17:30",
-      "ticket_url": "https://coastculture.com/event/coast-gravity-park-the-backwoodz-jam/2026-08-15/",
-      "price": "$65.39 – $107.02",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Backwoods-Jam-Aug-15.jpg",
-      "genre": null
-    },
-    {
       "id": "showpass:1511796",
       "title": "Picklefest™ Victoria 2026",
       "venue": "Phillips Brewing & Malting Co.",
@@ -10187,42 +8231,6 @@
       "ticket_url": null,
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115893",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-08-16",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-08-16/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35917",
-      "title": "PITCHFORK SOCIAL: Harry Manx w/ Kevin Breit & The Yaletown Strings",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-08-16",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-harry-manx-w-kevin-breit-the-yaletown-strings/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/harry.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115196",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-08-18",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-08-18/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
       "genre": null
     },
     {
@@ -10262,30 +8270,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10112950",
-      "title": "PR – Blackberry Festival",
-      "venue": "Marine Ave, PR",
-      "city": "Powell River",
-      "date": "2026-08-21",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/pr-blackberry-festival/2026-08-21/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Blackberry-Festival-Aug-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:35922",
-      "title": "PITCHFORK SOCIAL: Amy Helm",
-      "venue": "The Jam Factory",
-      "city": "Salt Spring Island",
-      "date": "2026-08-21",
-      "start_time": "19:30",
-      "ticket_url": "https://gulfislandevents.com/event/pitchfork-social-amy-helm/",
-      "price": "$40 – $60",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/amy.png",
-      "genre": null
-    },
-    {
       "id": "livevictoria:912804",
       "title": "Salish Sea Lantern Festival",
       "venue": "Beacon Park - 9801 Seaport Place",
@@ -10322,30 +8306,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10112951",
-      "title": "PR – Blackberry Festival",
-      "venue": "Marine Ave, PR",
-      "city": "Powell River",
-      "date": "2026-08-22",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/pr-blackberry-festival/2026-08-22/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/04/Blackberry-Festival-Aug-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10116259",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-08-22",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-08-22/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
       "id": "showpass:1524230",
       "title": "Choral Summer Intensive Final Performance",
       "venue": "Alix Goolden Performance Hall",
@@ -10355,30 +8315,6 @@
       "ticket_url": "https://www.showpass.com/choral-summer-intensive-final-performance/",
       "price": "$15 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/YK91AX-b05bb42a-a9c.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115894",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-08-23",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-08-23/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115197",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-08-25",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-08-25/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
       "genre": null
     },
     {
@@ -10442,18 +8378,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10116260",
-      "title": "PR – Carlson Club: Saturday Jam",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-08-29",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-club-saturday-jam-2/2026-08-29/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/11/Saturday-Jam-5-8pm.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:14565",
       "title": "Vancouver Island Food Truck Festival 🚚",
       "venue": "Robert Ostler Park",
@@ -10463,54 +8387,6 @@
       "ticket_url": "https://campbellrivernow.com/event/food-truck-festival/",
       "price": null,
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/07/food-truck-festival.webp",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115895",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-08-30",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-08-30/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36075",
-      "title": "Salon Sundays",
-      "venue": "Stonewell Farm on Salt Spring Island",
-      "city": "Salt Spring Island",
-      "date": "2026-08-30",
-      "start_time": "13:00",
-      "ticket_url": "https://gulfislandevents.com/event/salon-sundays-4/",
-      "price": "$12 – $20",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/Salon-Sundays-Instagram-Post-1080x1080p-Red-2-1-scaled.png",
-      "genre": null
-    },
-    {
-      "id": "gulfislandevents:36927",
-      "title": "Band Camp 2026",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-08-31",
-      "start_time": "10:00",
-      "ticket_url": "https://gulfislandevents.com/event/band-camp-2026/",
-      "price": "$360",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/05/6a04c68e192c45a2bf09e87c.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115198",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-09-01",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-09-01/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
       "genre": null
     },
     {
@@ -10574,18 +8450,6 @@
       "genre": null
     },
     {
-      "id": "gulfislandevents:34675",
-      "title": "Dan Mangan in concert",
-      "venue": "Pender Island Community Hall",
-      "city": "Pender Island",
-      "date": "2026-09-05",
-      "start_time": "19:00",
-      "ticket_url": "https://gulfislandevents.com/event/dan-mangan-in-concert/",
-      "price": "$45",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/04/IMG_2494.jpeg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:15682",
       "title": "Labour Day Long Weekend",
       "venue": null,
@@ -10610,18 +8474,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115896",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-09-06",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-09-06/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:12931",
       "title": "Labour Day 2026",
       "venue": null,
@@ -10634,30 +8486,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115199",
-      "title": "RC Legacy Gardens: Beachcombers Ukulele Group Singers (BUGS)",
-      "venue": "Roberts Creek Legacy Garden",
-      "city": "Roberts Creek",
-      "date": "2026-09-08",
-      "start_time": "16:00",
-      "ticket_url": "https://coastculture.com/event/beachcombers-ukulele-group-singers-bugs/2026-09-08/",
-      "price": "$5",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/05/Bugs-in-Legacy-Gardens.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:queen-its-a-kinda-magic-1",
-      "title": "Queen: It's a Kinda Magic",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-08",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/queen-its-a-kinda-magic-1/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850701/2a33ef68-917a-498f-846a-f69ca9188d2f-3.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:911356",
       "title": "Daniel Cook & The Radiators",
       "venue": "Oak Bay Night Market ~ finale",
@@ -10667,18 +8495,6 @@
       "ticket_url": "https://livevictoria.com/show/911356/view",
       "price": "By Donation",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:highwaymen-show-great-outlaws-tribute",
-      "title": "Highwaymen Show - Great Outlaws Tribute",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-10",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/highwaymen-show-great-outlaws-tribute/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850317/bee1986e-1aca-4a27-840e-91ed984927ec.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -10718,18 +8534,6 @@
       "genre": null
     },
     {
-      "id": "gulfislandevents:33517",
-      "title": "Mayne Island Ukulele Festival",
-      "venue": "Mayne Island Community Centre",
-      "city": "Mayne Island",
-      "date": "2026-09-11",
-      "start_time": "00:00",
-      "ticket_url": "https://gulfislandevents.com/event/mayne-island-ukulele-festival/",
-      "price": "$175.00",
-      "image_url": "https://gulfislandevents.com/wp-content/uploads/2026/03/IMG_7160-rotated.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-09-12",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -10751,18 +8555,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-09-12/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115897",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-09-13",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-09-13/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
       "genre": null
     },
     {
@@ -10862,30 +8654,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7271",
-      "title": "King, Cash & Diamond Forever – Amplified!",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-09-19",
-      "start_time": "19:00",
-      "ticket_url": "https://cowichanpac.ca/event/king-cash-diamond-forever-amplified-2026-09-19/",
-      "price": "$55",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/King-Cash-Diamond.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:fleetwood-magic",
-      "title": "Fleetwood Magic The Authentic Tribute to Fleetwood Mac",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-19",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/fleetwood-magic/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850335/e09ec3fa-3c6b-4d97-92f7-37d4c977905c.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "tofinotheatre:dan-mangan-national-light-tour-2026-2026-09-19",
       "title": "Dan Mangan National Light Tour 2026",
       "venue": "Clayoquot Sound Theatre",
@@ -10895,30 +8663,6 @@
       "ticket_url": "https://www.showpass.com/dan-mangan-tofino/",
       "price": null,
       "image_url": "https://static.wixstatic.com/media/c604d1_52a36fcc6d8e4d39bc604493bf4ac78f~mv2.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115898",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-09-20",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-09-20/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:epidermis-circus-1",
-      "title": "Epidermis Circus",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-20",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/epidermis-circus-1/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850811/d91ba5dc-9b12-4022-a062-6d7823d3b2dd.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -10946,18 +8690,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7283",
-      "title": "Brent Butt",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-09-23",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/brent-butt-2026-05-26/",
-      "price": "$62.50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/BrentButt-2026-8.5x11-Duncan-BC-1.jpg",
-      "genre": null
-    },
-    {
       "id": "showpass:1529298",
       "title": "Brent Butt: Live in Duncan",
       "venue": "Cowichan Performing Arts Centre",
@@ -10979,18 +8711,6 @@
       "ticket_url": "https://tidemarktheatre.com/event/brent-butt/",
       "price": null,
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/gatewayevents/images/f2f777e3-0a6.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:burnstick",
-      "title": "Burnstick",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-24",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/burnstick/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850831/afb09b18-4e50-4592-9985-96184cfebfb8.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11027,18 +8747,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-09-25/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:moondance-the-van-morrison-songbook",
-      "title": "MOONDANCE: The Van Morrison Songbook",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-09-25",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/moondance-the-van-morrison-songbook/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850806/4a3b37dd-a721-4116-a191-e07fc70778af.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11099,18 +8807,6 @@
       "ticket_url": "https://www.showpass.com/uplifting-for-90-years/",
       "price": "$90 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-foundation/images/d38770e3-ff5.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115899",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-09-27",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-09-27/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
       "genre": null
     },
     {
@@ -11198,30 +8894,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115900",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-04",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-04/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:god-is-a-scottish-drag-queen-halloween-spooktacular",
-      "title": "God is a Scottish Drag Queen Halloween Spooktacular",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-07",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/god-is-a-scottish-drag-queen-halloween-spooktacular/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850902/7ca4157a-342d-49c4-b0f3-6dadc343a2e4.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2026-10-09",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -11282,18 +8954,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115901",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-11",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-11/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10009045",
       "title": "Lang Bay Song Circle",
       "venue": null,
@@ -11315,18 +8975,6 @@
       "ticket_url": "https://livevictoria.com/show/910643/view",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bury-the-hatchet",
-      "title": "Bury The Hatchet",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-15",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bury-the-hatchet/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850836/f51e68b2-baf7-41b5-88b5-c4f0b09be5b5.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11375,42 +9023,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-10-17/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:aliya-kanani-where-you-from-from",
-      "title": "Aliya Kanani: Where You From, From?",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-17",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/aliya-kanani-where-you-from-from/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850816/4d804ad6-a60b-4cda-af5b-1e0c2df51980.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115902",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-18/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7150",
-      "title": "The Piano Men Starring Jim Witter",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-10-20",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/the-piano-men-2026-10-20/",
-      "price": "$60.50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/04/PM-POSTER-2.png",
       "genre": null
     },
     {
@@ -11486,18 +9098,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10115903",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-25",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:907570",
       "title": "Begonia - The Fantasy Life Tour (Victoria)",
       "venue": "Capital Ballroom",
@@ -11507,18 +9107,6 @@
       "ticket_url": "https://livevictoria.com/show/907570/view",
       "price": "$36.06",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:ballet-victorias-ballet-rocks-1",
-      "title": "Ballet Victoria's Ballet Rocks",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-29",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/ballet-victorias-ballet-rocks-1/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850821/7d91facc-3fad-4842-8997-14d9ca3e2c72-2.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11558,42 +9146,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:water-words",
-      "title": "Water Words",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-30",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/water-words/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850851/da812b2a-da69-4e75-9063-539de2c56119.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:an-acoustic-evening-with-william-prince",
-      "title": "An Acoustic Evening with William Prince",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-03",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/an-acoustic-evening-with-william-prince/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850826/ef3c48ff-0e4a-4713-bf0d-47dd65b2b476.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:ron-james-the-noise-between-our-ears",
-      "title": "Ron James - The Noise Between Our Ears",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-04",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/ron-james-the-noise-between-our-ears/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850768/9279ffa5-651b-40a4-aa95-cebb96f650f6.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:907598",
       "title": "Rock Therapy",
       "venue": "The Loft (Victoria)",
@@ -11630,30 +9182,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7255",
-      "title": "Ron James: The Noise Between Our Ears",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-06",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/ron-james-2026-11-06/",
-      "price": "$86.25",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/Ron-James-looking-up-right2023-P5-300dpi.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bee-gees-revisited-the-tribute-show",
-      "title": "Bee Gees Revisited: The Tribute Show",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-06",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bee-gees-revisited-the-tribute-show/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850529/c35d97bd-d7c5-40cf-9b7b-4e2695519761.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-11-07",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11675,18 +9203,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-11-07/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:6969",
-      "title": "Bee Gees Revisited – The Tribute Show",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-07",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/bee-gees-revisited-2026-11-07/",
-      "price": "$61",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/01/Bee-Gees-Revisited-Duncan-11-by-17-less-than-5MB-scaled.png",
       "genre": null
     },
     {
@@ -11774,30 +9290,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7227",
-      "title": "Crash Test Dummies: Jingle All The Way",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-15",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/crash-test-dummies-2026-11-15/",
-      "price": "$60",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/CTD-facebook.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7295",
-      "title": "Walk Like A Man",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-18",
-      "start_time": "19:00",
-      "ticket_url": "https://cowichanpac.ca/event/walk-like-a-man-2026-11-18/",
-      "price": "$67",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/Duncan-WLAM-8.5-x-11-Wed-Nov-18-2026-7pm-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:902391",
       "title": "Dylan Stone, The Legacy of Lightfoot",
       "venue": "Artspring Theatre",
@@ -11867,18 +9359,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-11-21/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:walk-like-a-man-music-of-frankie-valli-the-four-seasons",
-      "title": "Walk Like A Man - Music of Frankie Valli & The Four Seasons",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-22",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/walk-like-a-man-music-of-frankie-valli-the-four-seasons/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850784/63400f01-8737-4511-9a25-78d1a451cfbb.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11954,30 +9434,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:glob",
-      "title": "Glob",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-30",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/glob/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850846/e32cd02d-7e88-4e49-8acd-b002b5b25d84.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:christmas-with-casey-thomas-burns",
-      "title": "Christmas with Casey Thomas-Burns",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-03",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/christmas-with-casey-thomas-burns/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850841/059c2d78-6ee5-486f-8919-44114a34628d.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2026-12-04",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -11999,18 +9455,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-12-04/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3785",
-      "title": "North Island Choral Society Concert",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-04",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert-4/",
-      "price": null,
-      "image_url": null,
       "genre": null
     },
     {
@@ -12047,18 +9491,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-12-05/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3789",
-      "title": "North Island Choral Society Concert",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-05",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert-5/",
-      "price": null,
-      "image_url": null,
       "genre": null
     },
     {
@@ -12134,30 +9566,6 @@
       "genre": null
     },
     {
-      "id": "performingartscomoxvalley:3870",
-      "title": "Strathcona Symphony Orchestra’s winter concert (details TBA)",
-      "venue": "Florence Filberg Centre",
-      "city": "Comox Valley",
-      "date": "2026-12-12",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/strathcona-symphony-orchestras-winter-concert-details-tba-3/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/07/SSO-Logo-medium-small-300dpi-6.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3875",
-      "title": "Strathcona Symphony Orchestra’s winter concert (details TBA)",
-      "venue": "Florence Filberg Centre",
-      "city": "Comox Valley",
-      "date": "2026-12-13",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/strathcona-symphony-orchestras-winter-concert-details-tba-4/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/07/SSO-Logo-medium-small-300dpi-7.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10009047",
       "title": "Lang Bay Song Circle",
       "venue": null,
@@ -12167,18 +9575,6 @@
       "ticket_url": "https://qathet365.ca/event/lang-bay-song-circle/2026-12-13/",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:winter-harp-2",
-      "title": "Winter Harp",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-14",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/winter-harp-2/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850856/ea457751-bd2e-483f-85cc-a9ea99326d76-3.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12554,18 +9950,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:hold-on-to-your-butts",
-      "title": "Hold On To Your Butts",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-02",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/hold-on-to-your-butts/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850861/b921ed4c-8b15-4a52-9f52-cabca802195c.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "livevictoria:902723",
       "title": "Rachel Therrien’s Latin Jazz Project",
       "venue": "The Coda",
@@ -12626,18 +10010,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:a-history-of-motown",
-      "title": "A History of Motown",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-06",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/a-history-of-motown/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850866/3c2938bb-707c-4981-80ea-341e650afe79.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-02-12",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -12683,18 +10055,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-02-13/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:oh-pray-tell",
-      "title": "Oh Pray Tell",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-13",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/oh-pray-tell/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850871/fe5372b7-08ab-4c28-bfda-1ab07b8a1fba.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12806,18 +10166,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:stuart-little",
-      "title": "Stuart Little",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-04",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/stuart-little/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850881/bd97fbd6-c44b-4aa4-b465-012c75790172.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-03-05",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -12863,18 +10211,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-03-06/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:no-excuses-no-limits-by-ill-abilities",
-      "title": "No Excuses, No Limits by ILL-Abilities",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-11",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/no-excuses-no-limits-by-ill-abilities/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850876/420a821b-aa9f-4f5d-a6fd-13e57544a2e6.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12935,18 +10271,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-03-13/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bangs-bobs-banter-confessions-of-a-hairstylist",
-      "title": "Bangs, Bobs & Banter: Confessions Of A Hairstylist",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-13",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bangs-bobs-banter-confessions-of-a-hairstylist/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850891/63f23756-1420-41e6-b06d-2c54b8c8a2b2.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -13070,18 +10394,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:louisa-may-alcotts-little-women",
-      "title": "Louisa May Alcott's Little Women",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-27",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/louisa-may-alcotts-little-women/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850896/533413e5-ecdd-46b8-b5a3-b7bed4ba8f5b.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-04-02",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -13130,18 +10442,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:a-cabaret-of-legends",
-      "title": "A Cabaret of Legends",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-04-08",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/a-cabaret-of-legends/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850886/3030628d-3d23-45ac-a7c4-104add7c6c78.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-04-09",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -13163,18 +10463,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2027-04-09/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4623",
-      "title": "North Island Choral Society Concert",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-04-09",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert/",
-      "price": null,
-      "image_url": null,
       "genre": null
     },
     {
