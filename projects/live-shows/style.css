@@ -47,10 +47,37 @@ header {
   font-size: 13px; font-weight: 700;
   letter-spacing: .12em; text-transform: uppercase;
   white-space: nowrap;
+  flex-shrink: 0;
 }
+
+/* Link back to the parent site — this page doesn't share the root stylesheet,
+   so the wordmark is restyled here against this page's tokens. */
+.home-link {
+  display: flex; align-items: center; gap: 6px;
+  flex-shrink: 0;
+  color: var(--mid);
+  padding: 6px 0;
+  transition: color .15s;
+}
+.home-link:hover, .home-link:focus-visible { color: var(--accent); }
+.home-arrow { font-size: 15px; line-height: 1; }
+.wordmark {
+  font-size: 11px; font-weight: 700;
+  letter-spacing: .14em; text-transform: uppercase;
+  white-space: nowrap;
+}
+.header-divider {
+  width: 1px; height: 18px; flex-shrink: 0;
+  background: var(--border);
+}
+
+/* Scrolling filter row. Right-edge fade hints that more pills exist. */
 .header-actions {
   display: flex; align-items: center; gap: 10px;
+  flex: 1 1 auto; min-width: 0;
   overflow-x: auto; scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 22px), transparent 100%);
+          mask-image: linear-gradient(to right, #000 calc(100% - 22px), transparent 100%);
 }
 .header-actions::-webkit-scrollbar { display: none; }
 
@@ -103,6 +130,29 @@ header {
 
 /* ── Calendar Body ───────────────────────────────────────────────── */
 #cal-body { padding-bottom: 80px; }
+
+/* ── Beyond-horizon note ─────────────────────────────────────────── */
+/* The calendar stops at a fixed forward window; anything further out is
+   reachable in List view via this note. */
+.cal-overflow-note {
+  margin: 20px 16px 0;
+  padding: 16px;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--mid);
+  font-size: 13px; line-height: 1.5;
+  text-align: center;
+}
+.cal-overflow-btn {
+  display: inline-block; margin-top: 10px;
+  padding: 7px 16px; border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: transparent; color: var(--accent);
+  font-size: 12px; font-weight: 700;
+  transition: background .15s, color .15s;
+}
+.cal-overflow-btn:hover { background: var(--accent); color: #fff; }
 
 /* ── Month Break & Label ─────────────────────────────────────────── */
 .month-break {
@@ -504,7 +554,9 @@ header {
     --flex-expanded: 2.5;
     --flex-shrunk: 0.5;
   }
-  .logo { font-size: 11px; }
+  /* Narrow header: the page title goes first — the way home is worth more. */
+  .logo, .header-divider { display: none; }
+  header { padding: 0 10px; gap: 8px; }
 
   /* 1:1 thumbnails on mobile */
   .day-thumb,
@@ -518,4 +570,7 @@ header {
 
 @media (max-width: 480px) {
   .week-col-headers { display: none; }
+  /* Very narrow: the arrow alone carries the link home. */
+  .wordmark { display: none; }
+  .home-arrow { font-size: 18px; }
 }

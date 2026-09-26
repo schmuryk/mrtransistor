@@ -2,40 +2,37 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Live Show Tracker — Vancouver Island</title>
+<meta name="description" content="A live music event aggregator for Vancouver Island, the Gulf Islands, and the Sunshine Coast. Hundreds of upcoming shows pulled from local venue and community listings, in a calendar or list view, filterable by city." />
+<link rel="canonical" href="https://mrtransistor.ca/projects/live-shows/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Mr. Transistor" />
+<meta property="og:title" content="Live Show Tracker" />
+<meta property="og:description" content="A live music event aggregator for Vancouver Island, the Gulf Islands, and the Sunshine Coast. Hundreds of upcoming shows pulled from local venue and community listings, in a calendar or list view, filterable by city." />
+<meta property="og:url" content="https://mrtransistor.ca/projects/live-shows/" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="mask-icon" href="/favicon.svg" color="#1c1c1c" />
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
+  <a class="home-link" href="/" aria-label="Back to Mr. Transistor home">
+    <span class="home-arrow" aria-hidden="true">←</span>
+    <span class="wordmark">Mr. Transistor</span>
+  </a>
+  <span class="header-divider" aria-hidden="true"></span>
   <span class="logo">Live Show Tracker</span>
+  <!-- Filter pills scroll horizontally; the view toggle is pinned outside that
+       scroll region so it stays reachable on narrow viewports. -->
   <div class="header-actions">
-    <div class="city-filter" id="city-filter">
-      <button class="filter-btn active" data-city="all">All</button>
-      <button class="filter-btn" data-city="Victoria">Victoria</button>
-      <button class="filter-btn" data-city="Nanaimo">Nanaimo</button>
-      <button class="filter-btn" data-city="Duncan">Duncan</button>
-      <button class="filter-btn" data-city="Lake Cowichan">Lake Cowichan</button>
-      <button class="filter-btn" data-city="Port Alberni">Port Alberni</button>
-      <button class="filter-btn" data-city="Tofino">Tofino</button>
-      <button class="filter-btn" data-city="Comox Valley">Comox Valley</button>
-      <button class="filter-btn" data-city="Campbell River">Campbell River</button>
-      <button class="filter-btn" data-city="Salt Spring Island">Salt Spring Island</button>
-      <button class="filter-btn" data-city="Galiano Island">Galiano Island</button>
-      <button class="filter-btn" data-city="Mayne Island">Mayne Island</button>
-      <button class="filter-btn" data-city="Pender Island">Pender Island</button>
-      <button class="filter-btn" data-city="Gibsons">Gibsons</button>
-      <button class="filter-btn" data-city="Roberts Creek">Roberts Creek</button>
-      <button class="filter-btn" data-city="Sechelt">Sechelt</button>
-      <button class="filter-btn" data-city="Madeira Park">Madeira Park</button>
-      <button class="filter-btn" data-city="Powell River">Powell River</button>
-    </div>
-    <div class="view-toggle">
-      <button class="toggle-btn active" id="btn-cal" data-view="cal">Cal</button>
-      <button class="toggle-btn" id="btn-list" data-view="list">List</button>
-      <button class="toggle-btn" id="btn-map" data-view="map">Map</button>
-    </div>
+    <div class="city-filter" id="city-filter"></div>
+  </div>
+  <div class="view-toggle">
+    <button class="toggle-btn active" id="btn-cal" data-view="cal">Cal</button>
+    <button class="toggle-btn" id="btn-list" data-view="list">List</button>
+    <button class="toggle-btn" id="btn-map" data-view="map">Map</button>
   </div>
 </header>
 

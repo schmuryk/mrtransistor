@@ -23,6 +23,24 @@ body {
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+}
+.skip-link:focus {
+  left: 8px;
+  top: 8px;
+  z-index: 10;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 13px;
+  color: var(--text);
+  text-decoration: none;
+}
+
 /* ── Layout ── */
 header {
   border-bottom: 1px solid var(--border);
@@ -149,6 +167,23 @@ footer {
   transition: opacity 0.15s;
 }
 .download-btn:hover { opacity: 0.75; text-decoration: none; color: #fff; }
+
+/* Non-interactive placeholder for a store listing that isn't live yet. */
+.download-btn.is-soon {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--mid);
+  font-weight: 500;
+  cursor: default;
+}
+.download-btn.is-soon:hover { opacity: 1; color: var(--mid); }
+
+.app-note {
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--mid);
+  max-width: 480px;
+}
 
 .video-placeholder {
   background: var(--surface);

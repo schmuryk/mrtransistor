@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Mr. Transistor</title>
+  <rect width="32" height="32" rx="7" fill="#1c1c1c"/>
+  <g fill="none" stroke="#f9f8f6" stroke-width="2.8" stroke-linecap="round">
+    <path d="M6 16h9"/>
+    <path d="M15 13 25 7.5"/>
+    <path d="M15 19 25 24.5"/>
+  </g>
+  <path d="M15 9v14" fill="none" stroke="#c87941" stroke-width="3.4" stroke-linecap="round"/>
+</svg>

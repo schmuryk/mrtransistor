@@ -4,18 +4,29 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Mr. Transistor</title>
+  <meta name="description" content="Steffan builds field software on the side of a career in construction surveying and GIS — a mobile Job Safety Assessment app, and a live music event tracker for Vancouver Island and the coast." />
+  <link rel="canonical" href="https://mrtransistor.ca/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Mr. Transistor" />
+  <meta property="og:title" content="Mr. Transistor" />
+  <meta property="og:description" content="Steffan builds field software on the side of a career in construction surveying and GIS — a mobile Job Safety Assessment app, and a live music event tracker for Vancouver Island and the coast." />
+  <meta property="og:url" content="https://mrtransistor.ca/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="mask-icon" href="/favicon.svg" color="#1c1c1c" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
+  <a class="skip-link" href="#main">Skip to content</a>
+
   <header>
     <a class="wordmark" href="/">MR. TRANSISTOR</a>
-    <nav>
-      <a href="/projects">Projects</a>
+    <nav aria-label="Main">
+      <a href="/projects/">Projects</a>
     </nav>
   </header>
 
-  <main>
+  <main id="main">
     <div class="home-intro">
       <h1>Hi, I'm Steffan.</h1>
       <p>
@@ -34,7 +45,12 @@
 
     <div class="section-label">Projects</div>
     <div class="projects-grid">
-      <a class="project-card" href="/projects/job-safety-app">
+      <a class="project-card" href="/projects/live-shows/">
+        <h2>Live Show Tracker</h2>
+        <p>A live music event aggregator for Vancouver Island, the Gulf Islands, and the Sunshine Coast. Calendar and list views, city filtering, and coverage from a dozen sources.</p>
+        <div class="card-meta">Vancouver Island &amp; Coast</div>
+      </a>
+      <a class="project-card" href="/projects/job-safety-app/">
         <h2>JSA Safety App</h2>
         <p>A mobile app for completing and documenting Job Safety Assessments in the field. Crew registration, digital signatures, and PDF export.</p>
         <div class="card-meta">iOS &amp; Android</div>

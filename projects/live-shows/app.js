@@ -52,6 +52,26 @@ const SPORTS_RE = /\b(nhl|nba|mlb|nfl|mls|royals game|hockey game|basketball gam
 
 const WEEKDAY_FEATURE_PRICE = 70;
 
+// How far forward the calendar grid runs. Recurring events are expanded years
+// out by the scrapers (one monthly song circle reaches 2028), which otherwise
+// builds ~100 week rows of blank space. Events past the horizon stay in List
+// view and are linked from a note at the bottom of the calendar.
+const CAL_HORIZON_MONTHS = 8;
+
+// Bucket for events whose source gave us no usable city.
+const UNKNOWN_CITY = 'Other';
+
+// Rough south→north ordering for the filter pills. Cities not listed here are
+// appended (by event count) rather than dropped, so new scraper sources still
+// get a working button.
+const CITY_ORDER = [
+  'Victoria', 'Mill Bay', 'Duncan', 'Lake Cowichan', 'Nanaimo',
+  'Port Alberni', 'Tofino', 'Comox Valley', 'Campbell River',
+  'Salt Spring Island', 'Galiano Island', 'Mayne Island', 'Pender Island',
+  'Gibsons', 'Roberts Creek', 'Sechelt', 'Madeira Park', 'Egmont',
+  'Powell River', 'Van Anda',
+];
+
 // ── State ──────────────────────────────────────────────────────────
 let ALL_EVENTS = [];
 let activeCity = 'all';
@@ -62,6 +82,29 @@ let expandedBubbleId = null;
 // ── DOM refs ───────────────────────────────────────────────────────
 const $ = id => document.getElementById(id);
 const calHeaders = document.querySelector('.week-col-headers');
+
+// ── Text safety ────────────────────────────────────────────────────
+// Scraped strings from 14 third-party sites end up inside innerHTML, so they
+// get escaped on the way out. Some feeds are already HTML-encoded (and a few
+// are double-encoded, e.g. "SoCal Restaurant &#038; Lounge"), so decodeText()
+// runs once over the data on the way in — decode in, escape out.
+const ESC_MAP = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+function esc(s) {
+  if (s === null || s === undefined) return '';
+  return String(s).replace(/[&<>"']/g, c => ESC_MAP[c]);
+}
+
+const decoder = document.createElement('textarea');
+function decodeText(s) {
+  if (typeof s !== 'string' || !s.includes('&')) return s;
+  decoder.innerHTML = s;       // textarea content is RCDATA — never executes
+  return decoder.value;
+}
+
+// Only http(s) links are followed; a scraped `javascript:` URL is dropped.
+function httpUrl(u) {
+  return typeof u === 'string' && /^https?:\/\//i.test(u) ? u : null;
+}
 
 // ── Helpers ────────────────────────────────────────────────────────
 function parseDate(iso) {
@@ -98,7 +141,23 @@ function cityClass(city) {
 function cityLabel(city) {
   if (city === 'Victoria') return 'VIC';
   if (city === 'Nanaimo')  return 'NAN';
+  if (!city) return UNKNOWN_CITY.slice(0,3).toUpperCase();
   return city.slice(0,3).toUpperCase();
+}
+
+// Normalise the city field. Sources hand us nulls, empty strings, stray
+// province suffixes ("Victoria Bc") and a bare "Bc"; everything unusable folds
+// into one explicit UNKNOWN_CITY bucket so it stays filterable.
+function normCity(raw) {
+  let c = (raw === null || raw === undefined ? '' : String(raw))
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!c) return UNKNOWN_CITY;
+  // Title-case, then strip a trailing province token.
+  c = c.replace(/\S+/g, w => w[0].toUpperCase() + w.slice(1).toLowerCase());
+  c = c.replace(/[,\s]+B\.?C\.?$/i, '').trim();
+  if (!c || /^B\.?C\.?$/i.test(c)) return UNKNOWN_CITY;
+  return c;
 }
 
 function filteredEvents() {
@@ -107,6 +166,19 @@ function filteredEvents() {
     if (activeCity !== 'all' && e.city !== activeCity) return false;
     return true;
   });
+}
+
+// Decode encoded entities and normalise cities once, at load, so every render
+// path sees clean values.
+function normalizeEvents(events) {
+  return events.map(e => ({
+    ...e,
+    title:  decodeText(e.title)  || '',
+    venue:  decodeText(e.venue)  || '',
+    price:  decodeText(e.price)  || '',
+    genre:  decodeText(e.genre)  || '',
+    city:   normCity(e.city),
+  }));
 }
 
 function byDate(events) {
@@ -164,6 +236,36 @@ function makeJazzCup() {
 }
 
 // ── Filters & View Toggle ──────────────────────────────────────────
+// Buttons are derived from the cities actually present in the upcoming data, so
+// there are no dead pills and no unreachable events.
+function renderCityFilter() {
+  const today = todayISO();
+  const counts = new Map();
+  for (const e of ALL_EVENTS) {
+    if (e.date < today) continue;
+    if (SPORTS_RE.test(e.title)) continue;
+    counts.set(e.city, (counts.get(e.city) || 0) + 1);
+  }
+
+  const known   = CITY_ORDER.filter(c => counts.has(c));
+  const extra   = [...counts.keys()]
+    .filter(c => c !== UNKNOWN_CITY && !CITY_ORDER.includes(c))
+    .sort((a, b) => counts.get(b) - counts.get(a) || a.localeCompare(b));
+  const cities  = [...known, ...extra];
+  if (counts.has(UNKNOWN_CITY)) cities.push(UNKNOWN_CITY);   // always last
+
+  const total = [...counts.values()].reduce((a, b) => a + b, 0);
+  const rows  = [{ city: 'all', label: 'All', count: total }]
+    .concat(cities.map(c => ({ city: c, label: c, count: counts.get(c) })));
+
+  if (activeCity !== 'all' && !cities.includes(activeCity)) activeCity = 'all';
+
+  $('city-filter').innerHTML = rows.map(r => `
+    <button class="filter-btn${r.city === activeCity ? ' active' : ''}"
+            data-city="${esc(r.city)}"
+            title="${esc(r.label)} — ${r.count} upcoming">${esc(r.label)}</button>`).join('');
+}
+
 document.getElementById('city-filter').addEventListener('click', e => {
   const btn = e.target.closest('.filter-btn');
   if (!btn) return;
@@ -198,10 +300,21 @@ function renderCalendar() {
   if (!dates.length) { $('cal-body').innerHTML = ''; return; }
 
   const firstDate = parseDate(today);
-  const lastDate  = parseDate(dates[dates.length - 1]);
+
+  // Cap the grid at a fixed forward window so a single recurring event expanded
+  // to 2028 can't add two years of blank week rows. Snapped to the end of the
+  // month so the cut-off matches the month named in the note below.
+  const horizon = parseDate(today);
+  horizon.setDate(1);
+  horizon.setMonth(horizon.getMonth() + CAL_HORIZON_MONTHS + 1);
+  horizon.setDate(0);
+  const horizonISO = toISO(horizon);
+
+  const lastShown = dates.filter(d => d <= horizonISO).pop() || today;
+  const beyond    = dates.filter(d => d > horizonISO).length;
 
   let cur = weekMonday(firstDate);
-  const end = addDays(weekMonday(lastDate), 6);
+  const end = addDays(weekMonday(parseDate(lastShown)), 6);
 
   const body = $('cal-body');
   body.innerHTML = '';
@@ -312,7 +425,7 @@ function renderCalendar() {
         dayEvents.slice(0, 4).forEach(ev => {
           const r = document.createElement('div');
           r.className = 'compact-ev';
-          r.innerHTML = `<span class="compact-ev-time">${fmtTime(ev.start_time)}</span>${ev.title}`;
+          r.innerHTML = `<span class="compact-ev-time">${fmtTime(ev.start_time)}</span>${esc(ev.title)}`;
           list.appendChild(r);
         });
         if (count > 4) {
@@ -368,6 +481,17 @@ function renderCalendar() {
 
     cur = addDays(cur, 7);
   }
+
+  if (beyond > 0) {
+    const note = document.createElement('div');
+    note.className = 'cal-overflow-note';
+    note.innerHTML = `
+      ${beyond} scheduled ${beyond === 1 ? 'show' : 'shows'} fall after
+      ${esc(fmtMonth(horizon))} — mostly recurring dates booked far ahead.
+      <br><button class="cal-overflow-btn" type="button">See them in List view</button>`;
+    note.querySelector('.cal-overflow-btn').addEventListener('click', () => setView('list'));
+    body.appendChild(note);
+  }
 }
 
 // ── List Render ────────────────────────────────────────────────────
@@ -393,17 +517,23 @@ function renderList() {
     for (const ev of evs) {
       const row = document.createElement('div');
       row.className = 'list-event-row';
+      // Venue is null on some sources — drop the line rather than print "null".
+      const subParts = [
+        ev.venue ? esc(ev.venue) : '',
+        ev.genre ? `<span style="color:var(--accent);font-size:11px">${esc(ev.genre)}</span>` : '',
+      ].filter(Boolean);
       row.innerHTML = `
         <div class="list-ev-time">${fmtTime(ev.start_time)}</div>
         <div class="list-ev-body">
-          <div class="list-ev-title">${ev.title}</div>
-          <div class="list-ev-venue">${ev.venue}${ev.genre ? ` · <span style="color:var(--accent);font-size:11px">${ev.genre}</span>` : ''}</div>
+          <div class="list-ev-title">${esc(ev.title)}</div>
+          ${subParts.length ? `<div class="list-ev-venue">${subParts.join(' · ')}</div>` : ''}
         </div>
         <div class="list-ev-right">
-          <span class="city-badge ${cityClass(ev.city)}">${cityLabel(ev.city)}</span>
-          ${ev.price ? `<span class="list-ev-price">${ev.price}</span>` : ''}
+          <span class="city-badge ${cityClass(ev.city)}">${esc(cityLabel(ev.city))}</span>
+          ${ev.price ? `<span class="list-ev-price">${esc(ev.price)}</span>` : ''}
         </div>`;
-      if (ev.ticket_url) row.addEventListener('click', () => window.open(ev.ticket_url, '_blank'));
+      const url = httpUrl(ev.ticket_url);
+      if (url) row.addEventListener('click', () => window.open(url, '_blank', 'noopener'));
       group.appendChild(row);
     }
     body.appendChild(group);
@@ -452,17 +582,18 @@ function renderDayPanel() {
     return;
   }
 
-  // Group by city dynamically
-  const cityOrder = ['Victoria', 'Nanaimo'];
+  // Group by city dynamically (cities are already normalised at load)
   const cityMap = new Map();
   evs.forEach(e => {
-    const c = e.city || 'Other';
+    const c = e.city || UNKNOWN_CITY;
     if (!cityMap.has(c)) cityMap.set(c, []);
     cityMap.get(c).push(e);
   });
-  // Sort: known cities first, then alphabetical
+  // Sort: the geographic order used by the filter pills, unknowns last
   const sortedCities = [...cityMap.keys()].sort((a, b) => {
-    const ia = cityOrder.indexOf(a), ib = cityOrder.indexOf(b);
+    if (a === UNKNOWN_CITY) return 1;
+    if (b === UNKNOWN_CITY) return -1;
+    const ia = CITY_ORDER.indexOf(a), ib = CITY_ORDER.indexOf(b);
     if (ia !== -1 && ib !== -1) return ia - ib;
     if (ia !== -1) return -1;
     if (ib !== -1) return 1;
@@ -525,11 +656,11 @@ function buildBubble(ev, idx) {
   text.className = 'bubble-text';
   text.innerHTML = `
     ${ev.start_time ? `<div class="bubble-time">${fmtTime(ev.start_time)}</div>` : ''}
-    <div class="bubble-title">${ev.title}</div>
-    <div class="bubble-venue">${ev.venue}</div>
+    <div class="bubble-title">${esc(ev.title)}</div>
+    ${ev.venue ? `<div class="bubble-venue">${esc(ev.venue)}</div>` : ''}
     <div class="bubble-pills">
-      ${ev.genre ? `<span class="genre-pill">${ev.genre}</span>` : ''}
-      <span class="city-badge ${cityClass(ev.city)}">${cityLabel(ev.city)}</span>
+      ${ev.genre ? `<span class="genre-pill">${esc(ev.genre)}</span>` : ''}
+      <span class="city-badge ${cityClass(ev.city)}">${esc(cityLabel(ev.city))}</span>
     </div>`;
   compactRow.appendChild(text);
   bubble.appendChild(compactRow);
@@ -564,20 +695,21 @@ function buildBubble(ev, idx) {
   expandedContent.className = 'bubble-expanded-content';
   expandedContent.innerHTML = `
     ${ev.start_time ? `<div class="bubble-exp-time">${fmtTime(ev.start_time)}</div>` : ''}
-    <div class="bubble-exp-title">${ev.title}</div>
-    <div class="bubble-exp-venue">${ev.venue}</div>
+    <div class="bubble-exp-title">${esc(ev.title)}</div>
+    ${ev.venue ? `<div class="bubble-exp-venue">${esc(ev.venue)}</div>` : ''}
     <div class="bubble-exp-pills">
-      ${ev.genre ? `<span class="genre-pill">${ev.genre}</span>` : ''}
-      <span class="city-badge ${cityClass(ev.city)}">${cityLabel(ev.city)}</span>
+      ${ev.genre ? `<span class="genre-pill">${esc(ev.genre)}</span>` : ''}
+      <span class="city-badge ${cityClass(ev.city)}">${esc(cityLabel(ev.city))}</span>
     </div>
-    ${ev.price ? `<div class="bubble-detail-row"><span class="bubble-price">${ev.price}</span></div>` : ''}`;
+    ${ev.price ? `<div class="bubble-detail-row"><span class="bubble-price">${esc(ev.price)}</span></div>` : ''}`;
 
   const actions = document.createElement('div');
   actions.className = 'bubble-actions';
-  if (ev.ticket_url) {
+  const ticketUrl = httpUrl(ev.ticket_url);
+  if (ticketUrl) {
     const a = document.createElement('a');
     a.className = 'bubble-btn primary';
-    a.href = ev.ticket_url;
+    a.href = ticketUrl;
     a.target = '_blank';
     a.rel = 'noopener';
     a.textContent = 'Get Tickets →';
@@ -612,7 +744,8 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDayPane
 fetch('events.json')
   .then(r => r.json())
   .then(data => {
-    ALL_EVENTS = data.events;
+    ALL_EVENTS = normalizeEvents(data.events || []);
+    renderCityFilter();
     renderCalendar();
     renderList();
 

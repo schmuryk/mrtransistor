@@ -4,20 +4,31 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>JSA Safety App — Mr. Transistor</title>
+  <meta name="description" content="A mobile app for completing Job Safety Assessments in the field: fill out the morning form, register your crew, collect digital signatures, and export a signed PDF. Optional SharePoint delivery add-on." />
+  <link rel="canonical" href="https://mrtransistor.ca/projects/job-safety-app/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Mr. Transistor" />
+  <meta property="og:title" content="JSA Safety App" />
+  <meta property="og:description" content="A mobile app for completing Job Safety Assessments in the field: fill out the morning form, register your crew, collect digital signatures, and export a signed PDF. Optional SharePoint delivery add-on." />
+  <meta property="og:url" content="https://mrtransistor.ca/projects/job-safety-app/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="mask-icon" href="/favicon.svg" color="#1c1c1c" />
   <link rel="stylesheet" href="../../style.css" />
 </head>
 <body>
 
+  <a class="skip-link" href="#main">Skip to content</a>
+
   <header>
     <a class="wordmark" href="/">MR. TRANSISTOR</a>
-    <nav>
-      <a href="/projects">Projects</a>
+    <nav aria-label="Main">
+      <a href="/projects/">Projects</a>
     </nav>
   </header>
 
-  <main>
+  <main id="main">
     <div class="breadcrumb">
-      <a href="/projects">Projects</a> / JSA Safety App
+      <a href="/projects/">Projects</a> / JSA Safety App
     </div>
 
     <div class="app-header">
@@ -31,14 +42,17 @@
 
     <div class="app-section">
       <h2>Download</h2>
+      <!-- Not on either store yet: an Android build exists, iOS has not been built.
+           These are deliberately non-interactive labels, not links. Swap each one back
+           to <a class="download-btn" href="STORE_URL"> once that listing is live. -->
       <div class="download-btns">
-        <a class="download-btn" href="#" aria-label="Download on the App Store">
-          &#8679; App Store
-        </a>
-        <a class="download-btn" href="#" aria-label="Get it on Google Play">
-          &#8679; Google Play
-        </a>
+        <span class="download-btn is-soon">App Store &mdash; Coming soon</span>
+        <span class="download-btn is-soon">Google Play &mdash; Coming soon</span>
       </div>
+      <p class="app-note">
+        The app isn't published to either store yet. An Android build is in testing
+        and the iOS version is still to come.
+      </p>
     </div>
 
     <div class="app-section">
@@ -53,6 +67,10 @@
         <p>
           Need your completed JSA PDFs to land automatically in a SharePoint document library?
           That's available as an add-on service.
+          <!-- TODO: mrtransistor.ca has NO MX records (confirmed 2026-09-26 against 8.8.8.8
+               and 1.1.1.1), so mail to steffan@mrtransistor.ca bounces and never arrives.
+               This is the site's only call to action. Either add MX records / email
+               forwarding for the domain, or point this link at a mailbox that works. -->
           <a href="mailto:steffan@mrtransistor.ca">Get in touch</a> for details.
         </p>
       </div>
