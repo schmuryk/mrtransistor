@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-19",
   "events": [
     {
       "id": "showpass:683917",
@@ -86,16 +86,16 @@
       "genre": "Dubstep"
     },
     {
-      "id": "vieme:69694955d5915307f694079a",
-      "title": "For Dancers Only (Soul Night)",
-      "venue": "1415 Broad St",
+      "id": "vieme:695b5452482b0a1dc8cb859a",
+      "title": "Houseworx - Kevin Shiu Christoph Maitland Mylove",
+      "venue": "Lucky Bar, 517 Yates St",
       "city": "Victoria",
       "date": "2026-01-25",
       "start_time": null,
-      "ticket_url": "https://admitone.com/events/victoria/community/music/for-dancers-only-garden-city-soul-club/N1NGVV",
+      "ticket_url": "https://www.eventbrite.ca/e/1976665237937?aff=oddtdtcreator",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/367bb49ec_600297277_1449125613879313_523923833260752854_n.jpg",
-      "genre": "Soul"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/22e23111c_KevinShiuCoverImage2025-1.jpg",
+      "genre": "Progressive"
     },
     {
       "id": "vieme:69559a91b9811abfde0ea462",
@@ -110,16 +110,16 @@
       "genre": "House, Techno"
     },
     {
-      "id": "vieme:695b5452482b0a1dc8cb859a",
-      "title": "Houseworx - Kevin Shiu Christoph Maitland Mylove",
-      "venue": "Lucky Bar, 517 Yates St",
+      "id": "vieme:69694955d5915307f694079a",
+      "title": "For Dancers Only (Soul Night)",
+      "venue": "1415 Broad St",
       "city": "Victoria",
       "date": "2026-01-25",
       "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/1976665237937?aff=oddtdtcreator",
+      "ticket_url": "https://admitone.com/events/victoria/community/music/for-dancers-only-garden-city-soul-club/N1NGVV",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/22e23111c_KevinShiuCoverImage2025-1.jpg",
-      "genre": "Progressive"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/367bb49ec_600297277_1449125613879313_523923833260752854_n.jpg",
+      "genre": "Soul"
     },
     {
       "id": "vieme:69673df71383c58d0d24cb47",
@@ -374,18 +374,6 @@
       "genre": "House, Techno"
     },
     {
-      "id": "vieme:69bacc0a00c7ac0ac42dcc7d",
-      "title": "Afterburn",
-      "venue": "LevelTwo Nightclub",
-      "city": "Nanaimo",
-      "date": "2026-03-22",
-      "start_time": null,
-      "ticket_url": null,
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/c262fe92c_after.jpg",
-      "genre": null
-    },
-    {
       "id": "vieme:69b83ae511d03ff8090c7816",
       "title": "Dubversified Culture x Mind Garden Present: Convergence ft. Bastiengoat.",
       "venue": "The Downbeat",
@@ -396,6 +384,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/1b22e4aaa_dub.jpg",
       "genre": "UKG, Techno, Jungle, Breakbeat, Dubstep"
+    },
+    {
+      "id": "vieme:69bacc0a00c7ac0ac42dcc7d",
+      "title": "Afterburn",
+      "venue": "LevelTwo Nightclub",
+      "city": "Nanaimo",
+      "date": "2026-03-22",
+      "start_time": null,
+      "ticket_url": null,
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/c262fe92c_after.jpg",
+      "genre": null
     },
     {
       "id": "vieme:69bf30c907c42a9e00ea1cc2",
@@ -446,18 +446,6 @@
       "genre": "Tech House, Bass House"
     },
     {
-      "id": "vieme:69bc537bf93a61b99f2cc7e0",
-      "title": "Monster Energy presents SkiiTour",
-      "venue": "Waverley Hotel",
-      "city": "Comox Valley",
-      "date": "2026-03-28",
-      "start_time": null,
-      "ticket_url": "https://cvw.tickit.ca/events/32764",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/450113182_skit.jpg",
-      "genre": "Bass House"
-    },
-    {
       "id": "vieme:69b83eee378802ee4e611730",
       "title": "The Downbeat Presents: Civillian (Van.), Brumbo & Dunzo, Jurgen Daze",
       "venue": "The Downbeat",
@@ -470,15 +458,15 @@
       "genre": null
     },
     {
-      "id": "vieme:69bc52ecba47db783fd5df64",
-      "title": "Neon Steve @ The Queens",
-      "venue": "The Queen's",
-      "city": "Nanaimo",
+      "id": "vieme:69bc537bf93a61b99f2cc7e0",
+      "title": "Monster Energy presents SkiiTour",
+      "venue": "Waverley Hotel",
+      "city": "Comox Valley",
       "date": "2026-03-28",
       "start_time": null,
-      "ticket_url": "https://www.showpass.com/neon-steve-the-queens/",
+      "ticket_url": "https://cvw.tickit.ca/events/32764",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6152dae3d_neonanan.webp",
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/450113182_skit.jpg",
       "genre": "Bass House"
     },
     {
@@ -494,6 +482,18 @@
       "genre": "Techno, House, Progressive, Breakbeat"
     },
     {
+      "id": "vieme:69bc52ecba47db783fd5df64",
+      "title": "Neon Steve @ The Queens",
+      "venue": "The Queen's",
+      "city": "Nanaimo",
+      "date": "2026-03-28",
+      "start_time": null,
+      "ticket_url": "https://www.showpass.com/neon-steve-the-queens/",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6152dae3d_neonanan.webp",
+      "genre": "Bass House"
+    },
+    {
       "id": "vieme:69bad324d0203f4aef0d4948",
       "title": "COMMON",
       "venue": "21 Nicol St",
@@ -503,6 +503,18 @@
       "ticket_url": "https://buy.stripe.com/4gM5kC9oD4Nug8f25Mffy02",
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/5a00fd745_common.jpeg",
+      "genre": "House"
+    },
+    {
+      "id": "vieme:69b83c1bd4f0441a16745649",
+      "title": "Deep Down Inside Ft: Mr. Moe, J- Feud, Andfriend",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-03-29",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/deep-down-inside-ft-mr-moe-j-feud-andfriends-tickets-1984165099224",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6e9d3cf09_deepdown.jpg",
       "genre": "House"
     },
     {
@@ -516,18 +528,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/6ef5466b3_house.jpg",
       "genre": null
-    },
-    {
-      "id": "vieme:69b83c1bd4f0441a16745649",
-      "title": "Deep Down Inside Ft: Mr. Moe, J- Feud, Andfriend",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-03-29",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/deep-down-inside-ft-mr-moe-j-feud-andfriends-tickets-1984165099224",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6e9d3cf09_deepdown.jpg",
-      "genre": "House"
     },
     {
       "id": "livevictoria:907474",
@@ -734,18 +734,6 @@
       "genre": null
     },
     {
-      "id": "vieme:69c412db08cbcfb619c6400f",
-      "title": "Liquid Lounge Sessions Vol. 3",
-      "venue": "1415 Broad Street",
-      "city": "Victoria",
-      "date": "2026-04-03",
-      "start_time": null,
-      "ticket_url": "https://checkout.admitone.com/484I9Y",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/bc8308c3d_657895086_930332796595364_1530750759583961857_n.jpg",
-      "genre": "Drum & Bass"
-    },
-    {
       "id": "vieme:69baca65ec8028389d2e73bc",
       "title": "Pressure Thursday and Public Hearing present: Natty, mr.b, Primitive",
       "venue": "The Downbeat",
@@ -756,6 +744,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/e838cabf3_pressure.webp",
       "genre": "House"
+    },
+    {
+      "id": "vieme:69c412db08cbcfb619c6400f",
+      "title": "Liquid Lounge Sessions Vol. 3",
+      "venue": "1415 Broad Street",
+      "city": "Victoria",
+      "date": "2026-04-03",
+      "start_time": null,
+      "ticket_url": "https://checkout.admitone.com/484I9Y",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/bc8308c3d_657895086_930332796595364_1530750759583961857_n.jpg",
+      "genre": "Drum & Bass"
     },
     {
       "id": "livevictoria:907592",
@@ -974,18 +974,6 @@
       "genre": "Techno, House, Bass House"
     },
     {
-      "id": "vieme:69beba51c160ed701d88108f",
-      "title": "Dion Timmer",
-      "venue": "Capital Ballroom",
-      "city": "Victoria",
-      "date": "2026-04-04",
-      "start_time": null,
-      "ticket_url": "https://admitone.com/events/victoria/pro/concerts/capital-ballroom/dion-timmer/dion-timmer/6980e6415b6a8889c85452c4",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/77a1d5863_651147203_1224702259651587_2005902697144565369_n.jpg",
-      "genre": "Dubstep"
-    },
-    {
       "id": "vieme:69b840445c4acc0322af59da",
       "title": "Krafty Kuts & A.Skillz at The Downbeat",
       "venue": "The Downbeat",
@@ -996,6 +984,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/171429f7e_krafty.jpg",
       "genre": "Drum & Bass, Breakbeat, Bass House"
+    },
+    {
+      "id": "vieme:69beba51c160ed701d88108f",
+      "title": "Dion Timmer",
+      "venue": "Capital Ballroom",
+      "city": "Victoria",
+      "date": "2026-04-04",
+      "start_time": null,
+      "ticket_url": "https://admitone.com/events/victoria/pro/concerts/capital-ballroom/dion-timmer/dion-timmer/6980e6415b6a8889c85452c4",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/77a1d5863_651147203_1224702259651587_2005902697144565369_n.jpg",
+      "genre": "Dubstep"
     },
     {
       "id": "vieme:69bec33736c009c7ba6380c5",
@@ -1082,18 +1082,6 @@
       "genre": null
     },
     {
-      "id": "vieme:69cbded6a747e276a57103c9",
-      "title": "ʜᴜɴɴʏ ʙᴜɴɴʏ ʜᴏᴜꜱᴇ ᴘᴀʀᴛʏ — VOL. 3!!!!",
-      "venue": "The Waverley Hotel",
-      "city": "Comox Valley",
-      "date": "2026-04-05",
-      "start_time": null,
-      "ticket_url": "https://waverley.tickit.ca/events/34158-vol-3",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b26499935_646192652_122305418942240214_6645297022968022790_n.jpg",
-      "genre": "House"
-    },
-    {
       "id": "vieme:69b83e119732ff60ac7f3299",
       "title": "Back Underground Ft: Hot Sleepers, Dataist, R|V^H",
       "venue": "The Downbeat",
@@ -1104,6 +1092,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/378a720f7_back.webp",
       "genre": "Techno"
+    },
+    {
+      "id": "vieme:69cbded6a747e276a57103c9",
+      "title": "ʜᴜɴɴʏ ʙᴜɴɴʏ ʜᴏᴜꜱᴇ ᴘᴀʀᴛʏ — VOL. 3!!!!",
+      "venue": "The Waverley Hotel",
+      "city": "Comox Valley",
+      "date": "2026-04-05",
+      "start_time": null,
+      "ticket_url": "https://waverley.tickit.ca/events/34158-vol-3",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b26499935_646192652_122305418942240214_6645297022968022790_n.jpg",
+      "genre": "House"
     },
     {
       "id": "vieme:69bf09b167eb1f5450bc7f4b",
@@ -1754,18 +1754,6 @@
       "genre": "House, Drum & Bass, Bass House, Tech House, Breakbeat"
     },
     {
-      "id": "vieme:69bc53ba728e9d122bfa8f78",
-      "title": "Kilbourne - Night Theory Tour",
-      "venue": "The Waverley Hotel",
-      "city": "Comox Valley",
-      "date": "2026-04-11",
-      "start_time": null,
-      "ticket_url": "https://mteliah.tickit.ca/events/33977-kilbourne-night-theory-tour",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/da2273886_kill.jpg",
-      "genre": "Dubstep, Drum & Bass, Breakbeat, Techno"
-    },
-    {
       "id": "vieme:69c1962f61bbcb5c427a159a",
       "title": "Koastle",
       "venue": "Upstairs Cabaret",
@@ -1776,6 +1764,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/baf8d457e_649602816_1328776615945373_2242925663486032884_n.jpg",
       "genre": "Bass House"
+    },
+    {
+      "id": "vieme:69bc5cb4e4e817c597e539f9",
+      "title": "VicDrip Presents: HOLY FUCKING SHIT - an otherworld fundraiser",
+      "venue": "1605 Store Street",
+      "city": "Victoria",
+      "date": "2026-04-11",
+      "start_time": null,
+      "ticket_url": "https://vicdrip.bloomtickets.ca/event/677?VicDripPresents%3AHOLYFUCKINGSHIT-anotherworldfundraiser&fbclid=IwY2xjawQpO9RleHRuA2FlcQIxMABicmlkETFFQzRPdUhNa2xjdkEyTEhXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrQRVh3qwc3x3vZnhlFe2gt74KsX0Rx6Vp0PxmGjzCQmb1EiSHM4FLwR5ALX_aem_QA5SxVnwOdRRMzOA708J-Q",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9dc77bba1_677.png",
+      "genre": "House, Techno, Progressive"
     },
     {
       "id": "vieme:69bc4bdc1db03ba5e3f9a776",
@@ -1790,16 +1790,16 @@
       "genre": "House"
     },
     {
-      "id": "vieme:69bc5cb4e4e817c597e539f9",
-      "title": "VicDrip Presents: HOLY FUCKING SHIT - an otherworld fundraiser",
-      "venue": "1605 Store Street",
-      "city": "Victoria",
+      "id": "vieme:69bc53ba728e9d122bfa8f78",
+      "title": "Kilbourne - Night Theory Tour",
+      "venue": "The Waverley Hotel",
+      "city": "Comox Valley",
       "date": "2026-04-11",
       "start_time": null,
-      "ticket_url": "https://vicdrip.bloomtickets.ca/event/677?VicDripPresents%3AHOLYFUCKINGSHIT-anotherworldfundraiser&fbclid=IwY2xjawQpO9RleHRuA2FlcQIxMABicmlkETFFQzRPdUhNa2xjdkEyTEhXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrQRVh3qwc3x3vZnhlFe2gt74KsX0Rx6Vp0PxmGjzCQmb1EiSHM4FLwR5ALX_aem_QA5SxVnwOdRRMzOA708J-Q",
+      "ticket_url": "https://mteliah.tickit.ca/events/33977-kilbourne-night-theory-tour",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9dc77bba1_677.png",
-      "genre": "House, Techno, Progressive"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/da2273886_kill.jpg",
+      "genre": "Dubstep, Drum & Bass, Breakbeat, Techno"
     },
     {
       "id": "vieme:69d004cc6dfba0a407516de0",
@@ -2414,6 +2414,18 @@
       "genre": null
     },
     {
+      "id": "vieme:69dc3f3936ed3440c07554dc",
+      "title": "TOKED UP TECHYA",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-04-18",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.com/e/toked-up-techya-bystander-joey-fox-bpmbabe-slow-matt-hatter-squishy-gecko-tickets-1983995339468",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0fc587ce8_image.webp",
+      "genre": "Techno"
+    },
+    {
       "id": "vieme:69bb4c6856cfe9bb1ae41c28",
       "title": "NITE LIFE",
       "venue": "1415 Broad St",
@@ -2436,18 +2448,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/9d176e83a_bring.jpg",
       "genre": "House, Bass House"
-    },
-    {
-      "id": "vieme:69dc3f3936ed3440c07554dc",
-      "title": "TOKED UP TECHYA",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-04-18",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.com/e/toked-up-techya-bystander-joey-fox-bpmbabe-slow-matt-hatter-squishy-gecko-tickets-1983995339468",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0fc587ce8_image.webp",
-      "genre": "Techno"
     },
     {
       "id": "vieme:69bc5e33116408d66737b70b",
@@ -2558,18 +2558,6 @@
       "genre": null
     },
     {
-      "id": "vieme:69c195bb98859fc830b86ad2",
-      "title": "Mind Garden x Dubversified Culture: Convergence ft TF Marz",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-04-19",
-      "start_time": null,
-      "ticket_url": "https://www.tickettailor.com/events/mindgarden/2132922",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7d2c4990b_657155702_939744952134324_3069250503253259975_n.jpg",
-      "genre": "Dubstep, Drum & Bass, Bass House, Downtempo"
-    },
-    {
       "id": "vieme:69599871953b93ef66123089",
       "title": "Vinyl Session #4",
       "venue": "released to ticket holders",
@@ -2580,6 +2568,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/690178fba_CopyofVinylsessions4500x500px.png",
       "genre": null
+    },
+    {
+      "id": "vieme:69c195bb98859fc830b86ad2",
+      "title": "Mind Garden x Dubversified Culture: Convergence ft TF Marz",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-04-19",
+      "start_time": null,
+      "ticket_url": "https://www.tickettailor.com/events/mindgarden/2132922",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7d2c4990b_657155702_939744952134324_3069250503253259975_n.jpg",
+      "genre": "Dubstep, Drum & Bass, Bass House, Downtempo"
     },
     {
       "id": "livevictoria:903482",
@@ -5126,6 +5126,18 @@
       "genre": "House, Techno"
     },
     {
+      "id": "vieme:6959992230d97af7d41fb06a",
+      "title": "Vinyl Session #5",
+      "venue": "Released to ticket holder",
+      "city": "Victoria",
+      "date": "2026-05-24",
+      "start_time": null,
+      "ticket_url": "https://simpli.events/e/vinyl-session-5",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/81c45e896_Vinylsessions5500x500px-2.png",
+      "genre": "House, Techno, Tech House"
+    },
+    {
       "id": "vieme:6a0dceaa49cedff804589d77",
       "title": "NiGHT SHiFT : QUEER + KiNKY CLUB NiGHT",
       "venue": "The Downbeat",
@@ -5148,18 +5160,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/f174898de_0f5be3b277044478a8c0fb89f0ed18fc.jpeg",
       "genre": "House, Bass House"
-    },
-    {
-      "id": "vieme:6959992230d97af7d41fb06a",
-      "title": "Vinyl Session #5",
-      "venue": "Released to ticket holder",
-      "city": "Victoria",
-      "date": "2026-05-24",
-      "start_time": null,
-      "ticket_url": "https://simpli.events/e/vinyl-session-5",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/public/69557f7650f2cd95fbde4488/81c45e896_Vinylsessions5500x500px-2.png",
-      "genre": "House, Techno, Tech House"
     },
     {
       "id": "livevictoria:890929",
@@ -5378,18 +5378,6 @@
       "genre": "House, Techno, Bass House"
     },
     {
-      "id": "vieme:6a03daa2533c79553fc1fc9f",
-      "title": "SYNERGIC WAREHOUSE: C-STAR, CATARIA, DISCO CAT",
-      "venue": "TBA",
-      "city": "Victoria",
-      "date": "2026-05-31",
-      "start_time": null,
-      "ticket_url": "https://www.showpass.com/synergic-warehouse2/",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/1b14b43f6_19dab762-593.webp",
-      "genre": "Techno"
-    },
-    {
       "id": "vieme:69dfbe5370a9002ce1db6ef4",
       "title": "United Sound V.6 Ft: Joe Nice (US), Mirage, Andrea Wolf, Domin8tracks",
       "venue": "The Downbeat",
@@ -5400,6 +5388,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/401be3ec5_image.webp",
       "genre": "Drum & Bass, Dubstep, UK Garage, Jungle, Bass House"
+    },
+    {
+      "id": "vieme:6a03daa2533c79553fc1fc9f",
+      "title": "SYNERGIC WAREHOUSE: C-STAR, CATARIA, DISCO CAT",
+      "venue": "TBA",
+      "city": "Victoria",
+      "date": "2026-05-31",
+      "start_time": null,
+      "ticket_url": "https://www.showpass.com/synergic-warehouse2/",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/1b14b43f6_19dab762-593.webp",
+      "genre": "Techno"
     },
     {
       "id": "vieme:6a05227ab2155f4853528514",
@@ -6854,18 +6854,6 @@
       "genre": "House, Techno, UK Garage, Disco, Soul"
     },
     {
-      "id": "vieme:6a61333bf2b81cf2058eeb99",
-      "title": "NiGHTSHiFT: QUEER + KiNKY CLUB NiGHT!",
-      "venue": "The Downbeat Event Centre, 1325 Government Street, Victoria, BC",
-      "city": "Victoria",
-      "date": "2026-07-26",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/nightshift-queer-kinky-club-night-tickets-1992669130009",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/4b4110a30_748802491_1652164400243852_5465161841296490033_n.jpg",
-      "genre": "House, Techno, Dubstep, Trance, Progressive, Bass House, Indie Dance, Disco"
-    },
-    {
       "id": "vieme:6a5e5e07a431fae2a0fe508c",
       "title": "Johnny Fiasco (Chicago) Presented by RUSH + Algorythm",
       "venue": "1605 Store Street",
@@ -6876,6 +6864,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/5f2ff6f34_1877.png",
       "genre": "House"
+    },
+    {
+      "id": "vieme:6a61333bf2b81cf2058eeb99",
+      "title": "NiGHTSHiFT: QUEER + KiNKY CLUB NiGHT!",
+      "venue": "The Downbeat Event Centre, 1325 Government Street, Victoria, BC",
+      "city": "Victoria",
+      "date": "2026-07-26",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/nightshift-queer-kinky-club-night-tickets-1992669130009",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/4b4110a30_748802491_1652164400243852_5465161841296490033_n.jpg",
+      "genre": "House, Techno, Dubstep, Trance, Progressive, Bass House, Indie Dance, Disco"
     },
     {
       "id": "livevictoria:907589",
@@ -7886,6 +7886,18 @@
       "genre": "Bass House, Dubstep"
     },
     {
+      "id": "vieme:6aa8388d5e2570969a57f990",
+      "title": "Fire! Drum & Bass presents: Future Soul",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-09-27",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/fire-drum-bass-presents-future-soul-tickets-1999477676555",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7b5149e2c_image.webp",
+      "genre": "Drum & Bass, Liquid"
+    },
+    {
       "id": "vieme:6a8f258c84908396f1ab4f25",
       "title": "Garth - All Night Long",
       "venue": "1605 Store Street",
@@ -7920,18 +7932,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/91ed23e22_VictoriaAndreKronertSept26.jpg",
       "genre": "House, Techno"
-    },
-    {
-      "id": "vieme:6aa8388d5e2570969a57f990",
-      "title": "Fire! Drum & Bass presents: Future Soul",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-09-27",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/fire-drum-bass-presents-future-soul-tickets-1999477676555",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/7b5149e2c_image.webp",
-      "genre": "Drum & Bass, Liquid"
     },
     {
       "id": "livevictoria:911285",
@@ -8006,18 +8006,6 @@
       "genre": null
     },
     {
-      "id": "vieme:6aa839e3cef69fec52753fc4",
-      "title": "Mt. Doyle Ft: Gospel Of Her, I.M. Fast, Slicio",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-10-03",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/mt-doyle-ft-gospel-of-her-im-fast-slicio-tickets-1999645179561",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/535618038_image1.webp",
-      "genre": "Drum & Bass, House, Jungle"
-    },
-    {
       "id": "vieme:6aa2f609e319683465245287",
       "title": "HOME 003",
       "venue": "Secret Warehouse",
@@ -8028,6 +8016,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6527668d0_HOME003Poster1080x1080px.png",
       "genre": "House, Trance, Progressive"
+    },
+    {
+      "id": "vieme:6aa839e3cef69fec52753fc4",
+      "title": "Mt. Doyle Ft: Gospel Of Her, I.M. Fast, Slicio",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-10-03",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/mt-doyle-ft-gospel-of-her-im-fast-slicio-tickets-1999645179561",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/535618038_image1.webp",
+      "genre": "Drum & Bass, House, Jungle"
     },
     {
       "id": "vieme:6ab346a44d01b8d801a0dca5",
@@ -8138,18 +8138,6 @@
       "genre": "Bass House"
     },
     {
-      "id": "vieme:6aaeb5ad5b2f7e7af95958cb",
-      "title": "The Downbeat Presents: Phulla, Joey Fox, BPM Babe, Khan",
-      "venue": "The Downbeat",
-      "city": "Victoria",
-      "date": "2026-10-11",
-      "start_time": null,
-      "ticket_url": "https://www.eventbrite.ca/e/the-downbeat-presents-phulla-joey-fox-bpm-babe-khan-tickets-2001255051732",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0d8f28ff5_image.webp",
-      "genre": "Bass House, UKG, Tech House"
-    },
-    {
       "id": "vieme:6a9dcc35bc9b27f038832ccb",
       "title": "Sound Ethics Edition One",
       "venue": "Unit",
@@ -8160,6 +8148,18 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/44bb91663_SoundEthics.jpg",
       "genre": "House, Soul, Disco"
+    },
+    {
+      "id": "vieme:6aaeb5ad5b2f7e7af95958cb",
+      "title": "The Downbeat Presents: Phulla, Joey Fox, BPM Babe, Khan",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-10-11",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/the-downbeat-presents-phulla-joey-fox-bpm-babe-khan-tickets-2001255051732",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/0d8f28ff5_image.webp",
+      "genre": "Bass House, UKG, Tech House"
     },
     {
       "id": "vieme:6abfed0bfb6fde27b9366dbb",
@@ -8174,66 +8174,6 @@
       "genre": "House, Soul"
     },
     {
-      "id": "campbellrivernow:15906",
-      "title": "Thanksgiving Day",
-      "venue": null,
-      "city": "",
-      "date": "2026-10-12",
-      "start_time": "00:00",
-      "ticket_url": "https://campbellrivernow.com/event/thanksgiving-day/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/09/thanksgivng-canada.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:17352",
-      "title": "CR Storm vs Predators   🏒",
-      "venue": "Strathcona Gardens",
-      "city": "Campbell River",
-      "date": "2026-10-12",
-      "start_time": "16:30",
-      "ticket_url": "https://campbellrivernow.com/event/storm-vs-predators/",
-      "price": "$15",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/hockey-night-cr-storm.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:10011075",
-      "title": "Soundboxing: A Percussive Playground for Adults",
-      "venue": "qathet Academy of Music &#038; Arts",
-      "city": "Powell River",
-      "date": "2026-10-13",
-      "start_time": "18:30",
-      "ticket_url": "https://qathet365.ca/event/soundboxing-a-percussive-playground-for-adults/2026-10-13/",
-      "price": "&#x24;80",
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124327",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-14",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-14/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:15418",
-      "title": "Basketball Night at the Sportsplex 🏀",
-      "venue": "Campbell River Sportsplex",
-      "city": "Campbell River",
-      "date": "2026-10-14",
-      "start_time": "19:00",
-      "ticket_url": "https://campbellrivernow.com/event/basketball-night/",
-      "price": "$7",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/basketball.webp",
-      "genre": null
-    },
-    {
       "id": "livevictoria:910643",
       "title": "Parkland school fundraiser - home coming",
       "venue": "Mary Winspear Centre",
@@ -8243,90 +8183,6 @@
       "ticket_url": "https://livevictoria.com/show/910643/view",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124328",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-15",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-15/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283050",
-      "title": "PR – Words In Timbre",
-      "venue": "Magpie&#8217;s Diner",
-      "city": "Powell River",
-      "date": "2026-10-15",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/pr-words-in-timbre/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Words-Oct-15.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:12786",
-      "title": "Luke Blu Guthrie at Beach Fire Brewing",
-      "venue": "Beach Fire Brewing",
-      "city": "Campbell River",
-      "date": "2026-10-15",
-      "start_time": "18:00",
-      "ticket_url": "https://campbellrivernow.com/event/luke-blu-guthrie/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/03/luke-blu-2.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18999",
-      "title": "Ben Jackson Live at The Riptide",
-      "venue": "Riptide Marine Pub",
-      "city": "Campbell River",
-      "date": "2026-10-15",
-      "start_time": "18:30",
-      "ticket_url": "https://campbellrivernow.com/event/ben-jackson-riptide/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/11/ben-jackson-cr.webp",
-      "genre": null
-    },
-    {
-      "id": "showpass:1564948",
-      "title": "Greenhouse Open House",
-      "venue": "Greenhouse",
-      "city": "Victoria",
-      "date": "2026-10-15",
-      "start_time": "17:00",
-      "ticket_url": "https://www.showpass.com/greenhouse-open-house/",
-      "price": null,
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/7PYKN8-37ec0808-993.png",
-      "genre": null
-    },
-    {
-      "id": "humanitix:etiennesiew-charslanding-portalberni",
-      "title": "Etienne Siew alt folk/roots @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-10-15",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/etiennesiew-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/ea992bc2-4439-47ca-a16d-b2b2d62daddd.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bury-the-hatchet",
-      "title": "Bury The Hatchet",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-15",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bury-the-hatchet/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850836/d7d91e33-d0a8-4904-835f-e9cfd236e35a.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -8354,150 +8210,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10124329",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-16",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-16/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:278181",
-      "title": "Persephone Brewing: Djambouti",
-      "venue": "Persephone Brewing",
-      "city": "Gibsons",
-      "date": "2026-10-16",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/persephone-brewing-djambouti/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2024/05/DJAMBOUTI.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121231",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-10-16",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-10-16/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:280621",
-      "title": "St Hilda’s Church: Magical Nature – Album listening experience & release party",
-      "venue": "St Hilda&#8217;s Anglican Church",
-      "city": "Sechelt",
-      "date": "2026-10-16",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/st-hildas-church-magical-nature-album-listening-experience-release-party/",
-      "price": "$20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Magical-Nature-event-poster-copy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282299",
-      "title": "RC Legion: John Prine Gala",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-10-16",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-john-prine-gala/",
-      "price": "$8 – $20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/John-Prine-Ocg-16.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:248126",
-      "title": "PR – The Alley: Holiday Rock N Bowl 23 All Ages",
-      "venue": "The Alley",
-      "city": "Powell River",
-      "date": "2026-10-16",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/pr-the-alley-holiday-rock-n-bowl-23-all-ages/",
-      "price": "$5 – $20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/11/Rock-Bowl-oct-3.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:19561",
-      "title": "Dementia Support Group",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-10-16",
-      "start_time": "09:30",
-      "ticket_url": "https://campbellrivernow.com/event/dementia-support-group/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/08/dementia-support-group.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:18167",
-      "title": "Brad Lovell Live at SoCal",
-      "venue": "SoCal Restaurant &#038; Lounge",
-      "city": "Campbell River",
-      "date": "2026-10-16",
-      "start_time": "17:30",
-      "ticket_url": "https://campbellrivernow.com/event/brad-lovell-at-socal/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/brad-lovell.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:15488",
-      "title": "Mushroom Picking for Beginners 🍄",
-      "venue": "Community Centre",
-      "city": "Campbell River",
-      "date": "2026-10-16",
-      "start_time": "18:00",
-      "ticket_url": "https://campbellrivernow.com/event/mushroom-picking-for-beginners/",
-      "price": "$47",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/mushroom-picking-class.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:16276",
-      "title": "CR Storm vs Generals   🏒⚡",
-      "venue": "Strathcona Gardens",
-      "city": "Campbell River",
-      "date": "2026-10-16",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/cr-storm-vs-generals/",
-      "price": "$15",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/hockey-night-2.webp",
-      "genre": null
-    },
-    {
-      "id": "qathet365:14146",
-      "title": "Heart of the Beast",
-      "venue": "Patricia Theatre",
-      "city": "Powell River",
-      "date": "2026-10-16",
-      "start_time": "19:00",
-      "ticket_url": "https://qathet365.ca/event/heart-of-the-beast/",
-      "price": null,
-      "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "tofinotheatre:donavon-frankenreiter-canada-tour-2026-10-16",
-      "title": "Donavon Frankenreiter : Canada Tour",
-      "venue": "Clayoquot Sound Theatre",
-      "city": "Tofino",
-      "date": "2026-10-16",
-      "start_time": "17:00",
-      "ticket_url": "https://www.showpass.com/donavon-frankenreiter-canada-tour/",
-      "price": null,
-      "image_url": "https://static.wixstatic.com/media/c604d1_fde676037e2c410e8907e945065760b6~mv2.png",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-10-17",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -8522,162 +8234,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:282394",
-      "title": "Raven’s Cry Theatre: Met Opera – Macbeth",
-      "venue": "Raven&#8217;s Cry Theatre",
-      "city": "Sechelt",
-      "date": "2026-10-17",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/ravens-cry-theatre-met-opera-macbeth/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/macbeth-oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:280478",
-      "title": "Persephone Brewing: Charlotte Wrinch",
-      "venue": "Persephone Brewing",
-      "city": "Gibsons",
-      "date": "2026-10-17",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/persephone-brewing-charlotte-wrinch/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/02/charlotte-new-dec-2023.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:280011",
-      "title": "Backeddy Pub: Stephan Lacasse",
-      "venue": "Backeddy Pub",
-      "city": "Egmont",
-      "date": "2026-10-17",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/backeddy-pub-stephan-lacasse/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/event-music-stephan-lacasse-backeddy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120627",
-      "title": "Davis Bay Hall: Come Dance With Us!",
-      "venue": "Davis Bay Community Hall",
-      "city": "Sechelt",
-      "date": "2026-10-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/davis-bay-hall-come-dance-with-us/2026-10-17/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Come-Dance-With-Us-Fall-2026-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282359",
-      "title": "Sechelt Legion: Coast Folk",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-coast-folk-2/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Coast-Folk-Oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282600",
-      "title": "Gibsons Legion: MDM",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-10-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-mdm/",
-      "price": "$10 – $15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/mdm-oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283168",
-      "title": "GPAG: Simon Gidora & Isabella Perron in Concert",
-      "venue": "Gibsons Public Art Gallery",
-      "city": "Gibsons",
-      "date": "2026-10-17",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gpag-simon-gidora-isabella-perron-in-concert/",
-      "price": "$75",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Simon-Oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282399",
-      "title": "Heritage Playhouse: Coast Improv ultimate",
-      "venue": "Heritage Playhouse",
-      "city": "Gibsons",
-      "date": "2026-10-17",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/heritage-playhouse-coast-improv-ultimate/",
-      "price": "$15 – $20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/coast-improv-oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:276049",
-      "title": "101 Brewhouse: Retro Party – No DJ No Cover",
-      "venue": "The 101 Brewhouse + Distillery",
-      "city": "Gibsons",
-      "date": "2026-10-17",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/101-brewhouse-retro-party-no-dj-no-cover/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/Retro-Party-Sep-12.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282302",
-      "title": "RC Legion: Mo’Rida & Big Cookie featuring David James",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-10-17",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-morida-big-cookie-featuring-david-james/",
-      "price": "$15 – $20",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Big-Cookie-Oct-17.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4875",
-      "title": "The Georgia Strait Swingout",
-      "venue": "Merville Hall",
-      "city": "Comox Valley",
-      "date": "2026-10-17",
-      "start_time": "18:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/the-georgia-strait-swingout/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/DIG-FM-Swing-Band-Poster-October-2026.png",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:19614",
-      "title": "Election Day: Campbell River Local Gov.",
-      "venue": "Campbell River",
-      "city": "Campbell River",
-      "date": "2026-10-17",
-      "start_time": "08:00",
-      "ticket_url": "https://campbellrivernow.com/event/election-day-campbell-river/",
-      "price": null,
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/08/election-day.webp",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:15221",
-      "title": "Tragically Hip Tribute Concert",
-      "venue": "Tidemark Theatre",
-      "city": "Campbell River",
-      "date": "2026-10-17",
-      "start_time": "19:30",
-      "ticket_url": "https://campbellrivernow.com/event/tragically-hip-tribute/",
-      "price": "$50",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/tragically-hip.webp",
-      "genre": null
-    },
-    {
       "id": "vieme:6aa839e1e2c37b711d878a91",
       "title": "The Downbeat Presents: Natty, Big Body, R|V^H",
       "venue": "The Downbeat",
@@ -8688,162 +8244,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/6789a33b1_image2.webp",
       "genre": "House, Techno, Progressive"
-    },
-    {
-      "id": "showpass:1560688",
-      "title": "With Few Words",
-      "venue": "Robin and Winifred Wood Recital Hall",
-      "city": "Victoria",
-      "date": "2026-10-17",
-      "start_time": "16:00",
-      "ticket_url": "https://www.showpass.com/with-few-words/",
-      "price": "$30–$40 CAD",
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/af0ee43b-30c.png",
-      "genre": null
-    },
-    {
-      "id": "humanitix:stringtheory-charslanding-portalberni",
-      "title": "String Theory, Fiery Latin Guitar @Char's",
-      "venue": "Char's Landing",
-      "city": "Port Alberni",
-      "date": "2026-10-17",
-      "start_time": "19:30",
-      "ticket_url": "https://events.humanitix.com/stringtheory-charslanding-portalberni?hxchl=hex-pfl",
-      "price": null,
-      "image_url": "https://images.humanitix.com/i/5c2aed7f-0732-45aa-9266-b32631df44c7.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:aliya-kanani-where-you-from-from",
-      "title": "Aliya Kanani: Where You From, From?",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-17",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/aliya-kanani-where-you-from-from/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850816/4d804ad6-a60b-4cda-af5b-1e0c2df51980.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121721",
-      "title": "GPAG: Live Music | Woodland Rhythms",
-      "venue": "Gibsons Public Art Gallery",
-      "city": "Gibsons",
-      "date": "2026-10-18",
-      "start_time": "13:00",
-      "ticket_url": "https://coastculture.com/event/gpag-live-music-woodland-rhythms/2026-10-18/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/kaymcknight-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:275873",
-      "title": "PHMS Presents Marin Patenaude with Steve Brockley",
-      "venue": "Pender Harbour School of Music",
-      "city": "Madeira Park",
-      "date": "2026-10-18",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/phms-presents-marin-patenaude-with-steve-brockley/",
-      "price": "$30",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/07/PHMS-Marin-Patenaude-with-Steve-Brockley-10-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282502",
-      "title": "PH Performance Centre: Marin Patenaude & Steve Brockley – Heavy on Lightfoot",
-      "venue": "Pender Harbour Performance Centre",
-      "city": "Madeira Park",
-      "date": "2026-10-18",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/ph-performance-centre-marin-patenaude-steve-brockley-heavy-on-lightfoot/",
-      "price": "$30",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Marin-Oct-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282607",
-      "title": "Madeira Park Legion: Half Cut & the Slackers",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-10-18",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-half-cut-the-slackers/",
-      "price": "$10",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Half-Cut-Oct-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10117419",
-      "title": "PR – Texada Island Inn Pub: Raise the Room Jam Sessions",
-      "venue": "Texada Island Inn",
-      "city": "Van Anda",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-texada-island-inn-pub-raise-the-room-jam-sessions/2026-10-18/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/10/Texada-Jam-2024.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115902",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-18/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121223",
-      "title": "Brickers Sunday Live Music Schedule",
-      "venue": "The Bricker Cider Company",
-      "city": "Sechelt",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/brickers-sunday-live-music-schedule/2026-10-18/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/07/Brickers-Sunday-no-date-3-5.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282944",
-      "title": "PR – Texada Island Inn: Jam Session",
-      "venue": "Texada Inn",
-      "city": "",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-texada-island-inn-jam-session/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Jam-session-Oct-18.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283065",
-      "title": "Persephone Brewing: Stephan LaCasse",
-      "venue": "Persephone Brewing",
-      "city": "Gibsons",
-      "date": "2026-10-18",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/persephone-brewing-stephan-lacasse/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Stephan-Lacasse-Persephone-no-date2.jpg",
-      "genre": null
-    },
-    {
-      "id": "campbellrivernow:13816",
-      "title": "Christy Vanden Live at Beach Fire Brewing",
-      "venue": "Beach Fire Brewing",
-      "city": "Campbell River",
-      "date": "2026-10-18",
-      "start_time": "13:00",
-      "ticket_url": "https://campbellrivernow.com/event/christy-vanden/",
-      "price": "Free",
-      "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/06/christy-vanden.webp",
-      "genre": null
     },
     {
       "id": "vieme:6ab1eeb7c22000db31cfc8f0",
@@ -8918,66 +8318,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7150",
-      "title": "The Piano Men Starring Jim Witter",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-10-20",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/the-piano-men-2026-10-20/",
-      "price": "$60.50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/04/PM-POSTER-2.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124330",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-21",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-21/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4906",
-      "title": "Little Shop of Horrors",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-21",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/little-shop-of-horrors/",
-      "price": "$35.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/AD-CYMC-Program-4-x-5.25-Little-Shop-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124331",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-22",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-22/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4911",
-      "title": "Little Shop of Horrors",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-22",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/little-shop-of-horrors-2/",
-      "price": "$35.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/AD-CYMC-Program-4-x-5.25-Little-Shop-1-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:14678",
       "title": "Larry Rogers Live at the Riptide",
       "venue": "Riptide Marine Pub",
@@ -8987,18 +8327,6 @@
       "ticket_url": "https://campbellrivernow.com/event/larry-rogers/",
       "price": null,
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/07/riptide-live-music.webp",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7344",
-      "title": "The Great Canadian Road Trip with Doc Walker, Jason McCoy & Michelle Wright",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-10-22",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/great-canadian-roadtrip-tour-2026-10-22/",
-      "price": "$60",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/Screenshot-2026-06-16-101942.jpg",
       "genre": null
     },
     {
@@ -9038,102 +8366,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10120699",
-      "title": "Sunshine Coast Art Crawl",
-      "venue": "Sunshine Coast",
-      "city": "",
-      "date": "2026-10-23",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/sunshine-coast-art-crawl/2026-10-23/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Art-Crawl-FB-pic.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124342",
-      "title": "Tapworks Brewing: Art Crawl – Jess Hart",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-10-23",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-brewing-art-crawl-jess-hart/2026-10-23/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Jess-Hart-Oct-25.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124332",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-23",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-23/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283091",
-      "title": "101 Brewhouse: Stephan LaCasse",
-      "venue": "The 101 Brewhouse + Distillery",
-      "city": "Gibsons",
-      "date": "2026-10-23",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/101-brewhouse-stephan-lacasse/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Stephan-LaCasse-Oct-23.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121232",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-10-23",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-10-23/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124848",
-      "title": "PH – H3 Henderson Haunted House",
-      "venue": "Henderson House",
-      "city": "Powell River",
-      "date": "2026-10-23",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/ph-h3-henderson-haunted-house/2026-10-23/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Henderson-Haunted-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282592",
-      "title": "PR – Carlson Loft: Phonosonics",
-      "venue": "Carlson Community Club",
-      "city": "Powell River",
-      "date": "2026-10-23",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/pr-carlson-loft-phonosonics/",
-      "price": "$35 – $45",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/phonosonics-oct-23.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4916",
-      "title": "Little Shop of Horrors",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-23",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/little-shop-of-horrors-3/",
-      "price": "$35.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/AD-CYMC-Program-4-x-5.25-Little-Shop-2-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:13080",
       "title": "Live Music with Ben Jackson",
       "venue": "SoCal Restaurant &#038; Lounge",
@@ -9155,18 +8387,6 @@
       "ticket_url": "https://qathet365.ca/event/forgotten-island/",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7439",
-      "title": "The Improvisers",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-10-23",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/the-improvisers-2026-10-23/",
-      "price": "$39",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/The-Improvisers-RCPt-scaled.png",
       "genre": null
     },
     {
@@ -9203,162 +8423,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2026-10-24/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120700",
-      "title": "Sunshine Coast Art Crawl",
-      "venue": "Sunshine Coast",
-      "city": "",
-      "date": "2026-10-24",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/sunshine-coast-art-crawl/2026-10-24/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Art-Crawl-FB-pic.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124343",
-      "title": "Tapworks Brewing: Art Crawl – Jess Hart",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-10-24",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-brewing-art-crawl-jess-hart/2026-10-24/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Jess-Hart-Oct-25.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282165",
-      "title": "Roberts Creek Elementary: Family Halloween Concert",
-      "venue": "Roberts Creek Elementary",
-      "city": "Roberts Creek",
-      "date": "2026-10-24",
-      "start_time": "14:30",
-      "ticket_url": "https://coastculture.com/event/roberts-creek-elementary-family-halloween-concert/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Halloween-2026-Poster-color-PDF_page-0001.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124383",
-      "title": "Backeddy Pub: Joe Stanton",
-      "venue": "Backeddy Pub",
-      "city": "Egmont",
-      "date": "2026-10-24",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/backeddy-pub-joe-stanton/2026-10-24/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/10/joe-stanton-backeddy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282391",
-      "title": "Tapworks Brewing: Jess Hart",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-10-24",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-brewing-jess-hart/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Jess-Hart-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282603",
-      "title": "Gibsons Legion: Coast Folk",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-10-24",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-coast-folk/",
-      "price": "$10 – $15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/coast-Folk-oct-24-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124849",
-      "title": "PH – H3 Henderson Haunted House",
-      "venue": "Henderson House",
-      "city": "Powell River",
-      "date": "2026-10-24",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/ph-h3-henderson-haunted-house/2026-10-24/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Henderson-Haunted-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:248564",
-      "title": "PR – Wildwood Saloon: Denis and the Menaces",
-      "venue": "Wildwood Public House",
-      "city": "Powell River",
-      "date": "2026-10-24",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/pr-wildwood-saloon-denis-and-the-menaces/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/11/Denis-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283071",
-      "title": "PR – The Alley: Music For All",
-      "venue": "The Alley",
-      "city": "Powell River",
-      "date": "2026-10-24",
-      "start_time": "19:30",
-      "ticket_url": "https://coastculture.com/event/pr-the-alley-music-for-all/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Pop-choir-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:279663",
-      "title": "101 Brewhouse: Country Night",
-      "venue": "The 101 Brewhouse + Distillery",
-      "city": "Gibsons",
-      "date": "2026-10-24",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/101-brewhouse-country-night/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2023/11/country-night-no-date.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282855",
-      "title": "RC Legion: BOO-Doir Rouge Burlesque",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-10-24",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-boo-doir-rouge-burlesque/",
-      "price": "$38.61",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Boo-Doir-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:283096",
-      "title": "Batch 44: DJ Coco",
-      "venue": "Batch 44 Brewery",
-      "city": "Sechelt",
-      "date": "2026-10-24",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/batch-44-dj-coco/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/DJ-Coco-Oct-24.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4921",
-      "title": "Little Shop of Horrors",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-24",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/little-shop-of-horrors-4/",
-      "price": "$35.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/AD-CYMC-Program-4-x-5.25-Little-Shop-3-scaled.jpg",
       "genre": null
     },
     {
@@ -9422,78 +8486,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10120701",
-      "title": "Sunshine Coast Art Crawl",
-      "venue": "Sunshine Coast",
-      "city": "",
-      "date": "2026-10-25",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/sunshine-coast-art-crawl/2026-10-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Art-Crawl-FB-pic.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124344",
-      "title": "Tapworks Brewing: Art Crawl – Jess Hart",
-      "venue": "Tapworks Brewing Co.",
-      "city": "Gibsons",
-      "date": "2026-10-25",
-      "start_time": "10:00",
-      "ticket_url": "https://coastculture.com/event/tapworks-brewing-art-crawl-jess-hart/2026-10-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Jess-Hart-Oct-25.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282610",
-      "title": "Madeira Park Legion: The Roving Steins",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-10-25",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-the-roving-steins/",
-      "price": "$10",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/rovin-steins-Oct-28.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10115903",
-      "title": "PR – Powell River Legion: Sunday Jam",
-      "venue": "Powell River Legion",
-      "city": "Powell River",
-      "date": "2026-10-25",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/pr-powell-river-legion-sunday-jam-2/2026-10-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/02/PR-Legion-Jam-ongling.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124385",
-      "title": "Brickers Sunday Live Music Schedule",
-      "venue": "The Bricker Cider Company",
-      "city": "Sechelt",
-      "date": "2026-10-25",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/brickers-sunday-live-music-schedule/2026-10-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/07/Brickers-Sunday-no-date-3-5.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4931",
-      "title": "Little Shop of Horrors",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-25",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/little-shop-of-horrors-6/",
-      "price": "$35.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/AD-CYMC-Program-4-x-5.25-Little-Shop-5-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:13904",
       "title": "The Beach Howlers Live",
       "venue": "Beach Fire Brewing",
@@ -9518,16 +8510,16 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7378",
-      "title": "The Remarkable Beach Boys Tribute: Let’s Go Surfin’",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
+      "id": "vieme:6ad558c6eb661dbd57293816",
+      "title": "THE ETERNAL QUESTION",
+      "venue": "Secret underground warehouse",
+      "city": "Victoria",
       "date": "2026-10-25",
-      "start_time": "19:00",
-      "ticket_url": "https://cowichanpac.ca/event/lets-go-surfin-2026-10-25/",
-      "price": "$55",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/LGS-for-website-landing-page.jpg",
-      "genre": null
+      "start_time": null,
+      "ticket_url": "https://events.humanitix.com/the-eternal-question",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/858d263a8_847536670_18633972451041574_2369862492093951121_n.jpg",
+      "genre": "Dubstep, Bass House"
     },
     {
       "id": "vieme:6aa83bb11ea0b6d236ca95b1",
@@ -9554,28 +8546,28 @@
       "genre": "Techno"
     },
     {
-      "id": "showpass:1570128",
-      "title": "Nanaimo Singles Social at Simonholt",
-      "venue": "Simonholt Restaurant",
-      "city": "Nanaimo",
-      "date": "2026-10-25",
-      "start_time": "16:00",
-      "ticket_url": "https://www.showpass.com/nanaimo-singles-social-at-simonholt/",
-      "price": "$25 CAD",
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/wanapa-3/images/e2614af5-3b7.png",
-      "genre": null
-    },
-    {
-      "id": "humanitix:https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-oct25",
+      "id": "humanitix:jazzsocial-barrymiller-charslanding-portalberni-oct25",
       "title": "JAZZ Social: w The Barry Miller Quartet @Char's",
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-10-25",
       "start_time": "18:00",
-      "ticket_url": "https://events.humanitix.com/https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-oct25?hxchl=hex-pfl",
+      "ticket_url": "https://events.humanitix.com/jazzsocial-barrymiller-charslanding-portalberni-oct25?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
       "genre": null
+    },
+    {
+      "id": "vieme:6ad0fb723a2b48576656374a",
+      "title": "TRUTH with Coltcuts at The Downbeat [Victoria]",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-10-26",
+      "start_time": null,
+      "ticket_url": "https://www.showpass.com/truthvictoria/",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/683adce85_28e42198-7dc.webp",
+      "genre": "Dubstep, Bass House"
     },
     {
       "id": "campbellrivernow:19820",
@@ -9602,30 +8594,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:simon-garfunkel-a-musical-celebration-with-neil-young-show",
-      "title": "Simon & Garfunkel - A Musical Celebration with Neil Young Show",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-27",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/simon-garfunkel-a-musical-celebration-with-neil-young-show/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851000/f7de0e19-4b02-4316-9b65-9af78eef8db8.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124333",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-28",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-28/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:10355",
       "title": "Cam Boyce at Beach Fire Brewing",
       "venue": "Beach Fire Brewing",
@@ -9638,6 +8606,18 @@
       "genre": null
     },
     {
+      "id": "humanitix:electricmermaid-livereads-charslanding-portalberni-oct28",
+      "title": "Electric Mermaid Live Reads Featuring: Charmaine Arjoonlal @Char's",
+      "venue": "Char's Landing",
+      "city": "Port Alberni",
+      "date": "2026-10-28",
+      "start_time": "18:00",
+      "ticket_url": "https://events.humanitix.com/electricmermaid-livereads-charslanding-portalberni-oct28?hxchl=hex-pfl",
+      "price": null,
+      "image_url": "https://images.humanitix.com/i/4acb1112-5ce9-4add-a056-fdde45b05753.jpg@original",
+      "genre": null
+    },
+    {
       "id": "livevictoria:907570",
       "title": "Begonia - The Fantasy Life Tour (Victoria)",
       "venue": "Capital Ballroom",
@@ -9647,42 +8627,6 @@
       "ticket_url": "https://livevictoria.com/show/907570/view",
       "price": "$36.06",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124334",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-29",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-29/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123252",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-10-29",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2026-10-29/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282874",
-      "title": "RC Legion: Groove Syndicate Halloween",
-      "venue": "Roberts Creek Legion, #219",
-      "city": "Roberts Creek",
-      "date": "2026-10-29",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-groove-syndicate-halloween/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/IMG_0129.jpeg",
       "genre": null
     },
     {
@@ -9707,18 +8651,6 @@
       "ticket_url": "https://campbellrivernow.com/event/marshall-forsythe/",
       "price": null,
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/07/riptide-live-music.webp",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:ballet-victorias-ballet-rocks-1",
-      "title": "Ballet Victoria's Ballet Rocks",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-29",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/ballet-victorias-ballet-rocks-1/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850821/7d91facc-3fad-4842-8997-14d9ca3e2c72-2.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -9755,30 +8687,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-10-30/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124335",
-      "title": "Sechelt Legion: October – Schedule",
-      "venue": "Sechelt Legion",
-      "city": "Sechelt",
-      "date": "2026-10-30",
-      "start_time": "15:00",
-      "ticket_url": "https://coastculture.com/event/sechelt-legion-october-schedule/2026-10-30/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Sechelt-Legion-Oct-schedule.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121233",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-10-30",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-10-30/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
       "genre": null
     },
     {
@@ -9830,18 +8738,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:water-words",
-      "title": "Water Words",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-10-30",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/water-words/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850851/da812b2a-da69-4e75-9063-539de2c56119.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "tofinotheatre:rocky-horror-picture-show-2026-10-30",
       "title": "Rocky Horror Picture Show",
       "venue": "Clayoquot Sound Theatre",
@@ -9851,42 +8747,6 @@
       "ticket_url": "https://www.showpass.com/the-rocky-horror-picture-show-9/",
       "price": null,
       "image_url": "https://static.wixstatic.com/media/c604d1_95c6a554b364436da3a8131eafe10364~mv2.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282186",
-      "title": "Raven’s Cry Theatre: Luka Coetzee, cello & Jon Kimura Parker, piano",
-      "venue": "Raven&#8217;s Cry Theatre",
-      "city": "Sechelt",
-      "date": "2026-10-31",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/ravens-cry-theatre-luka-coetzee-cello-jon-kimura-parker-piano/",
-      "price": "$40",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/luka_coetzee-jon_kimura_parker-retina-Oct-31.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10124384",
-      "title": "Backeddy Pub: Joe Stanton",
-      "venue": "Backeddy Pub",
-      "city": "Egmont",
-      "date": "2026-10-31",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/backeddy-pub-joe-stanton/2026-10-31/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/10/joe-stanton-backeddy.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282613",
-      "title": "RC Legion: RAVEN Halloween",
-      "venue": "Roberts Creek Legion",
-      "city": "Roberts Creek",
-      "date": "2026-10-31",
-      "start_time": "21:00",
-      "ticket_url": "https://coastculture.com/event/rc-legion-raven-halloween/",
-      "price": "$20 – $25",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/10/Raven-Oct-31.jpg",
       "genre": null
     },
     {
@@ -9926,16 +8786,16 @@
       "genre": "House, Techno"
     },
     {
-      "id": "cowichanpac:7412",
-      "title": "Tom Cochrane Duo",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
+      "id": "vieme:6aaafc2fe8e306105c286d86",
+      "title": "Grave Rave 2026",
+      "venue": "The Dance Pit (south of Campbell River)",
+      "city": "Campbell River",
       "date": "2026-11-01",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/tom-cochrane-duo-2026-11-01/",
-      "price": "$77.50 – $88",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/Tom-Cochrane-11x17-proof-final.png",
-      "genre": null
+      "start_time": null,
+      "ticket_url": "https://sitkasound.tickit.ca/events/36412-grave-rave-the-dance-pit",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/ee56aa48f_original-Untitled_design_13.png",
+      "genre": "Drum & Bass, Bass House, Techno"
     },
     {
       "id": "vieme:6aac705ba23133b3cc67d24d",
@@ -9950,18 +8810,6 @@
       "genre": "House, Trance, Techno, Dubstep, Breakbeat, UK Garage, Bass House, Disco, UKG"
     },
     {
-      "id": "vieme:6aaafc2fe8e306105c286d86",
-      "title": "Grave Rave 2026",
-      "venue": "The Dance Pit (south of Campbell River)",
-      "city": "Campbell River",
-      "date": "2026-11-01",
-      "start_time": null,
-      "ticket_url": "https://sitkasound.tickit.ca/events/36412-grave-rave-the-dance-pit",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/ee56aa48f_original-Untitled_design_13.png",
-      "genre": "Drum & Bass, Bass House, Techno"
-    },
-    {
       "id": "vieme:6abc55670b5b6efc0ace3def",
       "title": "Living Dead Room ft. Lion-S, Hoola, Leif, Jurgen Daze B2B Moodbeach",
       "venue": "The Downbeat",
@@ -9972,18 +8820,6 @@
       "price": null,
       "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/a8a76ae0a_831384748_122212509878514877_8582903322891728879_n.jpg",
       "genre": "House, Techno, Breakbeat, Disco"
-    },
-    {
-      "id": "vieme:6ac527b97ca0fd9cbe74f061",
-      "title": "LIMINAL SPACES HALLOWEEN HOUSE HAUNT / JOEL ARMSTRONG / JARED LOVE / MARC GERRARD",
-      "venue": "Secret Warehouse",
-      "city": "Victoria",
-      "date": "2026-11-01",
-      "start_time": null,
-      "ticket_url": "https://lovefest.tickit.ca/events/36833-liminal-spaces-oct-31-w-joel-armstrong-jared-love-marc-gerrard",
-      "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b39ec8cb8_Oct31-3.jpg",
-      "genre": "House"
     },
     {
       "id": "vieme:6abfee8880be39c18e00bd16",
@@ -10010,30 +8846,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:278236",
-      "title": "Chest Fever presents The Last Waltz Nov 3",
-      "venue": "Roberts Creek Legion, #219",
-      "city": "Roberts Creek",
-      "date": "2026-11-03",
-      "start_time": "20:00",
-      "ticket_url": "https://coastculture.com/event/chest-fever-presents-the-last-waltz-nov-3/",
-      "price": "$50 – $60",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/Chest-Fever-nov-3.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:an-acoustic-evening-with-william-prince",
-      "title": "An Acoustic Evening with William Prince",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-03",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/an-acoustic-evening-with-william-prince/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850826/ef3c48ff-0e4a-4713-bf0d-47dd65b2b476.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:18519",
       "title": "Brad Lovell Live at Beach Fire Brewing",
       "venue": "Beach Fire Brewing",
@@ -10046,27 +8858,15 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:ron-james-the-noise-between-our-ears",
-      "title": "Ron James - The Noise Between Our Ears",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-04",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/ron-james-the-noise-between-our-ears/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850768/9279ffa5-651b-40a4-aa95-cebb96f650f6.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123255",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
+      "id": "qathet365:14642",
+      "title": "Holiday Soirée",
+      "venue": "The Arts Hub at tiskʷat",
+      "city": "Powell River",
       "date": "2026-11-05",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2026-11-05/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
+      "start_time": "18:00",
+      "ticket_url": "https://qathet365.ca/event/holiday-soiree/",
+      "price": null,
+      "image_url": "https://qathet365.ca/wp-content/uploads/2026/10/2026-11-05-FINAL-Soiree-Poster.png",
       "genre": null
     },
     {
@@ -10106,18 +8906,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121234",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-11-06",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-11-06/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:16419",
       "title": "Creedence Clearwater Revival Tribute Concert",
       "venue": "Tidemark Theatre",
@@ -10139,6 +8927,18 @@
       "ticket_url": "https://campbellrivernow.com/event/cr-storm-generals/",
       "price": "$15",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/08/storm-vs-generals.webp",
+      "genre": null
+    },
+    {
+      "id": "qathet365:14771",
+      "title": "Steinway Showcase Series – Ida Pelliccioli",
+      "venue": "The Arts Hub at tiskʷat",
+      "city": "Powell River",
+      "date": "2026-11-06",
+      "start_time": "19:00",
+      "ticket_url": "https://qathet365.ca/event/steinway-showcase-series-ida-pelliccioli/",
+      "price": null,
+      "image_url": "https://qathet365.ca/wp-content/uploads/2026/10/1.png",
       "genre": null
     },
     {
@@ -10166,18 +8966,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7255",
-      "title": "Ron James: The Noise Between Our Ears",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-06",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/ron-james-2026-11-06/",
-      "price": "$86.25",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/Ron-James-looking-up-right2023-P5-300dpi.jpg",
-      "genre": null
-    },
-    {
       "id": "showpass:1559614",
       "title": "BIG MACHINE - Gibsons",
       "venue": "Heritage Playhouse",
@@ -10195,22 +8983,10 @@
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-11-06",
-      "start_time": "19:30",
+      "start_time": "20:30",
       "ticket_url": "https://events.humanitix.com/ryanmcmahon-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/46664b43-835a-4815-9f89-6140574b51ea.jpg@original",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bee-gees-revisited-the-tribute-show",
-      "title": "Bee Gees Revisited: The Tribute Show",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-06",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bee-gees-revisited-the-tribute-show/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850529/c35d97bd-d7c5-40cf-9b7b-4e2695519761.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -10238,18 +9014,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:282190",
-      "title": "Raven’s Cry Theatre: Ema Nikolovska, mezzo-soprano & Sean Shibe, guitar: Orlando",
-      "venue": "Raven&#8217;s Cry Theatre",
-      "city": "Sechelt",
-      "date": "2026-11-07",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/ravens-cry-theatre-ema-nikolovska-mezzo-soprano-sean-shibe-guitar-orlando/",
-      "price": "$40",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Orlando-Nov-7.png",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:16257",
       "title": "North Island Menopause Conference",
       "venue": "Community Centre",
@@ -10262,16 +9026,28 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:6969",
-      "title": "Bee Gees Revisited – The Tribute Show",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
+      "id": "qathet365:14661",
+      "title": "Ceilidh Family Dance",
+      "venue": "Italian Hall",
+      "city": "Powell River",
       "date": "2026-11-07",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/bee-gees-revisited-2026-11-07/",
-      "price": "$61",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/01/Bee-Gees-Revisited-Duncan-11-by-17-less-than-5MB-scaled.png",
+      "start_time": "18:30",
+      "ticket_url": "https://qathet365.ca/event/ceilidh-family-dance/",
+      "price": null,
+      "image_url": "https://qathet365.ca/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-5.28.30-PM.png",
       "genre": null
+    },
+    {
+      "id": "vieme:6ad13b8c616e5f67af283798",
+      "title": "Back2Back DrumNBass Edition Ft: Guru, Gospel of Her, Halal Beats, Slight",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-11-07",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/back2back-drumnbass-edition-ft-guru-gospel-of-her-halal-beats-slight-tickets-2003183324247",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/43ca83ec5_image.webp",
+      "genre": "Drum & Bass, Liquid, Jungle"
     },
     {
       "id": "port_theatre:bee-gees-revisited-2026",
@@ -10283,18 +9059,6 @@
       "ticket_url": "https://www.porttheatre.com/events/bee-gees-revisited-2026/",
       "price": null,
       "image_url": "https://www.porttheatre.com/site/assets/files/2857/a322fab5-f42e-4f24-8ef6-43292e181f85.1600x0p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120615",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2026-11-08",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2026-11-08/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
       "genre": null
     },
     {
@@ -10310,39 +9074,27 @@
       "genre": null
     },
     {
+      "id": "vieme:6ad0237b0260cae19820a793",
+      "title": "The Downbeat Presents: Scorpio Birthday Bash",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-11-08",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/the-downbeat-presents-scorpio-birthday-bash-tickets-2003433880668",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/3c5eeab68_down.webp",
+      "genre": "House, Tech House, Techno, Breakbeat"
+    },
+    {
       "id": "humanitix:https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-nov8",
       "title": "JAZZ Social: w The Barry Miller Quartet @Char's 6pm | Port Alberni",
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-11-08",
-      "start_time": "18:00",
+      "start_time": "19:00",
       "ticket_url": "https://events.humanitix.com/https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-nov8?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
-      "genre": null
-    },
-    {
-      "id": "coastculture:282193",
-      "title": "Don Alder – Live & Personal",
-      "venue": "Christian Life Assembly",
-      "city": "Gibsons",
-      "date": "2026-11-10",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/christian-life-assembly-don-alder-live-personal/",
-      "price": "$22",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Promo-Don-Alder-Instagram.jpg",
-      "genre": null
-    },
-    {
-      "id": "showpass:1566730",
-      "title": "NeuzTec! Loscil, Sarah Belle Reid, Ry Moran",
-      "venue": "Greenhouse",
-      "city": "Victoria",
-      "date": "2026-11-12",
-      "start_time": "19:00",
-      "ticket_url": "https://www.showpass.com/neuztec12/",
-      "price": "$28 CAD",
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/0881ba37-447.png",
       "genre": null
     },
     {
@@ -10358,12 +9110,24 @@
       "genre": null
     },
     {
+      "id": "showpass:1566730",
+      "title": "NeuzTec! Loscil, Sarah Belle Reid, Ry Moran",
+      "venue": "Greenhouse",
+      "city": "Victoria",
+      "date": "2026-11-12",
+      "start_time": "19:00",
+      "ticket_url": "https://www.showpass.com/neuztec12/",
+      "price": "$28 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/0881ba37-447.png",
+      "genre": null
+    },
+    {
       "id": "humanitix:christielenee-charslanding-portalberni",
       "title": "Christie Lenée LIVE w/Sarah Smith @Char's 7:30pm | Port, Alberni",
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-11-12",
-      "start_time": "19:30",
+      "start_time": "20:30",
       "ticket_url": "https://events.humanitix.com/christielenee-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/625c9a6d-e3d4-4538-833b-ad730428736c.jpg@original",
@@ -10394,18 +9158,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121235",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-11-13",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-11-13/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:11781",
       "title": "Friday Night Skate & Movie",
       "venue": "Strathcona Gardens",
@@ -10418,15 +9170,15 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7311",
-      "title": "Completely Creedence Band – A Tribute to CCR",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
+      "id": "qathet365:14778",
+      "title": "Steinway Showcase Series – Libby Yu",
+      "venue": "The Arts Hub at tiskʷat",
+      "city": "Powell River",
       "date": "2026-11-13",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/completely-creedence-band-2026-11-13/",
-      "price": "$49.50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/CC-COWICHAN-NOV13_2026_8.5x11-scaled.jpg",
+      "start_time": "19:00",
+      "ticket_url": "https://qathet365.ca/event/steinway-showcase-series-libby-yu/",
+      "price": null,
+      "image_url": "https://qathet365.ca/wp-content/uploads/2026/10/3.png",
       "genre": null
     },
     {
@@ -10478,18 +9230,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10120628",
-      "title": "Davis Bay Hall: Come Dance With Us!",
-      "venue": "Davis Bay Community Hall",
-      "city": "Sechelt",
-      "date": "2026-11-14",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/davis-bay-hall-come-dance-with-us/2026-11-14/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Come-Dance-With-Us-Fall-2026-1.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:17318",
       "title": "Stand-up Comedy Night at Sessions",
       "venue": "Session Taproom + Kitchen",
@@ -10499,18 +9239,6 @@
       "ticket_url": "https://campbellrivernow.com/event/stand-up-sessions/",
       "price": "$30",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2024/12/comedy-standup.webp",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7539",
-      "title": "Cowichan Symphony Society: Christian Kluxen and Hayoung Choi",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-14",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/css-2026-11-14/",
-      "price": "$75",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/9.-Kluxen-Choi-–-Prokofiev-Classical-Haydn-Cello-Concerto-1080x1080-1-450x450-1.png",
       "genre": null
     },
     {
@@ -10526,18 +9254,6 @@
       "genre": null
     },
     {
-      "id": "showpass:1549032",
-      "title": "Civic Orchestra: Remembrance",
-      "venue": "Dave Dunnet Community Theatre",
-      "city": "Victoria",
-      "date": "2026-11-14",
-      "start_time": "14:00",
-      "ticket_url": "https://www.showpass.com/civic-orchestra-remembrance/",
-      "price": "$10–$25 CAD",
-      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/civic-orchestra-of-victoria/images/38d493da-604.png",
-      "genre": null
-    },
-    {
       "id": "showpass:1566734",
       "title": "NeuzTec! 11th Edition - Saturday Performances",
       "venue": "Greenhouse",
@@ -10550,15 +9266,15 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:the-great-divide-canadas-tribute-to-the-band",
-      "title": "The Great Divide: Canada's Tribute to The Band",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
+      "id": "showpass:1549032",
+      "title": "Civic Orchestra: Remembrance",
+      "venue": "Dave Dunnet Community Theatre",
+      "city": "Victoria",
       "date": "2026-11-14",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/the-great-divide-canadas-tribute-to-the-band/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851152/57c40039-8f75-4312-a9ff-7b7326f1c880.800x800p50x50.jpg",
+      "start_time": "14:00",
+      "ticket_url": "https://www.showpass.com/civic-orchestra-remembrance/",
+      "price": "$10–$25 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/civic-orchestra-of-victoria/images/38d493da-604.png",
       "genre": null
     },
     {
@@ -10571,30 +9287,6 @@
       "ticket_url": "https://campbellrivernow.com/event/sound-factory/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/05/sound-factor-duo.webp",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7227",
-      "title": "Crash Test Dummies: Jingle All The Way",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-15",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/crash-test-dummies-2026-11-15/",
-      "price": "$60",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/05/CTD-facebook.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:symphony-at-the-sid-mischief-madness-mystery",
-      "title": "Symphony at the Sid: Mischief, Madness & Mystery",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-15",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/symphony-at-the-sid-mischief-madness-mystery/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851036/4c0d2b00-c35b-4220-9471-71283859ec86.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -10619,18 +9311,6 @@
       "ticket_url": "https://qathet365.ca/event/classical-monday-matinees/2026-11-16/",
       "price": null,
       "image_url": "https://qathet365.ca/wp-content/uploads/2026/10/Classical-Monday-Matinees.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7295",
-      "title": "Walk Like A Man",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-18",
-      "start_time": "19:00",
-      "ticket_url": "https://cowichanpac.ca/event/walk-like-a-man-2026-11-18/",
-      "price": "$67",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/Duncan-WLAM-8.5-x-11-Wed-Nov-18-2026-7pm-scaled.jpg",
       "genre": null
     },
     {
@@ -10682,18 +9362,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121236",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-11-20",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-11-20/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:10821",
       "title": "National Child Day Celebration",
       "venue": "Campbell River Sportsplex",
@@ -10742,18 +9410,6 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7319",
-      "title": "Got Stones! Steel Wheels Concert Tour",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-11-21",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/got-stones-2026-11-21/",
-      "price": "$45",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/06/634960121_122185793816464534_3462534460125140681_n.jpg",
-      "genre": null
-    },
-    {
       "id": "vieme:6abfec7b386510abff0f3136",
       "title": "Neon Steve with Mylove",
       "venue": "Waverley Hotel",
@@ -10766,40 +9422,52 @@
       "genre": "House, Tech House, Bass House, Techno"
     },
     {
-      "id": "coastculture:10120616",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2026-11-22",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2026-11-22/",
+      "id": "vieme:6ad10aff83004bbbc106fcbc",
+      "title": "Hydration Mix Series, The Last Drop, Celebrating 10 Years Of Drum and Bass",
+      "venue": "The Downbeat",
+      "city": "Victoria",
+      "date": "2026-11-21",
+      "start_time": null,
+      "ticket_url": "https://www.eventbrite.ca/e/hydration-mix-series-the-last-drop-celebrating-10-years-of-drum-and-bass-tickets-2003446815356",
       "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/49a942e83_image.webp",
+      "genre": "Drum & Bass, Liquid"
     },
     {
-      "id": "cowichanpac:7513",
-      "title": "Amanda Marshall",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
+      "id": "qathet365:14673",
+      "title": "Showstoppers! A Broadway Celebration",
+      "venue": "Max Cameron Theatre",
+      "city": "Powell River",
       "date": "2026-11-22",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/amanda-marshall-2026-11-22/",
-      "price": "$77.50 – $88",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/Amanda-Marshal-4-5.png",
+      "start_time": "14:00",
+      "ticket_url": "https://qathet365.ca/event/showstoppers-a-broadway-celebration/",
+      "price": null,
+      "image_url": null,
       "genre": null
     },
     {
-      "id": "vieme:6ac526f7a40fe9c370ab42fb",
-      "title": "SCORPIO SCREAMS V2 HRDVSION / EFEMME / KEMELEON",
-      "venue": "Secret Warehouse",
+      "id": "vieme:6abfeecbfbef67350fd36a49",
+      "title": "STYLUST live at The Queens w/ DIIVOIID & URFAVOURITESZN B2B SKATIE",
+      "venue": "The Queens",
+      "city": "Nanaimo",
+      "date": "2026-11-22",
+      "start_time": null,
+      "ticket_url": "https://www.showpass.com/stylust-live-at-the-queens-w-diivoiid-urfavouriteszn-b2b-skatie/",
+      "price": null,
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/b8fc8dcec_825278499_122214677756463713_6378921454263786374_n.jpg",
+      "genre": "Dubstep"
+    },
+    {
+      "id": "vieme:6ad023a5845829d990d5292a",
+      "title": "Houseworx - OB1Keoni, Stebbings, Joey Fox, The Gardener",
+      "venue": "Lucky Bar",
       "city": "Victoria",
       "date": "2026-11-22",
       "start_time": null,
-      "ticket_url": "https://lovefest.tickit.ca/events/37582-scorpio-screams-v2-hrdvsion-efemme-kemeleon",
+      "ticket_url": "https://www.eventbrite.ca/e/houseworx-ob1keoni-stebbings-joey-fox-the-gardener-tickets-2003240284617",
       "price": null,
-      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/d05ab8bc1_Nov21.jpg",
-      "genre": "Techno"
+      "image_url": "https://base44.app/api/apps/69557f7650f2cd95fbde4488/files/mp/public/69557f7650f2cd95fbde4488/3d914be1b_house.webp",
+      "genre": "House, Tech House, Techno, Bass House"
     },
     {
       "id": "humanitix:https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-nov22",
@@ -10807,46 +9475,10 @@
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-11-22",
-      "start_time": "18:00",
+      "start_time": "19:00",
       "ticket_url": "https://events.humanitix.com/https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-nov22?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:walk-like-a-man-music-of-frankie-valli-the-four-seasons",
-      "title": "Walk Like A Man - Music of Frankie Valli & The Four Seasons",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-22",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/walk-like-a-man-music-of-frankie-valli-the-four-seasons/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850784/63400f01-8737-4511-9a25-78d1a451cfbb.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:pop-goes-the-sixties",
-      "title": "Pop Goes The Sixties!",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-25",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/pop-goes-the-sixties/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851130/aace833d-24d7-4a29-b0ab-aeb05ec419dd.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123253",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-11-26",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2026-11-26/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
       "genre": null
     },
     {
@@ -10855,7 +9487,7 @@
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-11-26",
-      "start_time": "19:30",
+      "start_time": "20:30",
       "ticket_url": "https://events.humanitix.com/mayacook-charslanding-portalberni?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/d88f75dc-0c79-4bad-8ddf-8495d25cf616.jpg@original",
@@ -10898,30 +9530,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121237",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-11-27",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-11-27/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4882",
-      "title": "Just in Time Choirs Fall 2026 Concerts – Made in Canada",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-27",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/just-in-time-choirs-fall-2026-concerts-made-in-canada/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/09/20th-Anniv-Logo-200.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:11787",
       "title": "Pajama Skate at Strathcona Gardens",
       "venue": "Strathcona Gardens",
@@ -10943,6 +9551,18 @@
       "ticket_url": "https://campbellrivernow.com/event/garret-t-willie/",
       "price": "$45",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2026/09/Garret-T-Willie.webp",
+      "genre": null
+    },
+    {
+      "id": "showpass:1563432",
+      "title": "Forward - Victoria Film Premiere & Afterparty",
+      "venue": "Vic Theatre",
+      "city": "Victoria",
+      "date": "2026-11-27",
+      "start_time": "18:00",
+      "ticket_url": "https://www.showpass.com/forward-victoria-film-premiere/",
+      "price": "$15–$24 CAD",
+      "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/personal-8/images/a479abb6-3c8.png",
       "genre": null
     },
     {
@@ -11018,42 +9638,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:glob",
-      "title": "Glob",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-11-30",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/glob/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850846/e32cd02d-7e88-4e49-8acd-b002b5b25d84.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123256",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-12-03",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2026-12-03/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:christmas-with-casey-thomas-burns",
-      "title": "Christmas with Casey Thomas-Burns",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-03",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/christmas-with-casey-thomas-burns/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850841/059c2d78-6ee5-486f-8919-44114a34628d.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2026-12-04",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -11075,30 +9659,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-12-04/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121238",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-12-04",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-12-04/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3785",
-      "title": "NICS presents Handel’s Messiah",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-04",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert-4/",
-      "price": "$30.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/05/NICS-Logo-1.jpg",
       "genre": null
     },
     {
@@ -11150,30 +9710,6 @@
       "genre": null
     },
     {
-      "id": "performingartscomoxvalley:3789",
-      "title": "NICS presents Handel’s Messiah",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-05",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert-5/",
-      "price": "$30.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/05/NICS-Logo-2.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4895",
-      "title": "Comox Valley Concert Band presented by the Evergreen Club",
-      "venue": "Florence Filberg Centre",
-      "city": "Comox Valley",
-      "date": "2026-12-06",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/comox-valley-concert-band-presented-by-the-evergreen-club/",
-      "price": "$15",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/NewLogo2023km2.jpg.png",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:15435",
       "title": "Storm vs Kraken Hockey Game",
       "venue": "Strathcona Gardens",
@@ -11195,30 +9731,6 @@
       "ticket_url": "https://livevictoria.com/show/890813/view",
       "price": "$35",
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:yellowpoint-christmas-spectacular-2026",
-      "title": "Yellowpoint Christmas Spectacular 2026",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-09",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/yellowpoint-christmas-spectacular-2026/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851011/636793d1-f00a-4e6a-a9de-8f5f2cb58bf5.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7724",
-      "title": "Home For The Holidays – An Ella Fitzgerald Christmas",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-12-10",
-      "start_time": "20:00",
-      "ticket_url": "https://cowichanpac.ca/event/home-for-the-holidays-2026-12-10/",
-      "price": "$63.25",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/09/Home-for-the-Holidays-2026-Final-Poster-11-x-17-Duncan.jpg",
       "genre": null
     },
     {
@@ -11267,42 +9779,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2026-12-11/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121239",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-12-11",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-12-11/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4945",
-      "title": "WINTER SONG – Celebration Singers",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-11",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/winter-song/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/WINTER-SONG-FINAL.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7712",
-      "title": "A Holly Jolly Christmas with Zachary Stevenson",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-12-11",
-      "start_time": "19:00",
-      "ticket_url": "https://cowichanpac.ca/event/a-holly-jolly-christmas-2026-12-11/",
-      "price": "$64",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/09/Untitled-design-scaled.jpg",
       "genre": null
     },
     {
@@ -11366,30 +9842,6 @@
       "genre": null
     },
     {
-      "id": "performingartscomoxvalley:4951",
-      "title": "WINTER SONG – Celebration Singers",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-12",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/winter-song-2/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/WINTER-SONG-FINAL-2.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3870",
-      "title": "Strathcona Symphony Orchestra Presents From Fantasia to Frozen: Celebrating Walt Disney’s 125th Birthday",
-      "venue": "Florence Filberg Centre",
-      "city": "Comox Valley",
-      "date": "2026-12-12",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/strathcona-symphony-orchestras-winter-concert-details-tba-3/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/07/Dec2026_Disney_presale_media-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:16415",
       "title": "Breakfast with Santa 🎅🥞",
       "venue": "Community Centre",
@@ -11399,18 +9851,6 @@
       "ticket_url": "https://campbellrivernow.com/event/breakfast-with-santa/",
       "price": null,
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/10/breakfast-santa.webp",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:3875",
-      "title": "Strathcona Symphony Orchestra Presents From Fantasia to Frozen: Celebrating Walt Disney’s 125th Birthday",
-      "venue": "Florence Filberg Centre",
-      "city": "Comox Valley",
-      "date": "2026-12-13",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/strathcona-symphony-orchestras-winter-concert-details-tba-4/",
-      "price": "$15 – $25",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2025/07/Dec2026_Disney_presale_media-1-scaled.jpg",
       "genre": null
     },
     {
@@ -11426,51 +9866,15 @@
       "genre": null
     },
     {
-      "id": "cowichanpac:7472",
-      "title": "Winter Harp",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-12-13",
-      "start_time": "14:00",
-      "ticket_url": "https://cowichanpac.ca/event/winter-harp-2026-12-13/",
-      "price": "$39",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2025/07/Winter-Harp-2023-scaled.jpg",
-      "genre": null
-    },
-    {
       "id": "humanitix:https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-dec13",
       "title": "JAZZ Social: w The Barry Miller Quartet @Char's 6pm | Port Alberni",
       "venue": "Char's Landing",
       "city": "Port Alberni",
       "date": "2026-12-13",
-      "start_time": "18:00",
+      "start_time": "19:00",
       "ticket_url": "https://events.humanitix.com/https-events-humanitix-com-jazzsocial-barrymiller-charslanding-portalberni-dec13?hxchl=hex-pfl",
       "price": null,
       "image_url": "https://images.humanitix.com/i/op91yeNPSayd2AQjlgES@original",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:a-holly-jolly-christmas-with-zachary-stevenson",
-      "title": "A Holly Jolly Christmas with Zachary Stevenson",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-13",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/a-holly-jolly-christmas-with-zachary-stevenson/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851135/41f7d37d-89fc-49e8-85ae-6b19f4b88f7c.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:winter-harp-2",
-      "title": "Winter Harp",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-14",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/winter-harp-2/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850856/ea457751-bd2e-483f-85cc-a9ea99326d76-2.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11510,42 +9914,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121240",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-12-18",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-12-18/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4888",
-      "title": "A Cinematic Christmas with Festive Brass",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-18",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/a-cinematic-christmas-with-festive-brass/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/FB.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7793",
-      "title": "God Is A Scottish Drag Queen: Christmas Special",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-12-18",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/god-is-a-scottish-drag-queen-2026-12-18/",
-      "price": "$49",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/10/GodXmas-Duncan-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-12-19",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11570,42 +9938,6 @@
       "genre": null
     },
     {
-      "id": "performingartscomoxvalley:4936",
-      "title": "Hello Strings! December Concert",
-      "venue": "Comox United Church",
-      "city": "Comox Valley",
-      "date": "2026-12-19",
-      "start_time": "19:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/hello-strings-december-concert/",
-      "price": "By donation",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/09/Hello-Strings-logo-scaled.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:4648",
-      "title": "Songs For A Winter’s Night: The Legacy of Lightfoot",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2026-12-19",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/songs-for-a-winters-night-2026-12-19/",
-      "price": "$50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2023/11/CPAC-1200x1200-1.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120617",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2026-12-20",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2026-12-20/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
-    },
-    {
       "id": "showpass:1547796",
       "title": "Ash Grunwald",
       "venue": "Alix Goolden Performance Hall",
@@ -11615,18 +9947,6 @@
       "ticket_url": "https://www.showpass.com/ash-grunwald/",
       "price": "$30–$49 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/victoria-conservatory-of-music/images/72GSTB-3a94d6c1-7fe.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7703",
-      "title": "Coast to Coast Cowboy Christmas 2",
-      "venue": "Killy Theatre at Brentwood College",
-      "city": "Mill Bay",
-      "date": "2026-12-21",
-      "start_time": "20:00",
-      "ticket_url": "https://cowichanpac.ca/event/cowboy-christmas-2-2026-12-21/",
-      "price": "$70 – $80",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/09/COWICHAN_PAC_1080x1080_GC_AP_Coast2CoastXmas2026.jpg",
       "genre": null
     },
     {
@@ -11678,18 +9998,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121241",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2026-12-25",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2026-12-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2026-12-26",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11714,18 +10022,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121000",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2026-12-31",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2026-12-31/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "campbellrivernow:16868",
       "title": "Family Fun New Years Eve Celebration",
       "venue": "Strathcona Gardens",
@@ -11735,18 +10031,6 @@
       "ticket_url": "https://campbellrivernow.com/event/family-fun-nye/",
       "price": "Free",
       "image_url": "https://campbellrivernow.com/wp-content/uploads/2025/11/family-nye.webp",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:elf-the-musical",
-      "title": "Elf - The Musical",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2026-12-31",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/elf-the-musical/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851061/31d5ba96-6b82-4486-9908-5bc8fd160b58.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -11774,18 +10058,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121242",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-01-01",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-01-01/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-01-02",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11807,18 +10079,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-01-02/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120618",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-01-03",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-01-03/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
       "genre": null
     },
     {
@@ -11846,18 +10106,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10123257",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-01-07",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2027-01-07/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-01-08",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -11879,18 +10127,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2027-01-08/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121243",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-01-08",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-01-08/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
       "genre": null
     },
     {
@@ -11954,18 +10190,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121244",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-01-15",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-01-15/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-01-16",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -11987,54 +10211,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-01-16/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:the-elvis-concert-featuring-pete-paquette",
-      "title": "The Elvis Concert featuring Pete Paquette",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-01-16",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/the-elvis-concert-featuring-pete-paquette/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850961/b8f21e6d-7164-4346-8baf-bcc54dd08e17.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120619",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-01-17",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-01-17/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7546",
-      "title": "Cowichan Symphony Society: David Greenberg and Suzie LeBlanc with Victoria Baroque",
-      "venue": "Killy Theatre at Brentwood College",
-      "city": "Mill Bay",
-      "date": "2027-01-17",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/css-2027-01-17/",
-      "price": "$75",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/Suzie-LeBlanc-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:symphony-at-the-sid-winter-glow",
-      "title": "Symphony at the Sid: Winter Glow",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-01-17",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/symphony-at-the-sid-winter-glow/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851046/77e7ee58-f676-4767-a9c7-d9ab4b80c027.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12086,18 +10262,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121245",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-01-22",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-01-22/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-01-23",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12119,30 +10283,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-01-23/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121001",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-01-28",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2027-01-28/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7476",
-      "title": "International Guitar Night XXVII",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2027-01-28",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/ign-xxvii-2027-01-28/",
-      "price": "$45",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/Canada-Tour-Lineup-version-2.png",
       "genre": null
     },
     {
@@ -12170,30 +10310,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121246",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-01-29",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-01-29/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4960",
-      "title": "JOURNEYS – Quarantones Male Chorus",
-      "venue": "Weird Church",
-      "city": "Comox Valley",
-      "date": "2027-01-29",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/journeys-quarantones-male-chorus/",
-      "price": "$25 – $30",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/Journeys-2.png",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-01-30",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12215,66 +10331,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-01-30/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4965",
-      "title": "JOURNEYS – Quarantones Male Chorus",
-      "venue": "St Peters Anglican CR",
-      "city": "Campbell River",
-      "date": "2027-01-30",
-      "start_time": "14:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/journeys-quarantones-male-chorus-2/",
-      "price": "$25 – $30",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/Journeys-2-1.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120620",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-01-31",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-01-31/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4970",
-      "title": "JOURNEYS – Quarantones Male Chorus",
-      "venue": "Comox United Church",
-      "city": "Comox Valley",
-      "date": "2027-01-31",
-      "start_time": "14:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/journeys-quarantones-male-chorus-3/",
-      "price": "$25 – $30",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/Journeys-2-2.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:hold-on-to-your-butts",
-      "title": "Hold On To Your Butts",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-02",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/hold-on-to-your-butts/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850861/b921ed4c-8b15-4a52-9f52-cabca802195c.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123258",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-02-04",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2027-02-04/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
       "genre": null
     },
     {
@@ -12314,30 +10370,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121247",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-02-05",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-02-05/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:im-a-soulman-a-tribute-to-the-blues-brothers",
-      "title": "I'm A Soulman - A Tribute To The Blues Brothers",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-05",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/im-a-soulman-a-tribute-to-the-blues-brothers/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851125/68ed42fc-3236-427b-8ae0-ac60c72eb5e0.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-02-06",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12359,18 +10391,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-02-06/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:a-history-of-motown",
-      "title": "A History of Motown",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-06",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/a-history-of-motown/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850866/3c2938bb-707c-4981-80ea-341e650afe79.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12398,30 +10418,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121248",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-02-12",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-02-12/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:billy-elton-the-legacy",
-      "title": "Billy & Elton - The Legacy",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-12",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/billy-elton-the-legacy/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851147/9bf66cfd-f839-4805-93ea-520e86579f23.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-02-13",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12446,30 +10442,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:oh-pray-tell",
-      "title": "Oh Pray Tell",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-13",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/oh-pray-tell/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850871/fe5372b7-08ab-4c28-bfda-1ab07b8a1fba.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120621",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-02-14",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-02-14/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10009049",
       "title": "Lang Bay Song Circle",
       "venue": null,
@@ -12479,18 +10451,6 @@
       "ticket_url": "https://qathet365.ca/event/lang-bay-song-circle/2027-02-14/",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:symphony-at-the-sid-aretha-whitney-and-tina",
-      "title": "Symphony at the Sid: Aretha, Whitney and Tina!",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-02-14",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/symphony-at-the-sid-aretha-whitney-and-tina/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851041/cb03ebb9-b7b0-4874-92d8-d43604154ea0.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12518,18 +10478,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121249",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-02-19",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-02-19/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-02-20",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12551,18 +10499,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-02-20/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121002",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-02-25",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2027-02-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
       "genre": null
     },
     {
@@ -12590,18 +10526,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121250",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-02-26",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-02-26/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-02-27",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12623,54 +10547,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-02-27/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120629",
-      "title": "Davis Bay Hall: Come Dance With Us!",
-      "venue": "Davis Bay Community Hall",
-      "city": "Sechelt",
-      "date": "2027-02-27",
-      "start_time": "14:00",
-      "ticket_url": "https://coastculture.com/event/davis-bay-hall-come-dance-with-us/2027-02-27/",
-      "price": "$15",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Come-Dance-With-Us-Fall-2026-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120622",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-02-28",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-02-28/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123259",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-03-04",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2027-03-04/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:stuart-little",
-      "title": "Stuart Little",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-04",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/stuart-little/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850881/bd97fbd6-c44b-4aa4-b465-012c75790172.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12698,18 +10574,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121251",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-03-05",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-03-05/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-03-06",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12731,42 +10595,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-03-06/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:an-evening-with-tommy-emmanuel-cgp",
-      "title": "An Evening with Tommy Emmanuel, CGP",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-10",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/an-evening-with-tommy-emmanuel-cgp/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/851172/57c39cf9-1ca2-4a73-9791-83ae54436a2c.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7778",
-      "title": "An Evening with Tommy Emmanuel, CGP: Living In The Light Tour",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2027-03-11",
-      "start_time": "20:00",
-      "ticket_url": "https://cowichanpac.ca/event/tommy-emmanuel-cgp-2026-03-11/",
-      "price": "$87.50",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/09/TommyEmmanuel-Duncan-VenueSitePoster-612x712-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:no-excuses-no-limits-by-ill-abilities",
-      "title": "No Excuses, No Limits by ILL-Abilities",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-11",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/no-excuses-no-limits-by-ill-abilities/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850876/420a821b-aa9f-4f5d-a6fd-13e57544a2e6.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -12806,18 +10634,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121252",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-03-12",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-03-12/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-03-13",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12851,30 +10667,6 @@
       "ticket_url": "https://www.showpass.com/civic-orchestra-passions/",
       "price": "$10–$25 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/civic-orchestra-of-victoria/images/aca15e36-632.png",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:bangs-bobs-banter-confessions-of-a-hairstylist",
-      "title": "Bangs, Bobs & Banter: Confessions Of A Hairstylist",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-13",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/bangs-bobs-banter-confessions-of-a-hairstylist/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850891/63f23756-1420-41e6-b06d-2c54b8c8a2b2.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10120623",
-      "title": "RC Hall: Pancakes & Jams",
-      "venue": "Roberts Creek Hall",
-      "city": "Roberts Creek",
-      "date": "2027-03-14",
-      "start_time": "12:00",
-      "ticket_url": "https://coastculture.com/event/rc-hall-pancakes-jams/2027-03-14/",
-      "price": null,
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/08/pancakes-and-jams-mar-20.jpg",
       "genre": null
     },
     {
@@ -12914,18 +10706,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121253",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-03-19",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-03-19/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-03-20",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -12962,18 +10742,6 @@
       "genre": "Jazz"
     },
     {
-      "id": "coastculture:10121003",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-03-25",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2027-03-25/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-03-26",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -12995,18 +10763,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2027-03-26/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121254",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-03-26",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-03-26/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
       "genre": null
     },
     {
@@ -13034,30 +10790,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:louisa-may-alcotts-little-women",
-      "title": "Louisa May Alcott's Little Women",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-03-27",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/louisa-may-alcotts-little-women/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850896/533413e5-ecdd-46b8-b5a3-b7bed4ba8f5b.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10123260",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-04-01",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2027-04-01/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-04-02",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -13079,18 +10811,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2027-04-02/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121255",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-04-02",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-04-02/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
       "genre": null
     },
     {
@@ -13118,18 +10838,6 @@
       "genre": null
     },
     {
-      "id": "sidwilliams:a-cabaret-of-legends",
-      "title": "A Cabaret of Legends",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-04-08",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/a-cabaret-of-legends/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850886/3030628d-3d23-45ac-a7c4-104add7c6c78.800x800p50x50.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:backcountry-fridays_2027-04-09",
       "title": "BACKCOUNTRY FRIDAYS",
       "venue": "The Duke Saloon",
@@ -13154,54 +10862,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121256",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-04-09",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-04-09/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4623",
-      "title": "North Island Choral Society",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-04-09",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/north-island-choral-society-concert/",
-      "price": "$30.00",
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/04/NICS-Logo-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4982",
-      "title": "NICS presents a celebration of Beethoven",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-04-09",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/nics-presents-a-celebration-of-beethoven/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/NICS-Logo.jpg",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7610",
-      "title": "Fleetwood Magic: The Authentic Tribute to Fleetwood Mac",
-      "venue": "Cowichan Performing Arts Centre",
-      "city": "Duncan",
-      "date": "2027-04-09",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/fleetwood-magic-2027-04-09-2/",
-      "price": "$62",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/08/CPAC-27-1920x1080-.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-04-10",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -13223,30 +10883,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-04-10/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4989",
-      "title": "NICS presents a celebration of Beethoven",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-04-10",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/nics-presents-a-celebration-of-beethoven-2/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/NICS-Logo-1.jpg",
-      "genre": null
-    },
-    {
-      "id": "sidwilliams:the-comic-strippers-19-only-1",
-      "title": "The Comic Strippers (19+ ONLY)",
-      "venue": "Sid Williams Theatre",
-      "city": "Comox Valley",
-      "date": "2027-04-10",
-      "start_time": null,
-      "ticket_url": "https://www.sidwilliamstheatre.com/events/the-comic-strippers-19-only-1/",
-      "price": null,
-      "image_url": "https://www.sidwilliamstheatre.com/site/assets/files/850966/e874bd21-568b-4cb7-8939-3a203e47d358-3.800x800p50x50.jpg",
       "genre": null
     },
     {
@@ -13283,18 +10919,6 @@
       "ticket_url": "https://upstairs.ca/event/fridays-2/2027-04-16/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-12.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121257",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-04-16",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-04-16/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
       "genre": null
     },
     {
@@ -13346,18 +10970,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121258",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-04-23",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-04-23/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-04-24",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -13379,30 +10991,6 @@
       "ticket_url": "https://upstairs.ca/event/saturdays-2/2027-04-24/",
       "price": null,
       "image_url": "https://upstairs.ca/wp-content/uploads/2023/12/UPSTAIRS-WORDPRESS-EVENT-COVER-PHOTOS-11.png",
-      "genre": null
-    },
-    {
-      "id": "cowichanpac:7556",
-      "title": "Cowichan Symphony Society: Christian Kluxen & Jon Kimura Parker",
-      "venue": "Killy Theatre at Brentwood College",
-      "city": "Mill Bay",
-      "date": "2027-04-24",
-      "start_time": "19:30",
-      "ticket_url": "https://cowichanpac.ca/event/css-2027-04-24/",
-      "price": "$75",
-      "image_url": "https://cowichanpac.ca/wp-content/uploads/2026/07/28.-Kluxen-Parker-–-Mozart-and-Sibelius-1080x1080-1-450x450-1.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121004",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-04-29",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2027-04-29/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
       "genre": null
     },
     {
@@ -13430,18 +11018,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10121259",
-      "title": "Madeira Park Legion: Eddy Edrik",
-      "venue": "Madeira Park Legion",
-      "city": "Madeira Park",
-      "date": "2027-04-30",
-      "start_time": "18:00",
-      "ticket_url": "https://coastculture.com/event/madeira-park-legion-eddy-edrik/2027-04-30/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2025/05/Eddy-Edrik-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "duke_saloon:outlaw-saturdays-2_2027-05-01",
       "title": "OUTLAW SATURDAYS",
       "venue": "The Duke Saloon",
@@ -13466,18 +11042,6 @@
       "genre": null
     },
     {
-      "id": "coastculture:10123261",
-      "title": "Gibsons Legion: Singers Circle",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-05-06",
-      "start_time": "17:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session/2027-05-06/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
-      "genre": null
-    },
-    {
       "id": "qathet365:10009052",
       "title": "Lang Bay Song Circle",
       "venue": null,
@@ -13499,18 +11063,6 @@
       "ticket_url": "https://www.showpass.com/nightowls-2027-flex-packs/",
       "price": "$75–$175 CAD",
       "image_url": "https://doavub8d2uzrx.cloudfront.net/media/images/events/nanaimo-nightowls/images/cf062564-bd0.png",
-      "genre": null
-    },
-    {
-      "id": "coastculture:10121005",
-      "title": "Gibsons Legion: Jam Session",
-      "venue": "Gibsons Legion",
-      "city": "Gibsons",
-      "date": "2027-05-27",
-      "start_time": "19:00",
-      "ticket_url": "https://coastculture.com/event/gibsons-legion-singers-circle-jam-session-2/2027-05-27/",
-      "price": "Free",
-      "image_url": "https://coastculture.com/wp-content/uploads/2026/09/Gibsons-Jam-2026.jpg",
       "genre": null
     },
     {
@@ -13607,30 +11159,6 @@
       "ticket_url": "https://qathet365.ca/event/lang-bay-song-circle/2027-11-14/",
       "price": null,
       "image_url": null,
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4994",
-      "title": "NICS Christmas Concert",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-12-03",
-      "start_time": "19:30",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/nics-christmas-concert/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/NICS-Logo-2.jpg",
-      "genre": null
-    },
-    {
-      "id": "performingartscomoxvalley:4999",
-      "title": "NICS Christmas Concert",
-      "venue": "St Georges United Church",
-      "city": "Comox Valley",
-      "date": "2027-12-04",
-      "start_time": "14:00",
-      "ticket_url": "https://performingartscomoxvalley.ca/event/nics-christmas-concert-2/",
-      "price": null,
-      "image_url": "https://performingartscomoxvalley.ca/wp-content/uploads/2026/10/NICS-Logo-3.jpg",
       "genre": null
     },
     {
